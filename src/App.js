@@ -27,7 +27,7 @@ const Links = (x) => <div>
   <Link to="/events/cse/paper-presentation">Cse-paper</Link>
 </div>;
 
-const Default = ()=><div>Component has not yet created.</div>
+const Default = ()=><div>Component has not yet created. From the navbar branch</div>
 
 
 
