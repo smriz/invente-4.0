@@ -5,7 +5,7 @@ import Navigator from './Navigator'
 class Home extends React.Component{
 	render(){
 		return <div>
-			<Navigator/>
+			<Navigator title='Invente'/>
 		</div>;
 	}
 }
