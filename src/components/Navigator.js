@@ -7,6 +7,11 @@ class Navigator extends React.Component{
 				'Events' :'/events',
 				'Organizers':'/organizers',
 				'About Us':'/about-us',
+								'Aboudt Us':'/about-us',
+
+				'Aboutd Us':'/about-us',
+				'Adbout Us':'/about-us',
+
 				'Hospitality':'/hospitality'
 			}
 			this.state = {
@@ -17,7 +22,7 @@ class Navigator extends React.Component{
 			return (
 				<div className='navigator'>
 					<div className='main'>
-						{this.state.title}
+						<h3>{this.state.title}</h3>
 					</div>
 					<div className='links'>
 						{
