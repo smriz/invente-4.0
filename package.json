@@ -7,7 +7,7 @@
     "react-dom": "^16.4.2",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.4",
-    "dinofeed":"https://github.com/SSNINVENTE2k18/dinofeed.git"
+    "@ssn/dinofeed":"*"
   },
   "scripts": {
     "start": "react-scripts start",
