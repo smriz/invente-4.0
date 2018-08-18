@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 import {Route,BrowserRouter,Link} from 'react-router-dom';
 import Events from './events/Events'
+import Home from './components/Home';
 class App extends Component {
   render(){
     return (
         <BrowserRouter>
           <div className="App">
-            <Links/>
-            <Route exact path='/' component={Links}/>
+            <Route exact path='/' component={Home}/>
             <Route path='/events' component={Events}/>
             <Route path='/about-us' component={Default}/>
             <Route path='/organizers' component={Default}/>
@@ -21,7 +21,6 @@ class App extends Component {
 const Links = (x) => <div>
 
   <Link to="/">Home</Link>
-
   <Link to="/events">Events</Link>
   <Link to="/events/cse">Cse</Link>
   <Link to="/events/cse/paper-presentation">Cse-paper</Link>
