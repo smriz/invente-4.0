@@ -2,10 +2,6 @@
 # yarn lockfile v1
 
 
-"@ssn/dinofeed@*":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@ssn/dinofeed/-/dinofeed-1.0.2.tgz#11389292b2accb9f919ea645e234bfb6898f8a37"
-
 abab@^1.0.3:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/abab/-/abab-1.0.4.tgz#5faad9c2c07f60dd76770f71cf025b62a63cfd4e"
@@ -2017,6 +2013,10 @@ diffie-hellman@^5.0.0:
     miller-rabin "^4.0.0"
     randombytes "^2.0.0"
 
+"dinofeed@https://github.com/SSNINVENTE2k18/dinofeed.git":
+  version "1.0.2"
+  resolved "https://github.com/SSNINVENTE2k18/dinofeed.git#84507c30272a7e168f8c64e0d2bea1dc4e34a32d"
+
 dns-equal@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/dns-equal/-/dns-equal-1.0.0.tgz#b39e7f1da6eb0a75ba9c17324b34753c47e0654d"
@@ -3143,6 +3143,10 @@ hmac-drbg@^1.0.0:
 hoist-non-react-statics@^2.5.0:
   version "2.5.5"
   resolved "https://registry.yarnpkg.com/hoist-non-react-statics/-/hoist-non-react-statics-2.5.5.tgz#c5903cf409c0dfd908f388e619d86b9c1174cb47"
+
+holi@*:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/holi/-/holi-1.0.2.tgz#de0538aa8ed16437ed87f6c2be568c6478566f21"
 
 home-or-tmp@^2.0.0:
   version "2.0.0"

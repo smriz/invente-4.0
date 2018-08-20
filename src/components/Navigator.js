@@ -7,11 +7,6 @@ class Navigator extends React.Component{
 				'Events' :'/events',
 				'Organizers':'/organizers',
 				'About Us':'/about-us',
-								'Aboudt Us':'/about-us',
-
-				'Aboutd Us':'/about-us',
-				'Adbout Us':'/about-us',
-
 				'Hospitality':'/hospitality'
 			}
 			this.state = {
@@ -20,17 +15,19 @@ class Navigator extends React.Component{
 		}
 		render(){
 			return (
-				<div className='navigator'>
-					<div className='main'>
-						<h3>{this.state.title}</h3>
+				<div className='holi'>
+					<div className='row navigator y-center  space-between m-col'>
+						<div className='main row fluid x-center'>
+							<h3>{this.state.title}</h3>
+						</div>
+						<div className='links row x-center m-scroller'>
+							{
+								Object.keys(this.routeMap).map(key => 
+	  								<Link className='16p-8p' to={this.routeMap[key]}>{key}</Link>
+	  							)
+							}
+						</div>		
 					</div>
-					<div className='links'>
-						{
-							Object.keys(this.routeMap).map(key => 
-  								<Link to={this.routeMap[key]}>{key}</Link>
-  							)
-						}
-					</div>		
 				</div>
 			);
 		}
