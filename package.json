@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "dinofeed": "https://github.com/SSNINVENTE2k18/dinofeed.git",
+    "holi": "*",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-router-dom": "^4.3.1",
@@ -14,6 +16,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "scss-watch":"sass src/res/style.scss:src/res/style.css --watch"
+    "scss-watch": "sass src/res/style.scss:src/res/style.css --watch"
   }
 }
