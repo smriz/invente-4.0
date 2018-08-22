@@ -17,4 +17,10 @@ a {
   top: 0px;
   padding: 8px; }
 
+.contact-card {
+  border: 1px solid #eee;
+  border-radius: 5px;
+  display: inline-block;
+  padding: 8px 16px; }
+
 /*# sourceMappingURL=style.css.map */
