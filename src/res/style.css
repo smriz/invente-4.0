@@ -10,5 +10,11 @@ a {
   .navigator .links {
     overflow: scroll;
     background: #eee; } }
+.event-detail .close-btn {
+  color: white;
+  font-size: 2em;
+  right: 0px;
+  top: 0px;
+  padding: 8px; }
 
 /*# sourceMappingURL=style.css.map */
