@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@ssn/dinofeed@^1.0.6":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@ssn/dinofeed/-/dinofeed-1.0.6.tgz#dede0af851db7a85dac8b46b75cc82f0237649c6"
+"@ssn/dinofeed@*":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@ssn/dinofeed/-/dinofeed-2.0.0.tgz#6d99201cb8b7255a4f228e6a072e158d5bdee68c"
   dependencies:
     axios "^0.18.0"
     lodash "^4.17.10"
@@ -2027,10 +2027,6 @@ diffie-hellman@^5.0.0:
     bn.js "^4.1.0"
     miller-rabin "^4.0.0"
     randombytes "^2.0.0"
-
-"dinofeed@https://github.com/SSNINVENTE2k18/dinofeed.git":
-  version "1.0.2"
-  resolved "https://github.com/SSNINVENTE2k18/dinofeed.git#84507c30272a7e168f8c64e0d2bea1dc4e34a32d"
 
 dns-equal@^1.0.0:
   version "1.0.0"
