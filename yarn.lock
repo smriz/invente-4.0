@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@ssn/dinofeed@*":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@ssn/dinofeed/-/dinofeed-2.0.0.tgz#6d99201cb8b7255a4f228e6a072e158d5bdee68c"
+"@ssn/dinofeed@^2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@ssn/dinofeed/-/dinofeed-2.0.2.tgz#00643d5de57053ecad5a750eaeeee672b6e56a00"
   dependencies:
     axios "^0.18.0"
     lodash "^4.17.10"
