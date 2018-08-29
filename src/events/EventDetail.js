@@ -1,29 +1,73 @@
 import React from 'react';
-import {department} from '@ssn/dinofeed';
+import {department,eventdetail} from '@ssn/dinofeed';
 import {Link} from 'react-router-dom';
 import ContactCard from '../components/ContactCard'
 import Navigator from '../components/Navigator';
 class EventDetail extends React.Component{
-	constructor(){
-		super();
+	constructor(props){
+		super(props);
+
 	}
 	render(){
+		let {dept,slug} = this.props.match.params;
+		let event = eventdetail[dept][slug];
+		console.log(event);
 		return <div className='col event-detail fluid'>
-				<Navigator title='Invnete'/>
+				  {/*<Navigator title='Invnete'/>*/}
 				<div className='relative fluid'>
-					<span className='absolute close-btn'>X</span>
-					<img className='fluid' src='https://source.unsplash.com/random/400x200?coding'/>	
+					<Link to={`/events/${dept}`} className='absolute close-btn'>X</Link>
+					<img className='fluid' src='https://source.unsplash.com/random/400x200?coding'/>
 				</div>
-					<h1 className='8m-8m'>Codolympics</h1>
-					<h5 className='8m-8m'>some random irrelevant tagline</h5>
+
+				<div className='8p-8p'>
+					<h1 className='8m-8m'>{event.eventname}</h1>
+					<h5 style={{color:'#888',marginTop:'-16px'}} className='8m-8m'>{event.tagline}</h5>
+					<div class="fb-like" data-href={`https://www.ssninvente.com/fb/events/${dept}/${slug}`} data-layout="standard" data-width='300' data-action="like" data-size="small" data-colorscheme='dark' data-show-faces="true" data-share="true"></div>
+
+					<p>{event.description}</p>
+				</div>
 					<div>
-						<ContactCard name='akash milton' phoneNo='8226123'/>
-						<ContactCard name='akash milton' phoneNo='8226123'/>
+						<ContactCard contact={event.eventHeads[0]}/>
+						<ContactCard contact={event.eventHeads[1]}/>
 
 					</div>
-					<div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="standard" data-action="like" data-size="small" data-colorscheme='dark' data-show-faces="true" data-share="true"></div>
 				</div>;
 	};
 }
+
+/*
+{
+  "dept": "bme",
+  "slug": "biogonize",
+  "last_updated": "8/26/2018 13:06:45",
+  "description": "Totally 3 rounds,based on general engineering stuffs.And a team of 2 should participate",
+  "eventtype": "Technical",
+  "tagline": "It's not just your brains that needs to play!",
+  "eventname": "BIOGONIZE",
+  "notes": "",
+  "eventHeads": [
+    {
+      "name": "Sivaranjani.M",
+      "email": "siva.rj98@gmail.com",
+      "contact": "9940425108"
+    },
+    {
+      "name": "Sowmiya.M",
+      "email": "sowmi18997@gmail.com",
+      "contact": "9629043022"
+    }
+  ],
+  "attachments": [],
+  "rules": [
+    [],
+    "Fast video will be played and u have to identify the things in that video.The one who find maximum things wins the game",
+    "U will be given few points using that points u should buy waste material and to make model out of that waste",
+    "Rapid fire round",
+    []
+  ]
+}"
+
+
+*/
 
 export default EventDetail;
