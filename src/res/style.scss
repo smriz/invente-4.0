@@ -47,3 +47,89 @@ a{
 	display:inline-block;
 	padding:8px 16px;
 }
+
+
+/*Organisers Page css */
+.card{
+	display: inline-block;
+	width: 44%;
+	//background-color: #eaeae5;
+	//box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+	text-align: center;
+	margin-left:27%;
+
+	img{
+		width: 100px;
+		height: 100px;
+		border-radius: 50%;
+		margin-top:3%;
+	}
+}
+#staff-coordinator,#student-coordinator{
+	margin-top:20px;
+}
+#card-set{
+	display:flex;
+	width:100%;
+	flex:50% 1;
+	justify-content: center;
+	flex-direction: row;
+	flex-wrap: wrap;
+
+	.card-set-child{
+		display: inline-block;
+		padding:5px;
+		width:25%;
+		margin:12px;
+		//background-color: #eaeae5;
+		//box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+		border-radius:15px;
+
+
+		 img{
+			width:100px;
+			height:100px;
+			margin:9px;
+			border-radius: 50%;
+			position: relative;
+             left: 31%;
+		}
+		#staff-name{
+			font-size:18px;
+			text-align:center;
+			margin:0px;
+			 .dept-name{
+			  margin-top:0px;  
+			 }
+
+		}
+		
+	}
+	.card-set-child:nth-last-child(1){
+		margin-left: 29%;
+		@media only screen and (orientation:'portrait'){
+		  margin-left:12px;
+		}
+	}
+
+	@media only screen and (orientation:'portrait'){
+		display: flex;
+		width:100%;
+		flex-wrap: wrap;
+		.card-set-child{
+		  display: flex;
+		  flex-direction: column;
+		  margin-right: 23px;
+		  width:34%;
+	      img{
+	    	  width:63px;
+			   height:63px; 
+			   margin-left:0px; 
+		  }
+		  p{
+			  text-align: center;
+		  }
+	   }
+	}
+
+}
