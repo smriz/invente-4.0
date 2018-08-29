@@ -1,26 +1,111 @@
 body {
   margin: 0px;
-  padding: 0px; }
+  padding: 0px;
+}
 
 a {
   text-decoration: none;
-  color: inherit; }
+  color: inherit;
+}
 
 @media screen and (orientation: portrait) {
   .navigator .links {
     overflow: scroll;
-    background: #eee; } }
+    background: #eee;
+  }
+}
 .event-detail .close-btn {
   color: white;
   font-size: 2em;
   right: 0px;
   top: 0px;
-  padding: 8px; }
+  padding: 8px;
+}
 
 .contact-card {
   border: 1px solid #eee;
   border-radius: 5px;
   display: inline-block;
-  padding: 8px 16px; }
+  padding: 8px 16px;
+}
+
+/*Organisers Page css */
+.card {
+  display: inline-block;
+  width: 44%;
+  text-align: center;
+  margin-left: 27%;
+}
+.card img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-top: 3%;
+}
+
+#staff-coordinator, #student-coordinator {
+  margin-top: 20px;
+}
+
+#card-set {
+  display: flex;
+  width: 100%;
+  flex: 50% 1;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#card-set .card-set-child {
+  display: inline-block;
+  padding: 5px;
+  width: 25%;
+  margin: 12px;
+  border-radius: 15px;
+}
+#card-set .card-set-child img {
+  width: 100px;
+  height: 100px;
+  margin: 9px;
+  border-radius: 50%;
+  position: relative;
+  left: 31%;
+}
+#card-set .card-set-child #staff-name {
+  font-size: 18px;
+  text-align: center;
+  margin: 0px;
+}
+#card-set .card-set-child #staff-name .dept-name {
+  margin-top: 0px;
+}
+#card-set .card-set-child:nth-last-child(1) {
+  margin-left: 29%;
+}
+@media only screen and (orientation: portrait) {
+  #card-set .card-set-child:nth-last-child(1) {
+    margin-left: 12px;
+  }
+}
+@media only screen and (orientation: portrait) {
+  #card-set {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  #card-set .card-set-child {
+    display: flex;
+    flex-direction: column;
+    margin-right: 23px;
+    width: 34%;
+  }
+  #card-set .card-set-child img {
+    width: 63px;
+    height: 63px;
+    margin-left: 0px;
+  }
+  #card-set .card-set-child p {
+    text-align: center;
+  }
+}
 
 /*# sourceMappingURL=style.css.map */
