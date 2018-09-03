@@ -11,7 +11,13 @@
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
     <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
     <link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet">
-    <link rel="stylesheet" href="https://unpkg.com/holi@1.0.2/lib/holi.css"/>
+    <link type="text/css" rel="stylesheet" href="https://unpkg.com/holi@1.0.2/lib/holi.css"/>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<script src="https://wchat.freshchat.com/js/widget.js"></script>
+
+
+
+
     <!--
       Notice the use of %PUBLIC_URL% in the tags above.
       It will be replaced with the URL of the `public` folder during the build.
@@ -47,4 +53,10 @@
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
   </body>
+  <script>
+  window.fcWidget.init({
+    token: "7ba0286a-0300-49d3-93bb-8b637a383eeb",
+    host: "https://wchat.freshchat.com"
+  });
+</script>
 </html>

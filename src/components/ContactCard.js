@@ -7,14 +7,12 @@ class ContactCard extends React.Component{
 	render(){
 		let {name,email,contact} = this.props.contact;
 		return (
-			<a className='contact-card pointer row y-center' style={{display:'inline-flex',width:'auto'}}>
-			<div className='8p-8p'>
-				<img style={{width:'50',height:'50',borderRadius:'50%'}} src={`http://pikmail.herokuapp.com/${email}?size=50`}/>
-			</div>
-				<div className='col'>
-					<div className='8p-' style={{borderBottom:'1px solid #eee'}}>{name}</div>
-					<div className='8p-'>{contact}</div>
-				</div>
+			<a className='contact-card pointer 8m-8m col x-center' style={{display:'inline-flex',width:'auto'}}>
+					<img style={{width:'100px',height:'100px',borderRadius:'50%'}} src={`http://pikmail.herokuapp.com/${email}?size=100`}/>
+					<div className='col'>
+						<div className='text-center'>{name}</div>
+						<div className='text-center'>{contact}</div>
+					</div>
 
 			</a>
 		);

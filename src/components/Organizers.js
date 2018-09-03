@@ -1,5 +1,5 @@
 import React from "react";
-
+import Navigator from './Navigator'
 class Organizers extends React.Component{
     constructor(props){
         super(props);
@@ -57,6 +57,8 @@ class Organizers extends React.Component{
     }
     render(){
         return (
+            <div>
+            <Navigator title={'Invente'}/>
             <div id="organizers-section">
             <div style={{textAlign:'center',fontSize:'30px',fontWeight:'300px'}}><p>Advisor of Student Affairs</p></div>
                   <div id="head-of-all">
@@ -67,29 +69,30 @@ class Organizers extends React.Component{
                   </div>
                   <div id="staff-coordinator">
                   <div style={{textAlign:'center',fontSize:'20px',fontWeight:'100px'}}><p>Staff Co-ordinators</p></div>
-                  <div id="card-set">
+                  <div className="card-set">
                   {
                       this.staff.map(x => <div className="card-set-child" key={"fac-"+x}>
                           <img src={"https://images.ssninvente.com/organisers/fac-"+x.img+".jpg"} alt={"staff-image"+x }/>
-                          <p id="staff-name">{x.name}<br/>
-                          <h3 class="dept-name">{x.img}</h3></p>
-                          
+                          <p className="staff-name">{x.name}<br/>
+                          <h3 className="dept-name">{x.img}</h3></p>
+
                       </div>)
                   }
                   </div>
                   </div>
                   <div id="student-coordinator">
                   <div style={{textAlign:'center',fontSize:'20px',fontWeight:'100px'}}><p>Student Co-ordinators</p></div>
-                  <div id="card-set">
+                  <div className="card-set">
                   {
                       this.staff.map(x => <div className="card-set-child" key={"stu-"+x}>
                           <img src={"https://images.ssninvente.com/organisers/fac-"+x.img+".jpg"} alt={"student-image"+x} />
-                          <p id="staff-name">{x.name}<br/>
-                          <h3 class="dept-name">{x.img}</h3></p>
+                          <p className="staff-name">{x.name}<br/>
+                          <h3 className="dept-name">{x.img}</h3></p>
                       </div>)
                   }
                   </div>
                   </div>
+                </div>
                 </div>
         );
     }

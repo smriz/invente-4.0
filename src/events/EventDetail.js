@@ -2,6 +2,7 @@ import React from 'react';
 import {department,eventdetail} from '@ssn/dinofeed';
 import {Link} from 'react-router-dom';
 import ContactCard from '../components/ContactCard'
+import FA from 'react-fontawesome';
 import Navigator from '../components/Navigator';
 class EventDetail extends React.Component{
 	constructor(props){
@@ -13,24 +14,31 @@ class EventDetail extends React.Component{
 		let event = eventdetail[dept][slug];
 		console.log(event);
 		return <div className='col event-detail fluid'>
-				  {/*<Navigator title='Invnete'/>*/}
 				<div className='relative fluid'>
 					<Link to={`/events/${dept}`} className='absolute close-btn'>X</Link>
 					<img className='fluid' src='https://source.unsplash.com/random/400x200?coding'/>
+					<div className={'absolute col x-start'} style={{bottom:'0'}}>
+						<h1 className='8m-8m'>{event.eventname}</h1>
+						<h5  className='8m-8m'>{event.tagline}</h5>
+					</div>
 				</div>
-
 				<div className='8p-8p'>
-					<h1 className='8m-8m'>{event.eventname}</h1>
-					<h5 style={{color:'#888',marginTop:'-16px'}} className='8m-8m'>{event.tagline}</h5>
-					<div class="fb-like" data-href={`https://www.ssninvente.com/fb/events/${dept}/${slug}`} data-layout="standard" data-width='300' data-action="like" data-size="small" data-colorscheme='dark' data-show-faces="true" data-share="true"></div>
-
+					<div className="fb-like" data-href={`https://www.ssninvente.com/fb/events/${dept}/${slug}`} data-layout="standard" data-width='300' data-action="like" data-size="small" data-colorscheme='dark' data-show-faces="true" data-share="true"></div>
 					<p>{event.description}</p>
-				</div>
-					<div>
+
+					{event.notes!="" && <div className='notes'>
+					<strong><FA style={{marginRight:'8px'}} name='bullhorn'/>Note </strong>
+						{event.notes}
+					</div>}
+					<div className={'row space-between'}>
 						<ContactCard contact={event.eventHeads[0]}/>
 						<ContactCard contact={event.eventHeads[1]}/>
-
 					</div>
+					<div>
+<div class="fb-comments" data-href={`https://www.ssninvente.com/fb/events/${dept}/${slug}`} data-width="300" data-numposts="5"></div>
+					</div>
+				</div>
+
 				</div>;
 	};
 }

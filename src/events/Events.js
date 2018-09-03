@@ -7,11 +7,11 @@ import DepartmentList from './DepartmentList';
 
 class Events extends React.Component{
 	constructor(){
-		super();	
+		super();
 	}
 
 	render(){
-		return( 
+		return(
 			<div className='holi'>
 				<Route exact path= '/events'             component={DepartmentList}/>
 				<Route exact path= '/events/:dept'       component={EventList}/>

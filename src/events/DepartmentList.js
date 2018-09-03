@@ -11,9 +11,9 @@ class DepartmentList extends React.Component{
 					<Navigator title='Invnete'/>
 					<div className='row wrap x-center'>
 						{Object.keys(department).map(x=><Link to={`/events/${x}`} className='x-center 8m-8m 8p-8p'>
-							<img className='rounded'  src={`https://source.unsplash.com/random/150x150?${x},event`}/>
-							<div className='8p-16p text-center'>	
-								{x}
+							<img className='rounded' style={{width:'150px'}}  src={`http://images.ssninvente.com.s3.amazonaws.com/icons/${x}.svg`}/>
+							<div className='8p-16p text-center'>
+								{department[x].displayName}
 								</div>
 						</Link>)}
 					</div>;

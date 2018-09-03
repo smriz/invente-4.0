@@ -3,10 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@ssn/dinofeed": "^2.0.2",
+    "@ssn/dinofeed": "*",
     "holi": "*",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
+    "react-fontawesome": "^1.6.1",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.4"
   },
@@ -16,6 +17,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "scss-watch": "sass src/res/style.scss:src/res/style.css --watch",
-    "deploy": " s3cmd --access_key=AKIAJTFIO6HPZLM3K6VQ --secret_key=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 sync build/ s3://dev.ssninvente.com/"
+    "deploy":"AWS_ACCESS_KEY_ID=AKIAJTFIO6HPZLM3K6VQ AWS_SECRET_ACCESS_KEY=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 aws s3 sync build/ s3://staging.ssninvente.com"
   }
 }
