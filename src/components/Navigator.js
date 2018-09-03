@@ -1,5 +1,5 @@
 import React from 'react';
-import {Link} from 'react-router-dom';
+import {NavLink} from 'react-router-dom';
 class Navigator extends React.Component{
 		constructor(props){
 			super(props);
@@ -22,11 +22,11 @@ class Navigator extends React.Component{
 						</div>
 						<div className='links row x-center m-scroller'>
 							{
-								Object.keys(this.routeMap).map(key => 
-	  								<Link className='16p-8p' to={this.routeMap[key]}>{key}</Link>
+								Object.keys(this.routeMap).map(key =>
+	  								<NavLink className='16p-8p' to={this.routeMap[key]}>{key}</NavLink>
 	  							)
 							}
-						</div>		
+						</div>
 					</div>
 				</div>
 			);
