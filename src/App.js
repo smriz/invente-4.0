@@ -19,13 +19,7 @@ class App extends Component {
   }
 }
 // temporary one just for nav purpose
-const Links = (x) => <div>
 
-  <Link to="/">Home</Link>
-  <Link to="/events">Events</Link>
-  <Link to="/events/cse">Cse</Link>
-  <Link to="/events/cse/paper-presentation">Cse-paper</Link>
-</div>;
 
 const Default = ()=><div>Component has not yet created. From the navbar branch</div>
 

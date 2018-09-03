@@ -11,13 +11,14 @@ class EventList extends React.Component{
 
 		let {dept} = this.props.match.params;
 		return <div>
-				<Navigator title={'Invente'}/>
-				<div className='row wrap centerify'>
+				<div style={{minHeight:'90vh'}} className='row wrap centerify'>
 				{Object.keys(eventdetail[dept]).map(x =>
-					<Link to={`/events/${dept}/${x}`} className='x-center 8m-8m 8p-8p'>
-						<img className='rounded' style={{width:'150px'}} src={`https://api.adorable.io/avatars/150/${x}.png`}/>
+					<Link to={`/events/${dept}/${x}`} className='centerify 8m-8m 8p-8p' style={{display:'inline-flex'}}>
+						<div className='col centerify'>
+							<img className='rounded' style={{width:'150px'}} src={`https://api.adorable.io/avatars/150/${x}.png`}/>
 							<div className='8p-16p text-center'>
 								{eventlist[dept][x]}
+							</div>
 							</div>
 					</Link>
 				)}

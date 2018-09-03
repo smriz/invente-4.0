@@ -8,8 +8,7 @@ class DepartmentList extends React.Component{
 	}
 	render(){
 		return <div>
-					<Navigator title='Invnete'/>
-					<div className='row wrap x-center maxi960' style={{margin:'auto'}}>
+					<div  style={{minHeight:'100vh',margin:'auto'}} className='row wrap centerify maxi960'>
 						{Object.keys(department).map(x=><Link  to={`/events/${x}`} className='x-center 8m-8m 8p-8p department-link'>
 							<img className='rounded'   src={`http://images.ssninvente.com.s3.amazonaws.com/icons/${x}.svg`}/>
 							<div className='8p-16p text-center'>

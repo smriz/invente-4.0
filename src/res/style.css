@@ -7,11 +7,22 @@ a {
   text-decoration: none;
   color: inherit; }
 
-.navigator .links a.active {
-  background: #ff7f50;
-  color: white;
-  border-radius: 8px;
-  transition: 0.5s; }
+.breadcrumbs {
+  padding: 4px;
+  box-shadow: 4px 2px 2px #eee; }
+
+.navigator {
+  box-shadow: 2px 4px 4px #eee;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: white;
+  z-index: 9; }
+  .navigator .links a.active {
+    background: #ff7f50;
+    color: white;
+    border-radius: 8px;
+    transition: 0.5s; }
 
 @media screen and (orientation: portrait) {
   .navigator .links {

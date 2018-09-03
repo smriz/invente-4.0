@@ -12,19 +12,32 @@ class EventDetail extends React.Component{
 	render(){
 		let {dept,slug} = this.props.match.params;
 		let event = eventdetail[dept][slug];
-		console.log(event);
+		// console.log(event);
 		return <div className='col event-detail fluid'>
-				<div className='relative fluid'>
-					<Link to={`/events/${dept}`} className='absolute close-btn'>X</Link>
-					<img className='fluid' src='https://source.unsplash.com/random/400x200?coding'/>
-					<div className={'absolute col x-start'} style={{bottom:'0'}}>
-						<h1 className='8m-8m'>{event.eventname}</h1>
+{
+				// <div className='relative fluid'>
+				// 	<Link to={`/events/${dept}`} className='absolute close-btn'>X</Link>
+				// 	<img className='fluid' src={`https://source.unsplash.com/random/400x200?${slug}`}/>
+				// 	<div className={'absolute col x-start'} style={{bottom:'0'}}>
+				// 		<h1 className='8m-8m'>{event.eventname}</h1>
+				// 		<h5  className='8m-8m'>{event.tagline}</h5>
+				// 	</div>
+				// </div>
+}
+			{
+			// <div className='row space-between'>
+			// 	<div className='row y-center'>
+			// 		<img style={{height:'40px',width:'40px'}}className='fluid' src={`https://api.adorable.io/avatars/80/${event.slug}.png`}/>
+			// 		<h1>{event.eventname}</h1>
+			// 	</div>
+			// 		<Link to={`/events/${dept}`} className='absolute close-btn'>X</Link>
+				}
+				<div className='8p-8p maxi960'>
+				 		<h1>{event.eventname}</h1>
 						<h5  className='8m-8m'>{event.tagline}</h5>
-					</div>
-				</div>
-				<div className='8p-8p'>
-					<div className="fb-like" data-href={`https://www.ssninvente.com/fb/events/${dept}/${slug}`} data-layout="standard" data-width='300' data-action="like" data-size="small" data-colorscheme='dark' data-show-faces="true" data-share="true"></div>
-					<p>{event.description}</p>
+
+						<div className="fb-like" data-href={`https://www.ssninvente.com/fb/events/${dept}/${slug}`} data-layout="standard" data-width='300' data-action="like" data-size="small" data-colorscheme='dark' data-show-faces="true" data-share="true"></div>
+						<p>{event.description}</p>
 
 					{event.notes!="" && <div className='notes'>
 					<strong><FA style={{marginRight:'8px'}} name='bullhorn'/>Note </strong>
