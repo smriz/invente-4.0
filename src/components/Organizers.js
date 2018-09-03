@@ -30,25 +30,25 @@ class Organizers extends React.Component{
             img:"Chemical"
         }]
         this.student=[{
-            name:"Sandana karuppan",
+            name:"Rahul Sriram",
             img:"IT"
         },{
-            name:"Sujaudeen",
+            name:"Sharan Sundar",
             img:"CSE"
         },{
-            name:"Nagarajan",
+            name:"Meiyappan",
             img:"EEE"
         },{
-            name:"Thiruvenkatesan",
+            name:"Kaushik",
             img:"ECE"
         },{
-            name:"ShivaPriya",
+            name:"Dharmasekaran",
             img:"Civil"
         },{
-            name:"Dhanalakshmi",
+            name:"Jerome Jaykar",
             img:"BME"
         },{
-             name:"Vimal Samsingh",
+             name:"Yashawin Harathi",
              img:"Mechanical"
         },{
             name:"Balaji",
@@ -71,8 +71,8 @@ class Organizers extends React.Component{
                   <div style={{textAlign:'center',fontSize:'20px',fontWeight:'100px'}}><p>Staff Co-ordinators</p></div>
                   <div className="card-set">
                   {
-                      this.staff.map(x => <div className="card-set-child" key={"fac-"+x}>
-                          <img src={"https://images.ssninvente.com/organisers/fac-"+x.img+".jpg"} alt={"staff-image"+x }/>
+                      this.staff.map((x,index) => <div className="card-set-child" key={"fac-"+index}>
+                          <img src={"https://images.ssninvente.com/organisers/fac-"+x.img+".jpg"} alt={"staff-image-"+index }/>
                           <p className="staff-name">{x.name}<br/>
                           <h3 className="dept-name">{x.img}</h3></p>
 
@@ -84,8 +84,8 @@ class Organizers extends React.Component{
                   <div style={{textAlign:'center',fontSize:'20px',fontWeight:'100px'}}><p>Student Co-ordinators</p></div>
                   <div className="card-set">
                   {
-                      this.staff.map(x => <div className="card-set-child" key={"stu-"+x}>
-                          <img src={"https://images.ssninvente.com/organisers/fac-"+x.img+".jpg"} alt={"student-image"+x} />
+                      this.student.map((x,index) => <div className="card-set-child" key={"stu-"+index}>
+                          <img src={"https://images.ssninvente.com/organisers/sc-"+x.img+".jpg"} alt={"student-image-"+index} />
                           <p className="staff-name">{x.name}<br/>
                           <h3 className="dept-name">{x.img}</h3></p>
                       </div>)
