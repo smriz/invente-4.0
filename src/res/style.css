@@ -1,15 +1,18 @@
 body {
   margin: 0px;
   padding: 0px;
-  font-family: 'Titillium Web', 'sans-serif'; }
+  font-family: "Titillium Web", "sans-serif";
+}
 
 a {
   text-decoration: none;
-  color: inherit; }
+  color: inherit;
+}
 
 .breadcrumbs {
   padding: 4px;
-  box-shadow: 4px 2px 2px #eee; }
+  box-shadow: 4px 2px 2px #eee;
+}
 
 .navigator {
   box-shadow: 2px 4px 4px #eee;
@@ -17,64 +20,79 @@ a {
   left: 0;
   right: 0;
   background: white;
-  z-index: 9; }
-  .navigator .links a.active {
-    background: #ff7f50;
-    color: white;
-    border-radius: 8px;
-    transition: 0.5s; }
+  z-index: 9;
+}
+.navigator .links a.active {
+  background: #ff7f50;
+  color: white;
+  border-radius: 8px;
+  transition: 0.5s;
+}
 
 @media screen and (orientation: portrait) {
   .navigator .links {
     overflow: scroll;
-    background: #eee; } }
+    background: #eee;
+  }
+}
 .department-link {
-  border: 1px solid transparent; }
-  .department-link img {
-    width: 150px; }
+  border: 1px solid transparent;
+}
+.department-link img {
+  width: 150px;
+}
 
 .event-detail .notes {
   border: 1px solid #000;
   padding: 8px 8px;
-  border-radius: 5px; }
+  border-radius: 5px;
+}
 .event-detail .absolute h1, .event-detail .absolute h5 {
   background: #ff7f50;
   color: white;
-  display: inline-flex; }
+  display: inline-flex;
+}
 .event-detail .close-btn {
   color: white;
   font-size: 2em;
   right: 0px;
   top: 0px;
-  padding: 8px; }
+  padding: 8px;
+}
 
 .contact-card {
   border: 1px solid #eee;
   border-radius: 5px;
   display: inline-block;
-  padding: 8px 16px; }
+  padding: 8px 16px;
+}
 
 .holi .col.x-start {
-  align-items: flex-start; }
+  align-items: flex-start;
+}
 
 .maxi960 {
   max-width: 960px;
-  margin: auto; }
+  margin: auto;
+}
 
 /*Organisers Page css */
 .card {
   display: inline-block;
   width: 44%;
   text-align: center;
-  margin-left: 27%; }
-  .card img {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    margin-top: 3%; }
+  margin-left: 27%;
+}
+.card img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-top: 3%;
+}
 
 #staff-coordinator, #student-coordinator {
-  margin-top: 20px; }
+  margin-top: 20px;
+}
 
 .card-set {
   display: flex;
@@ -82,46 +100,104 @@ a {
   flex: 50% 1;
   justify-content: center;
   flex-direction: row;
-  flex-wrap: wrap; }
-  .card-set .card-set-child {
-    display: inline-block;
-    padding: 5px;
-    width: 25%;
-    margin: 12px;
-    border-radius: 15px; }
-    .card-set .card-set-child img {
-      width: 100px;
-      height: 100px;
-      margin: 9px;
-      border-radius: 50%;
-      position: relative;
-      left: 31%; }
-    .card-set .card-set-child .staff-name {
-      font-size: 18px;
-      text-align: center;
-      margin: 0px; }
-      .card-set .card-set-child .staff-name .dept-name {
-        margin-top: 0px; }
+  flex-wrap: wrap;
+}
+.card-set .card-set-child {
+  display: inline-block;
+  padding: 5px;
+  width: 25%;
+  margin: 12px;
+  border-radius: 15px;
+}
+.card-set .card-set-child img {
+  width: 100px;
+  height: 100px;
+  margin: 9px;
+  border-radius: 50%;
+  position: relative;
+  left: 31%;
+}
+.card-set .card-set-child .staff-name {
+  font-size: 18px;
+  text-align: center;
+  margin: 0px;
+}
+.card-set .card-set-child .staff-name .dept-name {
+  margin-top: 0px;
+}
+.card-set .card-set-child:nth-last-child(1) {
+  margin-left: 29%;
+}
+@media only screen and (orientation: portrait) {
   .card-set .card-set-child:nth-last-child(1) {
-    margin-left: 29%; }
-    @media only screen and (orientation: portrait) {
-      .card-set .card-set-child:nth-last-child(1) {
-        margin-left: 12px; } }
-  @media only screen and (orientation: portrait) {
-    .card-set {
-      display: flex;
-      width: 100%;
-      flex-wrap: wrap; }
-      .card-set .card-set-child {
-        display: flex;
-        flex-direction: column;
-        margin-right: 23px;
-        width: 34%; }
-        .card-set .card-set-child img {
-          width: 63px;
-          height: 63px;
-          margin-left: 0px; }
-        .card-set .card-set-child p {
-          text-align: center; } }
+    margin-left: 12px;
+  }
+}
+@media only screen and (orientation: portrait) {
+  .card-set {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  .card-set .card-set-child {
+    display: flex;
+    flex-direction: column;
+    margin-right: 23px;
+    width: 34%;
+  }
+  .card-set .card-set-child img {
+    width: 63px;
+    height: 63px;
+    margin-left: 0px;
+  }
+  .card-set .card-set-child p {
+    text-align: center;
+  }
+}
+
+/*HOME PAGE */
+#main-landing {
+  height: 690px;
+  background-color: #ff7f50;
+}
+
+#about-invente {
+  height: 500px;
+  background-color: #ffe450;
+}
+#about-invente #head-section {
+  position: relative;
+  top: 12px;
+  left: 42%;
+  width: 10%;
+}
+#about-invente #head-section h3 {
+  margin: 0;
+  font-size: 40px;
+}
+#about-invente #main-invente-section {
+  position: relative;
+  top: 50px;
+  width: 58%;
+}
+#about-invente #main-invente-section #para-section {
+  margin-left: 30px;
+}
+#about-invente #main-invente-section #para-section p {
+  margin-top: 0px;
+}
+@media screen and (orientation: portrait) {
+  #about-invente #main-invente-section {
+    width: 80%;
+  }
+  #about-invente #main-invente-section #para-section p {
+    font-size: 13px;
+  }
+}
+
+#star-events {
+  height: 400px;
+  background-color: aquamarine;
+}
 
 /*# sourceMappingURL=style.css.map */

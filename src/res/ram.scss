@@ -82,3 +82,51 @@
 	}
 
 }
+
+
+/*HOME PAGE */
+#main-landing{
+    height:690px;
+    background-color:#ff7f50
+}
+#about-invente{
+    height:500px;
+    background-color: #ffe450;
+    #head-section{
+        position: relative;
+        top:12px;
+        left:42%;
+        width:10%;
+        h3{
+            margin: 0;
+            font-size: 40px;
+        }
+    }
+    #main-invente-section{
+        position: relative;
+        top:50px;
+        width:58%;
+        #para-section{
+            margin-left:30px;
+         p{
+          margin-top: 0px;
+         }
+        }
+     }
+
+     @media screen and (orientation:'portrait'){
+        #main-invente-section{
+            width:80%;
+            #para-section{
+                p{
+                    font-size:13px;
+                }
+            }
+        }
+    }
+}
+
+#star-events{
+    height:400px;
+    background-color: aquamarine;
+}
