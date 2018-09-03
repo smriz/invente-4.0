@@ -5,6 +5,7 @@ import EventDetail from './EventDetail';
 import EventList from './EventList';
 import DepartmentList from './DepartmentList';
 import FA from 'react-fontawesome';
+import _ from 'lodash';
 class Events extends React.Component{
 	constructor(props){
 		super(props);
@@ -15,10 +16,12 @@ class Events extends React.Component{
 		return(
 			<div className='holi'>
 					<Navigator title="Invente"/>
-					<div className='breadcrumbs row centerify'>
-				 { this.props.location.pathname.split('/').splice(1).map((x,i,arr)=>
-						[<FA name="caret-right"/> ,<Link to={"/"+arr.join('/')}>{x}</Link>]
-				 )}
+					<div className=' breadcrumbs row centerify'>
+				 {
+					 this.props.location.pathname.split('/').splice(1).map((x,i,arr) =>
+						[<FA style={{margin:'auto 8px'}}name="angle-right"/>,<Link to={"/"+_.slice(arr,0,i+1).join('/')}>{x}</Link>]
+
+				)}
 				 </div>
 
 				<Route exact path= '/events'             component={DepartmentList}/>

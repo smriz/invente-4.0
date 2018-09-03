@@ -1,5 +1,5 @@
 import React from 'react';
-import {NavLink} from 'react-router-dom';
+import {NavLink,Link} from 'react-router-dom';
 class Navigator extends React.Component{
 		constructor(props){
 			super(props);
@@ -18,7 +18,7 @@ class Navigator extends React.Component{
 				<div className='holi'>
 					<div className='row navigator y-center  space-between m-col'>
 						<div className='main row fluid x-center'>
-							<h3>{this.state.title}</h3>
+							<Link to={'/'}><h3>Invente</h3></Link>
 						</div>
 						<div className='links row x-center m-scroller'>
 							{
