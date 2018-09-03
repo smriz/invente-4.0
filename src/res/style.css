@@ -7,16 +7,27 @@ a {
   text-decoration: none;
   color: inherit; }
 
+.navigator .links a.active {
+  background: #ff7f50;
+  color: white;
+  border-radius: 8px;
+  transition: 0.5s; }
+
 @media screen and (orientation: portrait) {
   .navigator .links {
     overflow: scroll;
     background: #eee; } }
+.department-link {
+  border: 1px solid transparent; }
+  .department-link img {
+    width: 150px; }
+
 .event-detail .notes {
   border: 1px solid #000;
   padding: 8px 8px;
   border-radius: 5px; }
 .event-detail .absolute h1, .event-detail .absolute h5 {
-  background: #f49242;
+  background: #ff7f50;
   color: white;
   display: inline-flex; }
 .event-detail .close-btn {
@@ -34,6 +45,10 @@ a {
 
 .holi .col.x-start {
   align-items: flex-start; }
+
+.maxi960 {
+  max-width: 960px;
+  margin: auto; }
 
 /*Organisers Page css */
 .card {

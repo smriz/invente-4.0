@@ -1,4 +1,6 @@
-$theme-orange:#f49242;
+//$theme-orange:#f49242;
+$theme-orange:#ff7f50;
+
 $theme-grey: #eaeae5;
 
 
@@ -12,13 +14,23 @@ a{
 	color:inherit;
 }
 
-
+.navigator{
+	.links{
+		a.active{
+			background:$theme-orange;
+			color:white;
+			border-radius:8px;
+			transition:0.5s;
+		}
+	}
+}
 
 @media screen and (orientation:portrait){
 	.navigator{
 		.links{
 			overflow: scroll;
 			background:#eee;
+
 		}
 	}
 }
@@ -27,6 +39,16 @@ a{
   .main{
 
   }
+}
+
+
+.department-link{
+	border:1px solid transparent;
+	img{
+		width:150px;
+	}
+
+
 }
 
 
@@ -69,6 +91,11 @@ a{
 			align-items: flex-start;
 		}
 		}
+}
+
+.maxi960{
+	max-width:960px;
+	margin:auto;
 }
 
 /*Organisers Page css */
