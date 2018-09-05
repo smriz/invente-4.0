@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@ssn/dinofeed": "*",
+    "@ssn/dinofeed": "^2.0.5",
     "holi": "^1.0.2",
     "loadash": "^1.0.0",
     "react": "^16.4.2",
