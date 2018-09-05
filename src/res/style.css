@@ -157,47 +157,15 @@ a {
 
 /*HOME PAGE */
 #main-landing {
-  height: 690px;
-  background-color: #ff7f50;
-}
-
-#about-invente {
-  height: 500px;
-  background-color: #ffe450;
-}
-#about-invente #head-section {
-  position: relative;
-  top: 12px;
-  left: 42%;
-  width: 10%;
-}
-#about-invente #head-section h3 {
-  margin: 0;
-  font-size: 40px;
-}
-#about-invente #main-invente-section {
-  position: relative;
-  top: 50px;
-  width: 58%;
-}
-#about-invente #main-invente-section #para-section {
-  margin-left: 30px;
-}
-#about-invente #main-invente-section #para-section p {
-  margin-top: 0px;
+  min-height: 100vh;
+  background-image: url("../data/bg-header.png");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 @media screen and (orientation: portrait) {
-  #about-invente #main-invente-section {
-    width: 80%;
+  #main-landing {
+    background-position: center;
   }
-  #about-invente #main-invente-section #para-section p {
-    font-size: 13px;
-  }
-}
-
-#star-events {
-  height: 400px;
-  background-color: aquamarine;
 }
 
 /*# sourceMappingURL=style.css.map */
