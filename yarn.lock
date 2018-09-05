@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@ssn/dinofeed@*":
+"@ssn/dinofeed@^2.0.5":
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/@ssn/dinofeed/-/dinofeed-2.0.5.tgz#d382cc77c98e9e23140db5c0e4737958700cd163"
   dependencies:
