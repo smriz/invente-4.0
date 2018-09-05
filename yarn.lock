@@ -3,8 +3,8 @@
 
 
 "@ssn/dinofeed@*":
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/@ssn/dinofeed/-/dinofeed-2.0.3.tgz#083521e202218af6f43e4b99a70e8a0cdb1610dc"
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/@ssn/dinofeed/-/dinofeed-2.0.5.tgz#d382cc77c98e9e23140db5c0e4737958700cd163"
   dependencies:
     axios "^0.18.0"
     lodash "^4.17.10"
@@ -3199,7 +3199,7 @@ hoist-non-react-statics@^2.5.0:
   version "2.5.5"
   resolved "https://registry.yarnpkg.com/hoist-non-react-statics/-/hoist-non-react-statics-2.5.5.tgz#c5903cf409c0dfd908f388e619d86b9c1174cb47"
 
-holi@*:
+holi@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/holi/-/holi-1.0.2.tgz#de0538aa8ed16437ed87f6c2be568c6478566f21"
 
