@@ -23,7 +23,7 @@ class Navigator extends React.Component{
 						<div className='links row x-center m-scroller'>
 							{
 								Object.keys(this.routeMap).map(key =>
-	  								<NavLink className='16p-8p' to={this.routeMap[key]}>{key}</NavLink>
+	  								<NavLink className='8p-8p 8m-' to={this.routeMap[key]}>{key}</NavLink>
 	  							)
 							}
 						</div>
