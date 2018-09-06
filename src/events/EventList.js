@@ -15,7 +15,7 @@ class EventList extends React.Component{
 				{Object.keys(eventdetail[dept]).map(x =>
 					<Link to={`/events/${dept}/${x}`} className='centerify 8m-8m 8p-8p' style={{display:'inline-flex'}}>
 						<div className='col centerify'>
-							<img className='rounded' style={{width:'150px'}} src={`https://api.adorable.io/avatars/150/${x}.png`}/>
+							<img className='rounded' style={{width:'150px'}} src={`https://robohash.org/${x}.png?bgset=bg2`}/>
 							<div className='8p-16p text-center'>
 								{eventlist[dept][x]}
 							</div>
