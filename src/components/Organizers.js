@@ -36,7 +36,7 @@ class Organizers extends React.Component{
             name:"Sharan Sundar",
             img:"CSE"
         },{
-            name:"Meiyappan",
+            name:"Meyyappan",
             img:"EEE"
         },{
             name:"Kaushik",
@@ -45,7 +45,7 @@ class Organizers extends React.Component{
             name:"Dharmasekaran",
             img:"Civil"
         },{
-            name:"Jerome Jaykar",
+            name:"Jerome Jayakar",
             img:"BME"
         },{
              name:"Yashawin Harathi",
