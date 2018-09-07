@@ -7,31 +7,14 @@ import Navigator from '../components/Navigator';
 class EventDetail extends React.Component{
 	constructor(props){
 		super(props);
-
+		
 	}
 	render(){
 		let {dept,slug} = this.props.match.params;
 		let event = eventdetail[dept][slug];
 		// console.log(event);
 		return <div className='col event-detail fluid'>
-{
-				// <div className='relative fluid'>
-				// 	<Link to={`/events/${dept}`} className='absolute close-btn'>X</Link>
-				// 	<img className='fluid' src={`https://source.unsplash.com/random/400x200?${slug}`}/>
-				// 	<div className={'absolute col x-start'} style={{bottom:'0'}}>
-				// 		<h1 className='8m-8m'>{event.eventname}</h1>
-				// 		<h5  className='8m-8m'>{event.tagline}</h5>
-				// 	</div>
-				// </div>
-}
-			{
-			// <div className='row space-between'>
-			// 	<div className='row y-center'>
-			// 		<img style={{height:'40px',width:'40px'}}className='fluid' src={`https://api.adorable.io/avatars/80/${event.slug}.png`}/>
-			// 		<h1>{event.eventname}</h1>
-			// 	</div>
-			// 		<Link to={`/events/${dept}`} className='absolute close-btn'>X</Link>
-				}
+
 				<div className='8p-8p maxi960'>
 				 		<h1>{event.eventname}</h1>
 						{event.tagline && <h5 style={{marginLeft:'0px',marginTop:'-16px',color:'#888'}} className='8m-8m'>{event.tagline}</h5>}
@@ -45,8 +28,8 @@ class EventDetail extends React.Component{
 						</div>
 
 						<div className='row m-col'>
-							{event.timing &&<Fielder icon='map' content={event.timing}/>}
-							{event.venue && <Fielder icon='clock' content={event.venue}/>}
+							{event.timing &&<Fielder icon='clock' content={event.timing}/>}
+							{event.venue && <Fielder icon='map' content={event.venue}/>}
 						</div>
 						<p>{event.attachments[0] && <a href={event.attachments[0]}>Click to view the Attachment</a>}</p>
 						<div>
