@@ -1,5 +1,4 @@
 import React from 'react'
-import FA from 'react-fontawesome';
 class Footer extends React.Component{
     render(){
         return <div className="footer holi">

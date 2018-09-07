@@ -5,6 +5,7 @@ import Organizers from './components/Organizers';
 import Home from './components/Home';
 import Aboutus from './components/Aboutus'
 import Footer from './components/Footer'
+import Hospitality from './components/Hospitality'
 class App extends Component {
   render(){
     return (
@@ -14,7 +15,7 @@ class App extends Component {
             <Route path='/events' component={Events}/>
             <Route path='/about-us' component={Aboutus}/>
             <Route path='/organizers' component={Organizers}/>
-            <Route path='/hospitality' component={Default}/>
+            <Route path='/hospitality' component={Hospitality}/>
             <Footer/>
           </div>
         </BrowserRouter>

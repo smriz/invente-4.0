@@ -28,6 +28,9 @@ class Organizers extends React.Component{
         },{
             name:"Balaji",
             img:"Chemical"
+        },{
+            name:"Sampath Kumar",
+            img:"Maths"
         }]
         this.student=[{
             name:"Rahul Sriram",
@@ -53,6 +56,37 @@ class Organizers extends React.Component{
         },{
             name:"Sudarsan",
             img:"Chemical"
+        },{
+            name:"Manickesh",
+            img:"Maths"
+        }]
+        this.hod=[{
+            name:"Nagarajan",
+            img:"IT"
+        },{
+            name:"Chitra Babu",
+            img:"CSE"
+        },{
+            name:"Kamaraj",
+            img:"EEE"
+        },{
+            name:"Radha",
+            img:"ECE"
+        },{
+            name:"Ramana Gopal",
+            img:"Civil"
+        },{
+            name:"Kavitha",
+            img:"BME"
+        },{
+             name:"Annamalai",
+             img:"Mechanical"
+        },{
+            name:"Parthiban",
+            img:"Chemical"
+        },{
+            name:"Narasimman",
+            img:"Maths"
         }]
     }
     render(){
@@ -67,8 +101,22 @@ class Organizers extends React.Component{
                           <p>Sunita Nair</p>
                        </div>
                   </div>
+                  <div id="hod">
+                  <div style={{textAlign:'center',fontSize:'20px',fontWeight:'100px'}}><p>Head of Departments</p><hr style={{width:'40%'}}/></div>
+                  <div className="card-set">
+                  {
+                      this.hod.map((x,index) => <div className="card-set-child" key={"hod-"+index}>
+                          <img src={"https://images.ssninvente.com/organisers/hod-"+x.img+".jpg"} alt={"staff-image-"+index }/>
+                          <p className="staff-name">{x.name}<br/>
+                          <h3 className="dept-name">{x.img}</h3></p>
+
+                      </div>)
+                  }
+                  </div>
+                  </div>
+
                   <div id="staff-coordinator">
-                  <div style={{textAlign:'center',fontSize:'20px',fontWeight:'100px'}}><p>Staff Co-ordinators</p></div>
+                  <div style={{textAlign:'center',fontSize:'20px',fontWeight:'100px'}}><p>Faculty Co-ordinators</p><hr style={{width:'40%'}}/></div>
                   <div className="card-set">
                   {
                       this.staff.map((x,index) => <div className="card-set-child" key={"fac-"+index}>
@@ -81,7 +129,7 @@ class Organizers extends React.Component{
                   </div>
                   </div>
                   <div id="student-coordinator">
-                  <div style={{textAlign:'center',fontSize:'20px',fontWeight:'100px'}}><p>Student Co-ordinators</p></div>
+                  <div style={{textAlign:'center',fontSize:'20px',fontWeight:'100px'}}><p>Association Presidents</p><hr style={{width:'40%'}}/></div>
                   <div className="card-set">
                   {
                       this.student.map((x,index) => <div className="card-set-child" key={"stu-"+index}>
