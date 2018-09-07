@@ -14,7 +14,7 @@
 	}
 }
 
-#staff-coordinator,#student-coordinator{
+#staff-coordinator,#student-coordinator,#hod{
 	margin-top:20px;
 }
 .card-set{
@@ -54,12 +54,6 @@
 		}
 
 	}
-	.card-set-child:nth-last-child(1){
-		margin-left: 29%;
-		@media only screen and (orientation:'portrait'){
-		  margin-left:12px;
-		}
-	}
 
 	@media only screen and (orientation:'portrait'){
 		display: flex;
@@ -86,7 +80,7 @@
 
 /*HOME PAGE */
 #main-landing{
-    min-height: 100vh;
+    min-height: 108vh;
 	background-image: url('https://images.ssninvente.com/front/frontpage.svg');
 	background-size: cover;
 	background-repeat: no-repeat;
