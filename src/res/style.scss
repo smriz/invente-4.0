@@ -23,10 +23,9 @@ a{
 
 .navigator{
 	.links{
+		align-items:stretch;
 		a.active{
-			background:$theme-orange;
-			color:white;
-			border-radius:8px;
+			border-bottom:2px solid $theme-orange;
 			transition:0.5s;
 		}
 	}
