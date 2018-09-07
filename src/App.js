@@ -15,8 +15,7 @@ class App extends Component {
             <Route path='/about-us' component={Aboutus}/>
             <Route path='/organizers' component={Organizers}/>
             <Route path='/hospitality' component={Default}/>
-      
-            {/* <Footer />*/}
+            <Footer/>
           </div>
         </BrowserRouter>
     );

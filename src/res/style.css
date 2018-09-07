@@ -1,18 +1,15 @@
 body {
   margin: 0px;
   padding: 0px;
-  font-family: "Titillium Web", "sans-serif";
-}
+  font-family: 'Titillium Web', 'sans-serif'; }
 
 a {
   text-decoration: none;
-  color: inherit;
-}
+  color: inherit; }
 
 .breadcrumbs {
   padding: 8px;
-  box-shadow: 4px 2px 2px #eee;
-}
+  box-shadow: 4px 2px 2px #eee; }
 
 .navigator {
   box-shadow: 2px 4px 4px #eee;
@@ -20,92 +17,74 @@ a {
   left: 0;
   right: 0;
   background: white;
-  z-index: 9;
-}
-.navigator .links a.active {
-  background: #ff7f50;
-  color: white;
-  border-radius: 8px;
-  transition: 0.5s;
-}
+  z-index: 9; }
+  .navigator .links {
+    align-items: stretch; }
+    .navigator .links a.active {
+      border-bottom: 2px solid #ff7f50;
+      transition: 0.5s; }
 
 @media screen and (orientation: portrait) {
   .navigator .links {
-    overflow: scroll;
-  }
-}
+    overflow: scroll; } }
 .department-link {
-  border: 1px solid transparent;
-}
-.department-link img {
-  width: 150px;
-}
+  border: 1px solid transparent; }
+  .department-link img {
+    width: 150px; }
 
 .event-detail .notes {
   border: 1px solid #000;
   padding: 8px 8px;
-  border-radius: 5px;
-}
+  border-radius: 5px; }
 .event-detail .absolute h1, .event-detail .absolute h5 {
   background: #ff7f50;
   color: white;
-  display: inline-flex;
-}
+  display: inline-flex; }
 .event-detail .close-btn {
   color: white;
   font-size: 2em;
   right: 0px;
   top: 0px;
-  padding: 8px;
-}
+  padding: 8px; }
 
 .contact-card {
   border: 1px solid #eee;
   border-radius: 5px;
   display: inline-block;
-  padding: 8px 16px;
-}
+  padding: 8px 16px; }
 
 .holi .col.x-start {
-  align-items: flex-start;
-}
+  align-items: flex-start; }
 
 .maxi960 {
   max-width: 960px;
-  margin: auto;
-}
+  margin: auto; }
 
 .fielder {
   border: 4px solid #ff7f50;
   border-radius: 2px;
-  margin: 8px auto;
-}
-.fielder div:first-child {
-  background: #ff7f50;
-  color: white;
-  padding: 8px;
-}
-.fielder div:last-child {
-  padding: 8px;
-}
+  margin: 8px auto; }
+  .fielder div:first-child {
+    background: #ff7f50;
+    color: white;
+    padding: 8px; }
+  .fielder div:last-child {
+    padding: 8px; }
 
 /*Organisers Page css */
 .card {
   display: inline-block;
   width: 44%;
   text-align: center;
-  margin-left: 27%;
-}
-.card img {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  margin-top: 3%;
-}
+  margin-left: 27%; }
+  .card img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 3%; }
 
 #staff-coordinator, #student-coordinator {
-  margin-top: 20px;
-}
+  margin-top: 20px; }
 
 .card-set {
   display: flex;
@@ -113,118 +92,93 @@ a {
   flex: 50% 1;
   justify-content: center;
   flex-direction: row;
-  flex-wrap: wrap;
-}
-.card-set .card-set-child {
-  display: inline-block;
-  padding: 5px;
-  width: 25%;
-  margin: 12px;
-  border-radius: 15px;
-}
-.card-set .card-set-child img {
-  width: 100px;
-  height: 100px;
-  margin: 9px;
-  border-radius: 50%;
-  position: relative;
-  left: 31%;
-}
-.card-set .card-set-child .staff-name {
-  font-size: 18px;
-  text-align: center;
-  margin: 0px;
-}
-.card-set .card-set-child .staff-name .dept-name {
-  margin-top: 0px;
-}
-.card-set .card-set-child:nth-last-child(1) {
-  margin-left: 29%;
-}
-@media only screen and (orientation: portrait) {
-  .card-set .card-set-child:nth-last-child(1) {
-    margin-left: 12px;
-  }
-}
-@media only screen and (orientation: portrait) {
-  .card-set {
-    display: flex;
-    width: 100%;
-    flex-wrap: wrap;
-  }
+  flex-wrap: wrap; }
   .card-set .card-set-child {
-    display: flex;
-    flex-direction: column;
-    margin-right: 23px;
-    width: 34%;
-  }
-  .card-set .card-set-child img {
-    width: 63px;
-    height: 63px;
-    margin-left: 0px;
-  }
-  .card-set .card-set-child p {
-    text-align: center;
-  }
-}
+    display: inline-block;
+    padding: 5px;
+    width: 25%;
+    margin: 12px;
+    border-radius: 15px; }
+    .card-set .card-set-child img {
+      width: 100px;
+      height: 100px;
+      margin: 9px;
+      border-radius: 50%;
+      position: relative;
+      left: 31%; }
+    .card-set .card-set-child .staff-name {
+      font-size: 18px;
+      text-align: center;
+      margin: 0px; }
+      .card-set .card-set-child .staff-name .dept-name {
+        margin-top: 0px; }
+  .card-set .card-set-child:nth-last-child(1) {
+    margin-left: 29%; }
+    @media only screen and (orientation: portrait) {
+      .card-set .card-set-child:nth-last-child(1) {
+        margin-left: 12px; } }
+  @media only screen and (orientation: portrait) {
+    .card-set {
+      display: flex;
+      width: 100%;
+      flex-wrap: wrap; }
+      .card-set .card-set-child {
+        display: flex;
+        flex-direction: column;
+        margin-right: 23px;
+        width: 34%; }
+        .card-set .card-set-child img {
+          width: 63px;
+          height: 63px;
+          margin-left: 0px; }
+        .card-set .card-set-child p {
+          text-align: center; } }
 
 /*HOME PAGE */
 #main-landing {
   min-height: 100vh;
   background-image: url("https://images.ssninvente.com/front/frontpage.svg");
   background-size: cover;
-  background-repeat: no-repeat;
-}
-@media screen and (orientation: portrait) {
-  #main-landing {
-    background-position: 45% 50%;
-  }
-}
+  background-repeat: no-repeat; }
+  @media screen and (orientation: portrait) {
+    #main-landing {
+      background-position: 45% 50%; } }
 
 #footer {
   max-width: 100%;
   min-height: 100px;
   margin: auto;
   border-top: 2px solid coral;
-  border-bottom: 2px solid coral;
-}
-#footer #footer-detail {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  width: 100%;
-}
-#footer #footer-detail #footer-info {
-  margin-left: 15%;
-}
-#footer #footer-detail #footer-touch #href-link {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  padding-top: 0px;
-}
-#footer #footer-detail #footer-touch #href-link a {
-  padding: 4px;
-}
-#footer #footer-detail #footer-touch #href-link a .link-social {
-  display: inline-block;
-  border-radius: 50%;
-  padding-top: 10px;
-  padding-right: 10px;
-  padding-left: 10px;
-  padding-bottom: 10px;
-  margin: 0 22px;
-  border: 2px solid black;
-}
-@media screen and (orientation: portrait) {
-  #footer #footer-detail #footer-touch #href-link {
+  border-bottom: 2px solid coral; }
+  #footer #footer-detail {
     display: flex;
     flex-direction: row;
-    left: 4%;
-  }
-}
-#footer #footer-detail .flex-row-item {
-  width: 40%;
-}
+    justify-content: center;
+    width: 100%; }
+    #footer #footer-detail #footer-info {
+      margin-left: 15%; }
+    #footer #footer-detail #footer-touch #href-link {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      padding-top: 0px; }
+      #footer #footer-detail #footer-touch #href-link a {
+        padding: 4px; }
+        #footer #footer-detail #footer-touch #href-link a .link-social {
+          display: inline-block;
+          border-radius: 50%;
+          padding-top: 10px;
+          padding-right: 10px;
+          padding-left: 10px;
+          padding-bottom: 10px;
+          margin: 0 22px;
+          border: 2px solid black; }
+      @media screen and (orientation: portrait) {
+        #footer #footer-detail #footer-touch #href-link {
+          display: flex;
+          flex-direction: row;
+          left: 4%; } }
+    #footer #footer-detail .flex-row-item {
+      width: 40%; }
 
 /*# sourceMappingURL=style.css.map */
