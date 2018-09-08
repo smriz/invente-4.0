@@ -5,6 +5,8 @@ import ContactCard from '../components/ContactCard'
 import FA from 'react-fontawesome';
 import Navigator from '../components/Navigator';
 import {Helmet} from 'react-helmet';
+import FacebookProvider, { Like,Comments } from 'react-facebook';
+
 class EventDetail extends React.Component{
 	constructor(props){
 		super(props);
@@ -23,8 +25,9 @@ class EventDetail extends React.Component{
 				<div className='8p-8p maxi960'>
 				 		<h1>{event.eventname}</h1>
 						{event.tagline && <h5 style={{marginLeft:'0px',marginTop:'-16px',color:'#888'}} className='8m-8m'>{event.tagline}</h5>}
-
-						<div className="fb-like" data-href={`https://www.ssninvente.com/fb/events/${dept}/${slug}`} data-layout="standard" data-width='300' data-action="like" data-size="small" data-colorscheme='dark' data-show-faces="true" data-share="true"></div>
+						<FacebookProvider appId="262244974616409">
+					         <Like href={`https://www.ssninvente.com/fb/events/${dept}/${slug}`} colorScheme="dark" showFaces share />
+						</FacebookProvider>
 						<p>{event.description}</p>
 
 						<div className='row m-col'>
@@ -61,7 +64,9 @@ class EventDetail extends React.Component{
 						<ContactCard contact={event.eventHeads[1]}/>
 					</div>
 					<div style={{width:'100%'}}>
-<div className="fb-comments" data-href={`https://www.ssninvente.com/fb/events/${dept}/${slug}`} data-width='300'  data-numposts="5"></div>
+					<FacebookProvider appId="262244974616409">
+								 <Comments href={`https://www.ssninvente.com/fb/events/${dept}/${slug}`} colorScheme="dark" showFaces share />
+					</FacebookProvider>
 					</div>
 				</div>
 				</div>
