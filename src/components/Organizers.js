@@ -1,5 +1,6 @@
 import React from "react";
 import Navigator from './Navigator'
+import {Helmet} from 'react-helmet';
 class Organizers extends React.Component{
     constructor(props){
         super(props);
@@ -92,6 +93,9 @@ class Organizers extends React.Component{
     render(){
         return (
             <div>
+            <Helmet>
+                <title>Organizers | Invente 3.0 </title>
+            </Helmet>
             <Navigator title={'Invente'}/>
             <div id="organizers-section">
             <div style={{textAlign:'center',fontSize:'30px',fontWeight:'300px'}}><p>Advisor of Student Affairs</p></div>

@@ -4,6 +4,7 @@ import {Link} from 'react-router-dom';
 import ContactCard from '../components/ContactCard'
 import FA from 'react-fontawesome';
 import Navigator from '../components/Navigator';
+import {Helmet} from 'react-helmet';
 class EventDetail extends React.Component{
 	constructor(props){
 		super(props);
@@ -16,7 +17,9 @@ class EventDetail extends React.Component{
 		let event = eventdetail[dept][slug];
 		// console.log(event);
 		return <div className='col event-detail fluid'>
-
+				<Helmet>
+					<title>{event.eventname} | {dept}</title>
+				</Helmet>
 				<div className='8p-8p maxi960'>
 				 		<h1>{event.eventname}</h1>
 						{event.tagline && <h5 style={{marginLeft:'0px',marginTop:'-16px',color:'#888'}} className='8m-8m'>{event.tagline}</h5>}

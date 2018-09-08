@@ -2,10 +2,14 @@ import React from 'react'
 import '../res/hosp.css'
 import Navigator from './Navigator'
 import Footer from './Footer'
+import {Helmet} from 'react-helmet';
 class Hospitality extends React.Component{
 
     render(){
         return <div><Navigator title=""/><div className="hosp">
+        <Helmet>
+          <title>Hospitality | Invente 3.0</title>
+        </Helmet>
         <div className ="content">
             <h2>HOW TO REACH SSN?</h2>
             <hr/>

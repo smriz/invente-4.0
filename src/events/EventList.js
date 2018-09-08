@@ -4,16 +4,30 @@ import {Link} from 'react-router-dom';
 import Navigator from '../components/Navigator';
 import slugify from 'slugify';
 import ProgressiveImage from 'react-progressive-image-loading';
+import {Helmet} from 'react-helmet';
 class EventList extends React.Component{
 	constructor(props){
 		super(props);
+		this.sort = this.sort.bind(this);
 	}
+
+	sort(a,b){
+		let {dept} = this.props.match.params;
+		let ea  = eventdetail[dept][a];
+		let eb  = eventdetail[dept][b];
+		return (ea.isTechnical === eb.isTechnical)? 0 : ea.isTechnical? -1 : 1;
+	}
+
+
 	render(){
 
 		let {dept} = this.props.match.params;
 		return <div>
+				<Helmet>
+					<title>{dept} | Invente 3.0</title>
+				</Helmet>
 				<div style={{minHeight:'90vh'}} className='row wrap centerify maxi960'>
-				{Object.keys(eventdetail[dept]).map(x =>
+				{Object.keys(eventdetail[dept]).sort(this.sort).map(x =>
 					<Link to={`/events/${dept}/${x}`} className='centerify 8m-8m 8p-8p' style={{display:'inline-flex'}}>
 						<div className='col centerify'>
 						<ProgressiveImage

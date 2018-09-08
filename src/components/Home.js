@@ -1,10 +1,13 @@
 import React from 'react';
 import Navigator from './Navigator'
 import ProgressiveImage from 'react-progressive-image-loading';
-
+import {Helmet} from 'react-helmet';
 class Home extends React.Component{
 	render(){
 		return <div>
+			<Helmet>
+				<title>Invente 3.0</title>
+			</Helmet>
 			<Navigator title='Invente'/>
 			<div id="">
 				<ProgressiveImage

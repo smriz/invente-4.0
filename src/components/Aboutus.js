@@ -1,11 +1,15 @@
 import React from 'react';
 import '../res/about.css';
 import Navigator from './Navigator'
+import {Helmet} from 'react-helmet';
 class Aboutus extends React.Component{
 
     render(){
         return(
             <div>
+            <Helmet>
+              <title>About Us | Invente 3.0</title>
+            </Helmet>
             <Navigator title="Invente" />
             <h1>About Us</h1>
         <div className="aboutus"><div className = "container">
