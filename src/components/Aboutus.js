@@ -10,7 +10,9 @@ class Aboutus extends React.Component{
             <h1>About Us</h1>
         <div className="aboutus"><div className = "container">
         <div className = "caption">
-            <img src="http://images.ssninvente.com/about-us/shiv-nadar-hd.jpg" alt="Dr. Shiv Nadar" className = "image" width={'250px'} height={'250px'}/>
+          <picture>
+              <source src="http://images.ssninvente.com/about-us/shiv-nadar-hd.jpg" alt="Dr. Shiv Nadar" className = "image" width={'250px'} height={'250px'}/>
+          </picture>
             <div className = "name">Dr. Shiv Nadar</div>
             <div className = "pos">The Founder</div>
         </div>

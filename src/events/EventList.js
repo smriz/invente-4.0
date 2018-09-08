@@ -12,7 +12,7 @@ class EventList extends React.Component{
 
 		let {dept} = this.props.match.params;
 		return <div>
-				<div style={{minHeight:'90vh'}} className='row wrap centerify'>
+				<div style={{minHeight:'90vh'}} className='row wrap centerify maxi960'>
 				{Object.keys(eventdetail[dept]).map(x =>
 					<Link to={`/events/${dept}/${x}`} className='centerify 8m-8m 8p-8p' style={{display:'inline-flex'}}>
 						<div className='col centerify'>

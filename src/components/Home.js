@@ -1,12 +1,19 @@
 import React from 'react';
 import Navigator from './Navigator'
-
+import ProgressiveImage from 'react-progressive-image-loading';
 
 class Home extends React.Component{
 	render(){
 		return <div>
 			<Navigator title='Invente'/>
-			<div id="main-landing">
+			<div id="">
+				<ProgressiveImage
+				preview={'https://images.ssninvente.com/front/frontpage-small.svg.png'}
+				 src={'https://images.ssninvente.com/front/frontpage.svg'}
+				  render={(src)=>
+					<img style={{width:'100%'}} src={src}/>
+
+				}/>
 			</div>
 			<div id="about-invente">
 			<div id="invente-content" style={{border:'2px solid #f75e5b'}}>

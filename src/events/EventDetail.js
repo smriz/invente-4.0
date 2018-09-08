@@ -7,7 +7,9 @@ import Navigator from '../components/Navigator';
 class EventDetail extends React.Component{
 	constructor(props){
 		super(props);
-		
+		this.state = {
+			open:0,
+		}
 	}
 	render(){
 		let {dept,slug} = this.props.match.params;
@@ -33,9 +35,17 @@ class EventDetail extends React.Component{
 						</div>
 						<p>{event.attachments[0] && <a href={event.attachments[0]}>Click to view the Attachment</a>}</p>
 						<div>
-							{event.rules.map((round,i) =><div> Round {i+1}
-								<ul>{round.map(x => <li>{x}</li>)}</ul>
-							</div>)}
+							<div className={'row rules-tab-holder'}>
+									{event.rules.map((x,i)=> <div className={`${this.state.open == i?'active':''} rules-tab`} onClick={()=>{this.setState({open:i})}}>Round {i+1}</div>)}
+							</div>
+							<div className='rules-pane'>{event.rules[this.state.open]}
+							</div>
+							{
+							// 	event.rules.map((round,i) =><div> Round {i+1}
+							// 	<ul>{round.map(x => <li>{x}</li>)}</ul>
+							// </div>)
+
+						}
 						</div>
 
 						<div>
