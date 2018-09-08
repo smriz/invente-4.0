@@ -110,7 +110,7 @@ class Organizers extends React.Component{
                   <div className="card-set">
                   {
                       this.hod.map((x,index) => <div className="card-set-child" key={"hod-"+index}>
-                          <img src={"https://images.ssninvente.com/organisers/hod-"+x.img+".jpg"} alt={"staff-image-"+index }/>
+                          <img src={"https://images.ssninvente.com/organisers/hod-"+x.img+".jpg.webp"} alt={"staff-image-"+index }/>
                           <p className="staff-name">{x.name}<br/>
                           <h3 className="dept-name">{x.img}</h3></p>
 
@@ -124,7 +124,7 @@ class Organizers extends React.Component{
                   <div className="card-set">
                   {
                       this.staff.map((x,index) => <div className="card-set-child" key={"fac-"+index}>
-                          <img src={"https://images.ssninvente.com/organisers/fac-"+x.img+".jpg"} alt={"staff-image-"+index }/>
+                          <img src={"https://images.ssninvente.com/organisers/fac-"+x.img+".jpg.webp"} alt={"staff-image-"+index }/>
                           <p className="staff-name">{x.name}<br/>
                           <h3 className="dept-name">{x.img}</h3></p>
 
@@ -137,7 +137,7 @@ class Organizers extends React.Component{
                   <div className="card-set">
                   {
                       this.student.map((x,index) => <div className="card-set-child" key={"stu-"+index}>
-                          <img src={"https://images.ssninvente.com/organisers/sc-"+x.img+".jpg"} alt={"student-image-"+index} />
+                          <img src={"https://images.ssninvente.com/organisers/sc-"+x.img+".jpg.webp"} alt={"student-image-"+index} />
                           <p className="staff-name">{x.name}<br/>
                           <h3 className="dept-name">{x.img}</h3></p>
                       </div>)
