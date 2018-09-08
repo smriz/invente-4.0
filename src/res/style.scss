@@ -126,5 +126,38 @@ a{
 		padding:8px;
 	}
 }
+
+.rules-tab-holder{
+	margin-bottom:-1px;
+	.rules-tab{
+		border: 1px solid #888;
+		margin: auto 8px;
+		padding: 8px 16px;
+		z-index:2;
+		cursor:pointer;
+
+		&.active{
+			border-bottom:1px solid #fff;
+			background-color: $theme-orange;
+			color:white;
+			border-radius: 4px 4px 0px 0px;
+			border:none;
+		}
+
+	}
+
+}
+
+.rules-pane{
+	border:1px solid #888;
+	padding:8px;
+}
+.footer{
+	background:#eee;
+	display:flex;
+	flex-direction:row;
+	justify-content: center;
+
+}
 /*Organisers Page css */
 @import 'ram.scss';

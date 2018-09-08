@@ -6,6 +6,7 @@ import EventList from './EventList';
 import DepartmentList from './DepartmentList';
 import FA from 'react-fontawesome';
 import _ from 'lodash';
+import {Helmet} from 'react-helmet';
 class Events extends React.Component{
 	constructor(props){
 		super(props);
@@ -16,6 +17,9 @@ class Events extends React.Component{
 		return(
 			<div className='holi'>
 					<Navigator title="Invente"/>
+					<Helmet>
+						<title> Events | Invente 3.0</title>
+					</Helmet>
 					<div className=' breadcrumbs row centerify'>
 				 {
 					 this.props.location.pathname.split('/').splice(1).map((x,i,arr) =>
