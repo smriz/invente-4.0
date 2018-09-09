@@ -62,31 +62,31 @@ class Organizers extends React.Component{
             img:"Maths"
         }]
         this.hod=[{
-            name:"Nagarajan",
+            name:"Dr. Nagarajan",
             img:"IT"
         },{
-            name:"Chitra Babu",
+            name:"Dr. Chitra Babu",
             img:"CSE"
         },{
-            name:"Kamaraj",
+            name:"Dr. Kamaraj",
             img:"EEE"
         },{
-            name:"Radha",
+            name:"Dr. Radha",
             img:"ECE"
         },{
-            name:"Ramana Gopal",
+            name:"Dr. Ramana Gopal",
             img:"Civil"
         },{
-            name:"Kavitha",
+            name:"Dr. Kavitha",
             img:"BME"
         },{
-             name:"Annamalai",
+             name:"Dr. Annamalai",
              img:"Mechanical"
         },{
-            name:"Parthiban",
+            name:"Dr. Parthiban",
             img:"Chemical"
         },{
-            name:"Narasimman",
+            name:"Dr. Narasimman",
             img:"Maths"
         }]
     }
@@ -98,13 +98,6 @@ class Organizers extends React.Component{
             </Helmet>
             <Navigator title={'Invente'}/>
             <div id="organizers-section">
-            <div style={{textAlign:'center',fontSize:'30px',fontWeight:'300px'}}><p>Advisor of Student Affairs</p></div>
-                  <div id="head-of-all">
-                       <div className="card">
-                          <img src={"https://images.ssninvente.com/organisers/asa.jpg"} alt="studentaffairs" />
-                          <p>Sunita Nair</p>
-                       </div>
-                  </div>
                   <div id="hod">
                   <div style={{textAlign:'center',fontSize:'20px',fontWeight:'100px'}}><p>Head of Departments</p><hr style={{width:'40%'}}/></div>
                   <div className="card-set">
@@ -131,6 +124,13 @@ class Organizers extends React.Component{
                       </div>)
                   }
                   </div>
+                  </div>
+                  <div style={{textAlign:'center',fontSize:'30px',fontWeight:'300px'}}><p>Advisor of Student Affairs</p><hr style={{width:'40%'}}/></div>
+                  <div id="head-of-all">
+                       <div className="card">
+                          <img src={"https://images.ssninvente.com/organisers/asa.jpg"} alt="studentaffairs" />
+                          <p>Sunita Nair</p>
+                       </div>
                   </div>
                   <div id="student-coordinator">
                   <div style={{textAlign:'center',fontSize:'20px',fontWeight:'100px'}}><p>Association Presidents</p><hr style={{width:'40%'}}/></div>

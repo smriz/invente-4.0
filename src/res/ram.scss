@@ -138,3 +138,37 @@
 			  
 	}
 }
+
+
+/* Registration details*/
+
+.register-area{
+
+	.register-instructions{
+		margin-left: 21%;
+		padding-top: 4%;
+		padding-bottom: 4%;
+		border: 2px solid coral;
+		padding-left: 4%;
+		margin-right:21%;
+		margin-top:8%;
+
+	  @media screen and (orientation:'portrait'){
+		  margin-left: 10%;
+		  padding: 10px 0px;
+	  }
+	}
+	.main-register{
+
+		#formdata{
+
+			width:900px;
+			height:1500px;
+
+			@media screen and (orientation:'portrait'){
+				  width:300px;
+
+			}
+		}
+	}
+}
