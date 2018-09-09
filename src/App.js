@@ -7,6 +7,7 @@ import Aboutus from './components/Aboutus'
 import Footer from './components/Footer'
 import Hospitality from './components/Hospitality'
 import Registration from './components/Registration';
+import Workshop from './components/Workshop';
 class App extends Component {
   render(){
     return (
@@ -18,6 +19,7 @@ class App extends Component {
             <Route path='/organizers' component={Organizers}/>
             <Route path='/hospitality' component={Hospitality}/>
             <Route path='/register' component={Registration} />
+            <Route path='/workshop' component={Workshop} />
             <Footer/>
           </div>
         </BrowserRouter>

@@ -81,12 +81,8 @@
 /*HOME PAGE */
 #main-landing{
     min-height: 108vh;
-	background-image: url('https://images.ssninvente.com/front/frontpage.svg');
-	background-size: cover;
-	background-repeat: no-repeat;
 
 	@media screen and (orientation:'portrait') {
-		background-position:45% 50%;
 	}
 }
 
@@ -161,14 +157,66 @@
 	.main-register{
 
 		#formdata{
-
-			width:900px;
-			height:1500px;
+			width:1100px;
+			height:1400px;
 
 			@media screen and (orientation:'portrait'){
 				  width:300px;
 
 			}
 		}
+	}
+}
+
+/* Workshop details*/
+
+.workshop{
+	width:70%;
+	margin: 0 auto;
+
+	@media screen and (orientation:'portrait') {
+		width:80%;
+	}
+	.workborder{
+		padding: 10px 16%;
+
+		@media screen  and (orientation:'portrait'){
+			 padding:5px 5px;
+		}
+		.workdata{
+				border:2px solid coral;
+				padding:10px 30px;
+				margin:10px 0px;
+
+				.flex-row{
+					display: flex;
+					flex-direction: row;
+					align-items: center;
+					justify-content: center;
+
+					div{
+						padding-left:4%
+					}
+				}
+
+				.flex-col{
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					.flex-col-item{
+						   display: flex;
+						   flex-direction: row;
+						   justify-content: space-around;
+						   width: 80%;
+
+						   div{
+							   display: flex;
+							   flex-direction: column;
+						   }
+					}
+				}
+		}
+
 	}
 }

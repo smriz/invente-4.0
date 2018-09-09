@@ -1,5 +1,6 @@
 import React from 'react'
 import Navigator from './Navigator'
+import {Helmet} from 'react-helmet'
 class Registration extends React.Component{
 
 
@@ -7,6 +8,9 @@ class Registration extends React.Component{
         return <div>
                <Navigator title="Invente" />
             <div className="register-area">
+                 <Helmet>
+                     <title>Registration | Invente 3.0</title>
+                 </Helmet>
                <div className="register-instructions">
                    Instructions to be followed:
                    <ul className="register-points">

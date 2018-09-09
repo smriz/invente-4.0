@@ -194,16 +194,7 @@ a {
 /*HOME PAGE */
 #main-landing {
   min-height: 108vh;
-  background-image: url("https://images.ssninvente.com/front/frontpage.svg");
-  background-size: cover;
-  background-repeat: no-repeat;
 }
-@media screen and (orientation: portrait) {
-  #main-landing {
-    background-position: 45% 50%;
-  }
-}
-
 #footer {
   max-width: 100%;
   min-height: 100px;
@@ -267,13 +258,62 @@ a {
   }
 }
 .register-area .main-register #formdata {
-  width: 900px;
-  height: 1500px;
+  width: 1100px;
+  height: 1400px;
 }
 @media screen and (orientation: portrait) {
   .register-area .main-register #formdata {
     width: 300px;
   }
+}
+
+/* Workshop details*/
+.workshop {
+  width: 70%;
+  margin: 0 auto;
+}
+@media screen and (orientation: portrait) {
+  .workshop {
+    width: 80%;
+  }
+}
+.workshop .workborder {
+  padding: 10px 16%;
+}
+@media screen and (orientation: portrait) {
+  .workshop .workborder {
+    padding: 5px 5px;
+  }
+}
+.workshop .workborder .workdata {
+  border: 2px solid coral;
+  padding: 10px 30px;
+  margin: 10px 0px;
+}
+.workshop .workborder .workdata .flex-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.workshop .workborder .workdata .flex-row div {
+  padding-left: 4%;
+}
+.workshop .workborder .workdata .flex-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.workshop .workborder .workdata .flex-col .flex-col-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 80%;
+}
+.workshop .workborder .workdata .flex-col .flex-col-item div {
+  display: flex;
+  flex-direction: column;
 }
 
 /*# sourceMappingURL=style.css.map */

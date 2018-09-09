@@ -8,7 +8,8 @@ class Navigator extends React.Component{
 				'Organizers':'/organizers',
 				'About Us':'/about-us',
 				'Hospitality':'/hospitality',
-				'Registration':'/register'
+				'Registration':'/register',
+				'Workshop':'/workshop'
 			}
 			this.state = {
 				title:props.title
