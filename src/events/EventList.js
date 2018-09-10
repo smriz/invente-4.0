@@ -1,5 +1,6 @@
 import React from 'react';
-import {eventlist,eventdetail} from '@ssn/dinofeed';
+import eventlist from '../data/eventlist.json';
+import eventdetail from '../data/eventdetail.json';
 import {Link} from 'react-router-dom';
 import Navigator from '../components/Navigator';
 import slugify from 'slugify';

@@ -1,5 +1,6 @@
 import React from 'react';
-import {department,eventdetail} from '@ssn/dinofeed';
+import department from '../data/dept.json';
+import eventdetail from '../data/eventdetail.json';
 import {Link} from 'react-router-dom';
 import ContactCard from '../components/ContactCard'
 import FA from 'react-fontawesome';
@@ -76,7 +77,7 @@ class EventDetail extends React.Component{
 
 
 const Fielder = ({icon,content,color})=>
-	<div style={{borderColor:color,margin:'8px auto'}}className='fielder row'>
+	<div style={{borderColor:color,margin:'8px auto'}} className='fielder row'>
 		<div style={{backgroundColor:color,display:'inline-flex',width:'auto'}}className='row centerify'><FA className='icon' name={icon}/></div>
 		<div>{content}</div>
 	</div>
