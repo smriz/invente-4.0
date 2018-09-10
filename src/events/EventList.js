@@ -28,7 +28,7 @@ class EventList extends React.Component{
 				</Helmet>
 				<div style={{minHeight:'90vh'}} className='row wrap centerify maxi960'>
 				{Object.keys(eventdetail[dept]).sort(this.sort).map(x =>
-					<Link to={`/events/${dept}/${x}`} className='transywhite centerify 8m-8m 8p-8p' style={{display:'inline-flex'}}>
+					<Link to={`/events/${dept}/${x}`} className={`transywhite centerify 8m-8m 8p-8p`} style={{display:'inline-flex'}}>
 						<div className='col centerify'>
 						<ProgressiveImage
     				preview={`https://robohash.org/${x}.png?bgset=bg2&&size=10x10`}

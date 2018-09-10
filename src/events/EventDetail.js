@@ -28,7 +28,7 @@ class EventDetail extends React.Component{
 						<FacebookProvider appId="262244974616409">
 					         <Like href={`https://www.ssninvente.com/fb/events/${dept}/${slug}`} colorScheme="dark" showFaces share />
 						</FacebookProvider>
-						<p>{event.description}</p>
+						<div>{event.description.split('\n').map(x=> <div>{x}</div> )}</div>
 
 						<div className='row m-col'>
 							{event.prize &&<Fielder icon='rupee-sign' content={event.prize}/>}
@@ -44,7 +44,7 @@ class EventDetail extends React.Component{
 							<div className={'row rules-tab-holder'}>
 									{event.rules.map((x,i)=> <div className={`${this.state.open == i?'active':''} rules-tab`} onClick={()=>{this.setState({open:i})}}>Round {i+1}</div>)}
 							</div>
-							<div className='rules-pane'>{event.rules[this.state.open]}
+							<div className='rules-pane'>{event.rules[this.state.open].map(x=><div>{x}</div>)}
 							</div>
 							{
 							// 	event.rules.map((round,i) =><div> Round {i+1}
