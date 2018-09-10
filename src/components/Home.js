@@ -19,7 +19,7 @@ class Home extends React.Component{
 				}/>
 			</div>
 			<div id="about-invente">
-			<div id="invente-content" style={{border:'2px solid #f75e5b'}}>
+			<div id="invente-content">
 			    <div className="message-content" style={{padding:'30px 0px'}}>
 				   <div className="head">
 				       <h2 style={{textAlign:'center'}}>About Invente</h2>
