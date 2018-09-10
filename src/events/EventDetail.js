@@ -18,11 +18,11 @@ class EventDetail extends React.Component{
 		let {dept,slug} = this.props.match.params;
 		let event = eventdetail[dept][slug];
 		// console.log(event);
-		return <div className='col event-detail fluid'>
+		return <div className='col event-detail fluid whatsapp'>
 				<Helmet>
 					<title>{event.eventname} | {dept}</title>
 				</Helmet>
-				<div className='8p-8p maxi960'>
+				<div className='8p-8p maxi960 transywhite'>
 				 		<h1>{event.eventname}</h1>
 						{event.tagline && <h5 style={{marginLeft:'0px',marginTop:'-16px',color:'#888'}} className='8m-8m'>{event.tagline}</h5>}
 						<FacebookProvider appId="262244974616409">

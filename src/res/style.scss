@@ -112,6 +112,21 @@ a{
 	margin:auto;
 }
 
+.whatsapp{
+	background-repeat:repeat;
+	background-size:20%;
+
+	.transywhite{
+		//background:rgba(255,255,255,0.6);
+		background:white;
+		box-shadow:4px 4px 4px #888;
+	}
+	@media only scren and (orientation:portrait){
+		background-size:50%;
+	}
+	background: url('https://images.ssninvente.com/background/transparent.svg'), rgba(245,245,220,0.3);
+}
+
 
 .fielder{
 	border:4px solid $theme-orange;

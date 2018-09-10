@@ -6,7 +6,7 @@ class Aboutus extends React.Component{
 
     render(){
         return(
-            <div>
+            <div className=''>
             <Helmet>
               <title>About Us | Invente 3.0</title>
             </Helmet>

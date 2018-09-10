@@ -97,7 +97,7 @@ class Organizers extends React.Component{
                 <title>Organizers | Invente 3.0 </title>
             </Helmet>
             <Navigator title={'Invente'}/>
-            <div id="organizers-section">
+            <div id="organizers-section" className=''>
                   <div id="hod">
                   <div style={{textAlign:'center',fontSize:'20px',fontWeight:'100px'}}><p>Head of Departments</p><hr style={{width:'40%'}}/></div>
                   <div className="card-set">
