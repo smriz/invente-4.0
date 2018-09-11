@@ -60,6 +60,16 @@ a {
 .nontech {
   border: 3px solid violet; }
 
+.box {
+  position: relative; }
+  .box .badge {
+    position: absolute;
+    right: -10px;
+    top: -10px;
+    background: purple;
+    color: white;
+    border-radius: 5px; }
+
 .pre {
   white-space: pre-wrap;
   word-wrap: break-word; }
