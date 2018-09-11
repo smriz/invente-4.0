@@ -8,7 +8,7 @@ class Workshop extends React.Component{
         <Navigator/>
         <div className='whatsapp row centerify'  style={{minHeight:'90vh'}}>
           <div className="maxi960">
-          <EventListBox x={'paper-presentation'} dept={'cse'}/>
+          <EventListBox x={'artificial-intelligence-and-machine-learning'} dept={'it'}/>
           </div>
         </div>
       </div>
