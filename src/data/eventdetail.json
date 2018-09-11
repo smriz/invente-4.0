@@ -15,6 +15,7 @@
       "notes": "",
       "prize": "SumOfWinnings(1,2,3) = 6K",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Parimala Suresh Congovi",
@@ -63,6 +64,7 @@
       "notes": "",
       "prize": "SumOfWinnings(1,2,3) = 6K",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Bala Sankar",
@@ -103,6 +105,7 @@
       "notes": "",
       "prize": "SumOfWinnings(1,2,3) = 6K",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Priscilla Andrew",
@@ -153,6 +156,7 @@
       "notes": "",
       "prize": "SumOfWinnings(1,2,3) = 6K",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Suryakanth M",
@@ -193,6 +197,7 @@
       "notes": "",
       "prize": "SumOfWinnings(1,2,3) = 7K",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Shivani K",
@@ -241,6 +246,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Vigneshwara Prakash",
@@ -280,6 +286,7 @@
       "notes": "",
       "prize": "SumOfWinnings(1,2,3) = (7K, Internships!)",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Sudarsan",
@@ -325,6 +332,7 @@
       "notes": "",
       "prize": "SumOfWinnings(1,2,3) = 6K",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Poorvaja S",
@@ -368,6 +376,7 @@
       "notes": "",
       "prize": "5k",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Mohammed Fazil",
@@ -398,6 +407,7 @@
       "notes": "",
       "prize": "SumOfWinnings(1,2,3) = 6K",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Gunalan S",
@@ -439,6 +449,7 @@
       "notes": "",
       "prize": "1000",
       "intenship": null,
+      "registrationFee": "40",
       "eventHeads": [
         {
           "name": "Mohanraj.S",
@@ -478,6 +489,7 @@
       "notes": "",
       "prize": "First Prize:SPI internship, Second Prize:3000 ,Third Prize:2000",
       "intenship": "SPI Cinemas",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "M.S.Vignesh",
@@ -521,6 +533,7 @@
       "notes": "",
       "prize": "First prize-2000,second prize-1500,third prize-1000",
       "intenship": "TournamentOS(Top 3)",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Dheepthaa K A",
@@ -568,6 +581,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Prashanthi B",
@@ -608,6 +622,7 @@
       "notes": "",
       "prize": "10000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Gautham Krishnan ",
@@ -659,6 +674,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Sruthi Chandrasekaran ",
@@ -696,6 +712,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Chandramowli",
@@ -726,6 +743,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Jayaram hariharakrishnan",
@@ -760,6 +778,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Murugappan",
@@ -797,6 +816,7 @@
       "notes": "",
       "prize": "6500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Jagannathan. S",
@@ -837,6 +857,7 @@
       "notes": "Session 1:Learning\nSession 2:Hands-on",
       "prize": null,
       "intenship": null,
+      "registrationFee": "350",
       "eventHeads": [
         {
           "name": "Abishek Sundaresan",
@@ -869,6 +890,7 @@
       "notes": "",
       "prize": "Entry 50 winning 70",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Vignesh ",
@@ -915,6 +937,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "C Roshini",
@@ -953,6 +976,7 @@
       "notes": "",
       "prize": null,
       "intenship": "No",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "N Prathibha Devi",
@@ -990,6 +1014,7 @@
       "notes": "Registration Link",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Gokula Krishnan",
@@ -1038,6 +1063,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Harikrishnan",
@@ -1079,6 +1105,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Chitralekha R",
@@ -1120,6 +1147,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Aravindh. R",
@@ -1165,19 +1193,22 @@
         ]
       ]
     },
-    "1.concrete-challenge": {
+    "concrete-challenge": {
       "last_updated": "8/30/2018 12:15:26",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "civil",
-      "slug": "1.concrete-challenge",
+      "slug": "concrete-challenge",
       "venue": "Concrete technology Lab (In Mechanical Workshop)",
       "timing": "21st September 2018, 11:30 am to 3:30 pm ",
+      "displayName": "Concrete challenge ",
       "description": "Concrete Challenge:\n\nConcrete which the universal material is used for construction purpose worldwide. There are different types of concrete depending on the type of binding material used. Cement which is used as a major binding material is used extensively, commonly known as cement concrete. Many research and developments are happening under this material such that is could me more environmental and user friendly as possible. In this event we urge you to do the same by solving our more fun and realistic problem statement which requires a decent understanding of concrete mix proportions, mold and asthetics. More wastes in this world are produced due to improper usage of recyclable materials.Thus we urge our participants to use this recyclable materials in concrete with practical and innovative thinking.\n\nProblem statement:\n\nThe concrete specimen should be casted to satisfy the following conditions.\n•\tThe concrete specimen must be a cube specimen of dimension 100 x 100 x 100 (All dimensions are in mm). Tolerance up to 5 mm is appreciated.\n•\t3 specimens of the above specification must be casted.\n•\tThe specimen must be casted such that value of it’s compressive strength is maximum (High strength concrete).\n•\tThe density of concrete can be from 1400kg/m3 to 2000 kg/m3.\n•\tOnly M25 grade concrete must be used.\n•\tRecyclable materials must be used as a replacement for aggregates (either partial or full replacement).\n•\tThe cube casted should only have curing period of 7 daysand the material added inside the cube for identification purpose will be informed later.\n•\tAn identification marker will be sent by us to all the participants 7 days before the competition and this must be kept inside the concrete cubes while casting as reference and it is mandatory. Participants without these identification markers will not be permitted in the competition.\n•\tThe cube casted must have a minimum cement content of 300kg/m3.\n•\tThe w/c ratio can be upto 0.55 for the cube casted.\n•\tChemical admixtures can be used.\n•\tThe team participating in the event should have a supervisor, who must be a registered faculty member of any engineering college recognized by government of India.\n•\tStudent must carry the college id card throughout the event.\n•\tPlease keep checking your mails and website for further updates.  \n•\tEvent coordinators and managing professor’s decision is/are final and binding. \n•       Download the attachment ,fill up the mix design clearly ,scan the document and send to the respective mail id. \n•\tThe mix design report must be submitted on or before 15th September 2018(11:59 pm) to \"concrete.ssncivil18@gmail.com\" duly signed by the supervisor.\n•\tThe submitted mix design report will be shortlisted and the selected participants will be sent a mail regarding the same. Only selected participants can take part in the event.\n•\tHard copy of the mix design report should be brought on the day of event.\n•\tThe team with the cube of maximum compressive stress will be the winner.\n•\tThe procedure for casting the concrete specimen must be followed only using IS CODAL PROVISIONS.\n•\tFailure to abide by the above rules will lead to disqualification from the event.\n\n\nScore allotment for the concrete specimen:\n\nThe score allotment for the cube specimen is as follows;\n1.\tDensity of concrete: Out of 10 marks\n(Pre qualification)\n2.\tStrength of cube specimen: Out of 50 marks\n(The marks obtained is directly proportional to strength. As the strength of the specimen is higher, marks awarded also increases).\n3.\tFinishing of the cube specimen: Out of 15 marks\n(The marks awarded will be more when the surfaces of the cube have smooth finishes and the dimensions of the specimen is similar to the problem statement with minimum tolerances).\n4.\tViva-Voce: Out of 10 marks\n(The marks for this session will be awarded by our college professor as per your team performance).\n5.\tMix design report: Out of 15 marks\n(The mix design report will be evaluated by our college professor and marks will be awarded).\nTotal marks: Out of 100 marks.\nThe team/individual will be awarded the prizes as per maximum marks obtained.\n\nNote:\n•\tParticipation for this event must only be group participation. For team (group) participation, minimum upto 2 members and maximum up to4 members are allowed.\n•\tThe above problem statements must be satisfied for being effectively rewarded marks for the specimen.\n•\tParticipation certificate will be provided.\n\n",
       "tagline": "The concrete choice for every application!",
+      "eventname": "Concrete challenge ",
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Manimanickam Rm",
@@ -1230,6 +1261,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Surendra",
@@ -1279,6 +1311,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "SM. RAMASAMY",
@@ -1320,6 +1353,7 @@
       "notes": "No materials or prior preparation required for the event",
       "prize": "Rs. 4500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Racchana",
@@ -1359,6 +1393,7 @@
       "notes": "",
       "prize": "Total prize money of the event- Rs. 9000 ",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Nadesh A",
@@ -1401,6 +1436,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Mushtaq Syed Ahmed J",
@@ -1451,6 +1487,7 @@
       "notes": "",
       "prize": "5000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Anirudh",
@@ -1492,6 +1529,7 @@
       "notes": "",
       "prize": "4500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Karthika Mahadevan ",
@@ -1529,6 +1567,7 @@
       "notes": "",
       "prize": "3000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "AALAN BRITTO J",
@@ -1574,6 +1613,7 @@
       "notes": "",
       "prize": "Vouchers",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Vignesh N",
@@ -1620,6 +1660,7 @@
       "notes": "",
       "prize": "3000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Joselyn Monica M",
@@ -1658,6 +1699,7 @@
       "notes": "This event is not a typical chemical engineering event and is open to everyone as it requires very little chemical engineering knowledge.It is all about a peep into the corporate world",
       "prize": "4500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "G.C.DINESH",
@@ -1700,6 +1742,7 @@
       "notes": "",
       "prize": "Total Prize Amount: ₹4,500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Pratheeshhkumar C N",
@@ -1740,6 +1783,7 @@
       "notes": "",
       "prize": "Total Cash Prize: ₹4,500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Ankit Kumar ",
@@ -1789,6 +1833,7 @@
       "notes": "Robot Control Requirements:\n\n If the bot is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the bot should be stacked as a single unit. The wires should be properly insulated. Teams are suggested to use only rated wires such as ISI marked. Loose connections or improper wiring may lead to immediate disqualification even before the event. If the bot is controlled wirelessly, the bot must at least have a four-frequency remote control circuit or two dual control circuits which may be interchanged before the start of the race to avoid frequency interference with other teams. The case of any interference in the wireless systems will not be considered for rematch or results. Remote control systems from toys are allowed. Remote control systems available in the market may also be used. Battery and Power: The machine can be powered electrically only. Batteries must be sealed, immobilized- electrolyte types (such as Li-ion, NiCd, NiMH or dry cells). Working voltages must not exceed 24V DC (mean voltage) at any point in time. All power connections must be of an adequate grade and adequately insulated. Cables must be routed to minimize the chances of being cut. All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause immediate disqualification. Battery Eliminators are allowed and power source would be available at the venue for the eliminators.\n\nMotors:\n\nThe robot should move as fast as possible around the arena with the help of motors. DC motors and stepper motors (12V-24V) can be used as per the design of bots. Note: We are not responsible for any damage that your bot may incur during the event.\n\nScore Card: \n\nThe score card is based upon the arena formulation. It is obvious that the robot with an extraordinary dynamism will succeed by thrusting out its combatant from the arena.\nIf a robot is pushed beyond the ring, the round ends and the other team is awarded the points.\nThe first team to win X rounds will get through to the Finals where X will be intimated on the day of the competition. Ultimately, if any of the combatants rolls out from the arena it will directly be eliminated from the War Field.\nCriteria for triumph: A robot will be declared immobile if it cannot demonstrate linear motion of at least one inch in a timed period of 30 seconds. A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement. If both robots survive the 5 minutes, the robot with the higher scorecard points wins. The winner advances to the next round while the loser is eliminated from the tournament.",
       "prize": "Total Cash Prize: ₹8,000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Manickesh C",
@@ -1832,6 +1877,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Velmurugan M",
@@ -1869,6 +1915,7 @@
       "notes": "",
       "prize": "Total Cash Prize: ₹6,000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Ajay Prakash M",
@@ -1921,6 +1968,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Arunmozhi K",
@@ -1966,6 +2014,7 @@
       "notes": "●\tThe track will be off-road with obstacles, slopes and tunnels. The width of the track will be revealed on spot. Only cars powered by internal combustion engines are allowed to compete.\n●\tElectric or solar powered cars will not be allowed under any circumstances.\n●\tMaximum allowable displacement for IC engines is 4.6 cc. Only nitro-based fuels or gasoline should be used in the cars.\n●\tFor nitro-based fuels, the amount of nitro compounds in the mixture should not exceed 25%.\n●\tFuel will not be provided by the organizers.\n●\tTeams must bring their own supplies. Only buggy type cars are allowed. The cars should fit in a 500mm x 400mm x300mm box. The antenna used for radio control is exempted from height restrictions.\n●\tParticipants are advised to have multi-channel radio controllers to prevent frequency clashes.\n●\tFHSS Transmitters (Frequency Hop Spread Spectrum) are allowed.\n●\tOrganizers will not be responsible for any interference in frequencies.\n●\tContestants must bring sufficient number of batteries. Batteries will not be provided.\n●\tBoth ready-to-run kit cars and custom fabricated cars are allowed to compete.",
       "prize": "Total Prize Amount: ₹20,000 ",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Sathish Kumar M",
@@ -2017,6 +2066,7 @@
       "notes": "",
       "prize": "Total Cash Prize: ₹9,000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Harish V",
@@ -2077,6 +2127,7 @@
       "notes": "-",
       "prize": "Total Cash Prize: ₹6,000",
       "intenship": "Nil",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Prannoy K",
@@ -2124,6 +2175,7 @@
       "notes": "Pre-registration form: https://docs.google.com/forms/d/1wFoK_8ExuCRWnNB1xmodNOpY4OQE9KptRs3ZR9eKQDk/edit?chromeless=1",
       "prize": "Total Cash Prize:  ₹12,000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Priyadharshini R",
@@ -2165,6 +2217,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Vignesh V",
@@ -2212,6 +2265,7 @@
       "notes": "",
       "prize": "1st- 3k, 2nd-2.5k, 3rd- 1k, total- 6500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Kanna.S.V",
@@ -2259,6 +2313,7 @@
       "notes": "",
       "prize": "Rs. 6500",
       "intenship": "No",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Mrudhulaa PV",
@@ -2300,6 +2355,7 @@
       "notes": "",
       "prize": "2000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Santhosh D",
@@ -2343,6 +2399,7 @@
       "notes": "",
       "prize": "5500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Daipayan Chakraborty ",
@@ -2380,6 +2437,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Thavam L D",
@@ -2425,6 +2483,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Akash R",
@@ -2464,6 +2523,7 @@
       "notes": "",
       "prize": "1000",
       "intenship": "BCCI",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "C.Yazhisairaja",
@@ -2501,6 +2561,7 @@
       "notes": "",
       "prize": "3000, 2000, 1500",
       "intenship": "none",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Priyadharshini R",
@@ -2541,6 +2602,7 @@
       "notes": "",
       "prize": "First prize - Rs. 3,000/-, Second Prize -Rs. 2,000/-, Thirsld Prize - Rs. 1,500/-",
       "intenship": "No",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Vignesh. R",
@@ -2580,6 +2642,7 @@
       "notes": "NO PREREQUISITES REQUIRED. OPEN TO ALL BRANCHES",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Jyothiraditya",
@@ -2612,6 +2675,7 @@
       "notes": "",
       "prize": "1000, 500, 250",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Reshma Immaculate R.",
@@ -2649,6 +2713,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Brathindara S",
@@ -2693,6 +2758,7 @@
       "notes": "",
       "prize": "8000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "MOHAMMED ABRAAR A",
@@ -2732,6 +2798,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "PROMOD RAM  .S",
@@ -2776,6 +2843,7 @@
       "notes": "-",
       "prize": "First and second prize",
       "intenship": "-",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Fathima Sameem B",
@@ -2851,6 +2919,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Vijayameena . V",
@@ -2893,6 +2962,7 @@
       "notes": "",
       "prize": "Rs.6000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "M.Jayaram",
@@ -2934,6 +3004,7 @@
       "notes": "",
       "prize": "Rs.8000 worth of cash prizes ",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Savitha Srinivasan",
@@ -2981,6 +3052,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "S. Varsha",
@@ -3023,6 +3095,7 @@
       "notes": "",
       "prize": "8000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Purvaja",
@@ -3071,6 +3144,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": "300",
       "eventHeads": [
         {
           "name": "Vignesh N",
@@ -3103,6 +3177,7 @@
       "notes": "",
       "prize": "1st-1000,2nd-750,3rd-500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Sivaranjani.M",
@@ -3143,6 +3218,7 @@
       "notes": "",
       "prize": "5000rs",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Viswanath. S",
@@ -3206,6 +3282,7 @@
       "notes": "",
       "prize": "1st prize-Rs 1500   2nd prize-Rs 1000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "NISSY ELAN SHAJI",
@@ -3255,6 +3332,7 @@
       "notes": "",
       "prize": "4500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Divya Rajagopal ",
@@ -3289,6 +3367,7 @@
       "notes": "",
       "prize": "1st 🏆 =1500 & 2nd 🏆 =1000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Shylin Sylvia ",
@@ -3336,6 +3415,7 @@
       "notes": "No",
       "prize": "2500",
       "intenship": "No",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Anitha.M",
@@ -3379,6 +3459,7 @@
       "notes": "",
       "prize": "Winner - Rs 3500 First Runner up - Rs 2000 Second Runner up - RS 1500 ",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Viswath Narayanan R",
@@ -3421,6 +3502,7 @@
       "notes": "",
       "prize": "Rs.20-30 per event",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "G.Aghil Kavya",
@@ -3457,6 +3539,7 @@
       "notes": "",
       "prize": "3500 in total",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Harshni.V",
@@ -3503,6 +3586,7 @@
       "notes": "Pre-Register for the tournament through the above link. ",
       "prize": "Prizes upto RS.4000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Bhargav Mohan",
@@ -3543,6 +3627,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": "600 for 1/800 for 2/1200 for 3",
       "eventHeads": [
         {
           "name": "Divya Rajagopal",
@@ -3575,6 +3660,7 @@
       "notes": "",
       "prize": "4500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Anjana",
@@ -3609,6 +3695,7 @@
       "notes": "",
       "prize": "3000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": " Moulieeshwar ",
@@ -3655,6 +3742,7 @@
       "notes": "",
       "prize": "3000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Anu Harshini             ",
@@ -3695,6 +3783,7 @@
       "notes": "",
       "prize": "5500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Hema priya  ",
@@ -3732,6 +3821,7 @@
       "notes": "",
       "prize": "4500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Arun V",
@@ -3772,6 +3862,7 @@
       "notes": "",
       "prize": "4500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Swaanika",

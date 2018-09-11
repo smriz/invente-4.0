@@ -46,7 +46,7 @@ function clean(obj){
 		notes:obj.notesifany,
 		prize:obj.prizeamount || null,
 		intenship:obj.internshipifany || null,
-
+    registrationFee:obj.registrationfee || null,
 		eventHeads:[{
 				name:obj.eventhead1name,
 				email:obj.eventhead1gmailssnmailid,
