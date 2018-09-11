@@ -8,6 +8,7 @@ class Navigator extends React.Component{
 				main:{
 				'Events' :'/events',
 				'Workshops':'/workshops',
+				"Non Technical":"/non-tech",
 				'Register':'/register'
 			},
 			extra:{

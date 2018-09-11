@@ -507,20 +507,20 @@
       ]
     },
     "mock-regrootment": {
-      "last_updated": "8/29/2018 15:22:15",
+      "last_updated": "9/11/2018 21:58:15",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
       "slug": "mock-regrootment",
-      "venue": "Lab and classroom",
-      "timing": "11-12 online round(day 1)\nInterview/GD(day 2 for shortlisted)",
+      "venue": "Lab and classroom(IT dept and CDC)",
+      "timing": "DAY 1\nMaximum 60 registrations\n11am-12pm Batch 1 online round\n12.30pm-1.30 Batch 2 online round\n2pm-5.30pm Technical Interview/GD\nDAY 2\nTournament OS interview",
       "displayName": "Mock Regrootment",
       "description": "Mock recruitment/placement process",
-      "tagline": null,
+      "tagline": "Take our test and try out your chances of getting placed in your dream company",
       "eventname": "Mock Regrootment",
       "notes": "",
-      "prize": "First prize-1500,second prize-1000,third prize-500",
-      "intenship": null,
+      "prize": "First prize-2000,second prize-1500,third prize-1000",
+      "intenship": "TournamentOS(Top 3)",
       "eventHeads": [
         {
           "name": "Dheepthaa K A",
@@ -536,28 +536,30 @@
       "attachments": [],
       "rules": [
         [
-          "No use of mobile phones.",
-          "Scores and shortlist based on the online test ",
-          "Online round will consist of 15 aptitude and 1 basic coding question"
+          "One hour to do 15 aptitude and 1 coding question ",
+          "Individual event",
+          "No use of mobile phones",
+          "Scores and shortlist based on the online test "
         ],
         [
-          "Technical interviews for cse/it shortlists by the event heads",
+          "Technical interviews for CSE/IT shortlists by the event heads",
           "Group discussion for other department shortlists",
-          "Decision taken by the event heads is final and should be obeyed"
+          "Decision taken by the event heads is final and should be obeyed",
+          "Shortlist from this round will be sent to Round 3",
+          "Resume is a must for this round"
         ],
         [
-          "Hr round conducted by one of our department faculty",
-          "Decision taken by faculty and event heads is final"
+          "TournamentOS team will come on day 2 and interview the students and announce the winners"
         ]
       ]
     },
     "captain-algo": {
-      "last_updated": "8/29/2018 20:03:21",
+      "last_updated": "9/11/2018 22:53:42",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
       "slug": "captain-algo",
-      "venue": "IT Department Lab (Any lab with computers with proper browsers)",
+      "venue": "IT Department Lab",
       "timing": "Sept 21 (10 am)",
       "displayName": "Captain Algo",
       "description": "A technical event testing the data structures and algorithms knowledge of participants.",
@@ -569,7 +571,7 @@
       "eventHeads": [
         {
           "name": "Prashanthi B",
-          "email": "prashanthib15074@it.ssn.edu.in",
+          "email": "prashanthib15074@it.ssn.edu ",
           "contact": "9789950987"
         },
         {
@@ -581,19 +583,13 @@
       "attachments": [],
       "rules": [
         [
-          "1. 2 to 3 people can be part of a team.",
+          "1. A Team of 1 or 2 persons can participate.",
           "2. It will be a pen and paper round.",
-          "3. It will have 20 mcqs on basically finding out what algorithm or data structure to use for given concept and 5 reverse coding questions.",
-          "4. 10 to 12 teams will be taken for the next round."
+          "3. Questions of varying difficulties based on DS and algorithms with a touch of coding, logic, reverse coding and MCQs will be given.",
+          "4. 8 to 10 teams will be taken for the next round."
         ],
         [
-          "1. It will have 3 programming questions that expects the team to give proper and complete implementation of given problem statement using the appropriate OOPS and DS concepts.",
-          "2. This will also be a pen and paper round.",
-          "3. 6 teams will be selected for the third round."
-        ],
-        [
-          "1. It will be hosted on hackerrank and 3 problem statements will be given and solutions for the same will be tested on the online platform.",
-          "2. All teams qualifying for the final round will receive certificates. "
+          "3 problem statements will be given and solutions for the same will be tested on an online platform. All teams qualifying for the final round will receive certificates. "
         ]
       ]
     },
@@ -649,7 +645,7 @@
       ]
     },
     "data-avengers": {
-      "last_updated": "8/30/2018 18:32:22",
+      "last_updated": "9/11/2018 22:07:37",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
@@ -678,14 +674,10 @@
       "attachments": [],
       "rules": [
         [
-          "(CHOICEMAKER): This round will consist of MCQs which will be based on statistics, probability and basic techniques related to analytics.",
-          "Pen paper round"
+          "(CHOICEMAKER): This round will consist of MCQs which will be based on basic math concepts(statistics, probability, data interpretation) and mcq related to data analytics and machine learning. "
         ],
         [
-          "HULK SMASH OF DATA): A dataset will be provided to the participants and they are required to perform a basic analysis of the data. The final output should be close to the expected result. Intimidating about software requirements is appreciable. Laptops optional. "
-        ],
-        [
-          "It is a dynamic round. Depends upon no of teams selected from round 2"
+          "(HULK SMASH OF DATA): A dataset will be provided to the participants and they are required to perform a basic analysis, prediction and visualisation. Intimidating about software requirements should be made beforehand. Laptops optional. "
         ]
       ]
     },
@@ -1694,7 +1686,7 @@
   },
   "mech": {
     "auto-quiz": {
-      "last_updated": "9/10/2018 19:21:40",
+      "last_updated": "9/11/2018 14:19:47",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -1706,7 +1698,7 @@
       "tagline": null,
       "eventname": "Auto Quiz",
       "notes": "",
-      "prize": "1st Prize: ₹2000 2nd Prize: ₹1500 3rd Prize: ₹1000",
+      "prize": "Total Prize Amount: ₹4,500",
       "intenship": null,
       "eventHeads": [
         {
@@ -1734,7 +1726,7 @@
       ]
     },
     "mechathlon": {
-      "last_updated": "9/10/2018 19:19:18",
+      "last_updated": "9/11/2018 14:20:54",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -1746,7 +1738,7 @@
       "tagline": "Just Ace It!",
       "eventname": "Mechathlon",
       "notes": "",
-      "prize": "❖1st Prize: ₹2000    ❖2nd Prize: ₹1500  ❖ 3rd Prize: ₹1000",
+      "prize": "Total Cash Prize: ₹4,500",
       "intenship": null,
       "eventHeads": [
         {
@@ -1783,19 +1775,19 @@
       ]
     },
     "robo-wars": {
-      "last_updated": "9/10/2018 10:05:24",
+      "last_updated": "9/11/2018 14:29:41",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
       "slug": "robo-wars",
-      "venue": "Mechanical Department\n\n",
+      "venue": "",
       "timing": "22 September 10:30am",
       "displayName": "Robo Wars",
       "description": "Bring your powerful robots ready to battle as you’ll be pitted against other competing robots in one-on-one knockout matches where the aim is to push the opponent’s robot off the arena or immobilizing the other bot and scoring maximum points! Play to your strengths and strategies to win cash prizes!\n",
       "tagline": null,
       "eventname": "Robo Wars",
       "notes": "Robot Control Requirements:\n\n If the bot is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the bot should be stacked as a single unit. The wires should be properly insulated. Teams are suggested to use only rated wires such as ISI marked. Loose connections or improper wiring may lead to immediate disqualification even before the event. If the bot is controlled wirelessly, the bot must at least have a four-frequency remote control circuit or two dual control circuits which may be interchanged before the start of the race to avoid frequency interference with other teams. The case of any interference in the wireless systems will not be considered for rematch or results. Remote control systems from toys are allowed. Remote control systems available in the market may also be used. Battery and Power: The machine can be powered electrically only. Batteries must be sealed, immobilized- electrolyte types (such as Li-ion, NiCd, NiMH or dry cells). Working voltages must not exceed 24V DC (mean voltage) at any point in time. All power connections must be of an adequate grade and adequately insulated. Cables must be routed to minimize the chances of being cut. All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause immediate disqualification. Battery Eliminators are allowed and power source would be available at the venue for the eliminators.\n\nMotors:\n\nThe robot should move as fast as possible around the arena with the help of motors. DC motors and stepper motors (12V-24V) can be used as per the design of bots. Note: We are not responsible for any damage that your bot may incur during the event.\n\nScore Card: \n\nThe score card is based upon the arena formulation. It is obvious that the robot with an extraordinary dynamism will succeed by thrusting out its combatant from the arena.\nIf a robot is pushed beyond the ring, the round ends and the other team is awarded the points.\nThe first team to win X rounds will get through to the Finals where X will be intimated on the day of the competition. Ultimately, if any of the combatants rolls out from the arena it will directly be eliminated from the War Field.\nCriteria for triumph: A robot will be declared immobile if it cannot demonstrate linear motion of at least one inch in a timed period of 30 seconds. A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement. If both robots survive the 5 minutes, the robot with the higher scorecard points wins. The winner advances to the next round while the loser is eliminated from the tournament.",
-      "prize": "1st Prize: ₹4000  2nd Prize: ₹3000  3rd Prize: ₹1000",
+      "prize": "Total Cash Prize: ₹8,000",
       "intenship": null,
       "eventHeads": [
         {
@@ -1863,7 +1855,7 @@
       ]
     },
     "project-exhibition": {
-      "last_updated": "9/10/2018 21:38:09",
+      "last_updated": "9/11/2018 14:23:34",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -1875,7 +1867,7 @@
       "tagline": "Science is about learning, Engineering is about doing",
       "eventname": "Project Exhibition",
       "notes": "",
-      "prize": "❖1st Prize: ₹3,000   ❖2nd Prize: ₹2,000     ❖\t3rd Prize: ₹1,000",
+      "prize": "Total Cash Prize: ₹6,000",
       "intenship": null,
       "eventHeads": [
         {
@@ -1960,7 +1952,7 @@
       ]
     },
     "outdoor-gp": {
-      "last_updated": "9/10/2018 19:17:51",
+      "last_updated": "9/11/2018 14:16:38",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -1972,7 +1964,7 @@
       "tagline": "Rev up..Feel..Race",
       "eventname": "Outdoor GP",
       "notes": "●\tThe track will be off-road with obstacles, slopes and tunnels. The width of the track will be revealed on spot. Only cars powered by internal combustion engines are allowed to compete.\n●\tElectric or solar powered cars will not be allowed under any circumstances.\n●\tMaximum allowable displacement for IC engines is 4.6 cc. Only nitro-based fuels or gasoline should be used in the cars.\n●\tFor nitro-based fuels, the amount of nitro compounds in the mixture should not exceed 25%.\n●\tFuel will not be provided by the organizers.\n●\tTeams must bring their own supplies. Only buggy type cars are allowed. The cars should fit in a 500mm x 400mm x300mm box. The antenna used for radio control is exempted from height restrictions.\n●\tParticipants are advised to have multi-channel radio controllers to prevent frequency clashes.\n●\tFHSS Transmitters (Frequency Hop Spread Spectrum) are allowed.\n●\tOrganizers will not be responsible for any interference in frequencies.\n●\tContestants must bring sufficient number of batteries. Batteries will not be provided.\n●\tBoth ready-to-run kit cars and custom fabricated cars are allowed to compete.",
-      "prize": "❖1st Prize: ₹10,000  ❖2nd Prize: ₹7,000    ❖\t3rd Prize: ₹3,000",
+      "prize": "Total Prize Amount: ₹20,000 ",
       "intenship": null,
       "eventHeads": [
         {
@@ -2011,7 +2003,7 @@
       ]
     },
     "blitz-gp": {
-      "last_updated": "9/10/2018 19:15:07",
+      "last_updated": "9/11/2018 14:18:20",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -2023,7 +2015,7 @@
       "tagline": null,
       "eventname": "Blitz GP",
       "notes": "",
-      "prize": "❖1st Prize: ₹5,000   ❖2nd Prize: ₹3,000    ❖3rd Prize: ₹1,000",
+      "prize": "Total Cash Prize: ₹9,000",
       "intenship": null,
       "eventHeads": [
         {
@@ -2071,7 +2063,7 @@
       ]
     },
     "bottle-rocketrix": {
-      "last_updated": "9/10/2018 21:59:26",
+      "last_updated": "9/11/2018 14:14:09",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -2083,7 +2075,7 @@
       "tagline": "Defy Gravity (for bottle rocketrix)",
       "eventname": "Bottle Rocketrix",
       "notes": "-",
-      "prize": "◆1st Prize: ₹3,000   ◆2nd Prize: ₹2,000      ◆3rd Prize: ₹1,000",
+      "prize": "Total Cash Prize: ₹6,000",
       "intenship": "Nil",
       "eventHeads": [
         {
@@ -2118,7 +2110,7 @@
       ]
     },
     "paper-presentation": {
-      "last_updated": "9/10/2018 21:35:13",
+      "last_updated": "9/11/2018 14:25:16",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -2130,7 +2122,7 @@
       "tagline": null,
       "eventname": "Paper Presentation",
       "notes": "Pre-registration form: https://docs.google.com/forms/d/1wFoK_8ExuCRWnNB1xmodNOpY4OQE9KptRs3ZR9eKQDk/edit?chromeless=1",
-      "prize": "For each category:  1st Prize:  ₹2500    2nd Prize: ₹1500",
+      "prize": "Total Cash Prize:  ₹12,000",
       "intenship": null,
       "eventHeads": [
         {
@@ -3097,7 +3089,7 @@
   },
   "bme": {
     "biogonize": {
-      "last_updated": "8/26/2018 13:06:45",
+      "last_updated": "9/11/2018 14:53:54",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "bme",
@@ -3105,8 +3097,8 @@
       "venue": "BME department,III year classroom",
       "timing": "22nd,9am",
       "displayName": "BIOGONIZE",
-      "description": "Totally 3 rounds,based on general engineering stuffs.And a team of 2 should participate",
-      "tagline": "It's not just your brains that needs to play!",
+      "description": "Totally 3 rounds.\n1.Takku takku takkunu- a fast video clip of pictures related to engineering and u have to identify them.\n2 Innovation out of waste- making models out of miscellaneous items.\n3.Oru kadha solta sir-Should create a story with the given biological words.\nAnd a team of 2 should participate",
+      "tagline": "It's not just your brains that need to play!",
       "eventname": "BIOGONIZE",
       "notes": "",
       "prize": "1st-1000,2nd-750,3rd-500",
@@ -3132,7 +3124,7 @@
           "U will be given few points using that points u should buy waste material and to make model out of that waste"
         ],
         [
-          "Rapid fire round"
+          "Should form a story using the given biomedical words"
         ]
       ]
     },
@@ -3497,7 +3489,7 @@
       ]
     },
     "pubg-mobile-tournament": {
-      "last_updated": "8/29/2018 20:39:14",
+      "last_updated": "9/11/2018 14:17:39",
       "isTechnical": false,
       "eventtype": "Non-Technical",
       "dept": "bme",
@@ -3508,12 +3500,12 @@
       "description": "Classic TPP Squad tournament",
       "tagline": "Do you have what it takes to be the last man standing? Come battle it out with us at SSNCE!",
       "eventname": "PUBG MOBILE TOURNAMENT ",
-      "notes": "",
+      "notes": "Pre-Register for the tournament through the above link. ",
       "prize": "Prizes upto RS.4000",
       "intenship": null,
       "eventHeads": [
         {
-          "name": "Bhargav.m",
+          "name": "Bhargav Mohan",
           "email": "bhargav15013@bme.ssn.edu.in",
           "contact": "9445436822"
         },
@@ -3535,6 +3527,36 @@
           "The final Classic TPP squad game will decide the winner"
         ]
       ]
+    },
+    "augmented-reality-and-virtual-reality": {
+      "last_updated": "9/11/2018 23:10:26",
+      "isTechnical": false,
+      "eventtype": "Workshop",
+      "dept": "bme",
+      "slug": "augmented-reality-and-virtual-reality",
+      "venue": "DTE Laboratory",
+      "timing": "22nd September, 8.30am",
+      "displayName": "Augmented Reality and Virtual Reality",
+      "description": "• Ever dreamt of becoming a game engineer?! Have an ardent fervor for deploying your own gaming  scenes? Here is an ultimate chance to develop and deploy Virtual Reality games/any varied platform.This workshop basically works on areas of designing and development of an application related to augmented reality and virtual reality.\n• The workshop is handled by professionals from the Digital Meridian.\n• The session starts at eight thirty and ends by three in the evening.\n• There are refreshments and by twelve we will break for lunch, soon the session resumes within forty five minutes.\n• The first one hour of the workshop is an introduction to AR, VR & MR.\n• For the next one hour the various fundamentals of VR are explained.\n• After which the immersive app called \"phobia\" in VR app development using the unity Google unityand VR,c# begins.\n• You can also learn on how to use a VR camera inside UNITY, implementing head rotation, sensors used in VR, lighting, creating a GUI for VR applications and what are all the game objects, materials, transformations and animations using scripting and c#.\n• Then the track turns to interactive student profile generation in AR using SDK's software platform and devices. Then AR APP development is done using VUFORIA & UNITY.\n• The workshop ends with advanced level of app development using c# scripting.\n• The other technologies being used are HTC vive, Microsoft hololens.",
+      "tagline": "Simulate and experience an immersive virtual environment that transcends the physical reality",
+      "eventname": "Augmented Reality and Virtual Reality",
+      "notes": "",
+      "prize": null,
+      "intenship": null,
+      "eventHeads": [
+        {
+          "name": "Divya Rajagopal",
+          "email": "divya15016@bme.ssn.edu.in",
+          "contact": "9940475358"
+        },
+        {
+          "name": "Asha",
+          "email": "ashachennai97@gmail.com",
+          "contact": "+91 81242 23600"
+        }
+      ],
+      "attachments": [],
+      "rules": []
     }
   },
   "maths": {
