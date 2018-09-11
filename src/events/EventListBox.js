@@ -8,7 +8,7 @@ const EventListBox = ({x,dept})=>
 	{!eventdetail[dept][x].isTechnical &&<span className='badge'>{eventdetail[dept][x].eventtype}</span>}
 	<div className='col centerify'>
 		<ProgressiveImage
-			preview={`https://robohash.org/${x}.png?bgset=bg2&&size=10x10`}
+			preview={`https://images.ssninvente.com/small/${x}.png`}
 			src={`https://images.ssninvente.com/designericons/${dept}/${x}.png?bgset=bg2&&size=150x150`}
 			render={(src, style) => <img src={src} style={{width:'150px',height:'150px'}} />}
 		/>
