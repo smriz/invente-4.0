@@ -1,5 +1,5 @@
 import React from 'react';
-import {department} from '@ssn/dinofeed';
+import department from '../data/dept.json';
 import {Link} from 'react-router-dom';
 import Navigator from '../components/Navigator'
 class DepartmentList extends React.Component{

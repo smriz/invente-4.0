@@ -45,7 +45,7 @@ a{
 @media screen and (orientation:portrait){
 	.navigator{
 		.links{
-			overflow: scroll;
+			// overflow-x: scroll;
 			// background:#eee;
 
 		}
@@ -115,6 +115,27 @@ a{
 	margin:auto;
 }
 
+.nontech{
+	border:3px solid violet;
+}
+
+.box{
+	position:relative;
+	.badge{
+		position:absolute;
+		right:-10px;
+		top:-10px;
+		background:purple;
+		color:white;
+		border-radius:5px;
+	}
+}
+
+
+.pre{
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
 .whatsapp{
 	background-repeat:repeat;
 	background-size:20%;

@@ -34,11 +34,6 @@ a {
   transition: 0.5s;
 }
 
-@media screen and (orientation: portrait) {
-  .navigator .links {
-    overflow: scroll;
-  }
-}
 .department-link {
   border: 1px solid transparent;
 }
@@ -79,6 +74,23 @@ a {
   max-width: 960px;
   margin: auto;
 }
+
+.nontech {
+  border: 3px solid violet; }
+
+.box {
+  position: relative; }
+  .box .badge {
+    position: absolute;
+    right: -10px;
+    top: -10px;
+    background: purple;
+    color: white;
+    border-radius: 5px; }
+
+.pre {
+  white-space: pre-wrap;
+  word-wrap: break-word; }
 
 .whatsapp {
   background-repeat: repeat;

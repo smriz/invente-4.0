@@ -1,5 +1,6 @@
 import React from 'react';
-import {department,eventdetail} from '@ssn/dinofeed';
+import department from '../data/dept.json';
+import eventdetail from '../data/eventdetail.json';
 import {Link} from 'react-router-dom';
 import ContactCard from '../components/ContactCard'
 import FA from 'react-fontawesome';
@@ -28,11 +29,11 @@ class EventDetail extends React.Component{
 						<FacebookProvider appId="262244974616409">
 					         <Like href={`https://www.ssninvente.com/fb/events/${dept}/${slug}`} colorScheme="dark" showFaces share />
 						</FacebookProvider>
-						<p>{event.description}</p>
+						<div>{event.description.split('\n').map(x=> <div>{x}</div> )}</div>
 
 						<div className='row m-col'>
 							{event.prize &&<Fielder icon='rupee-sign' content={event.prize}/>}
-							{event.internship && <Fielder icon='building' content={event.internship}/>}
+							{event.intenship && <Fielder icon='building' content={event.intenship}/>}
 						</div>
 
 						<div className='row m-col'>
@@ -44,7 +45,7 @@ class EventDetail extends React.Component{
 							<div className={'row rules-tab-holder'}>
 									{event.rules.map((x,i)=> <div className={`${this.state.open == i?'active':''} rules-tab`} onClick={()=>{this.setState({open:i})}}>Round {i+1}</div>)}
 							</div>
-							<div className='rules-pane'>{event.rules[this.state.open]}
+							<div className='rules-pane'>{event.rules && event.rules[this.state.open] && event.rules[this.state.open].map(x=><div>{x}</div>)}
 							</div>
 							{
 							// 	event.rules.map((round,i) =><div> Round {i+1}
@@ -76,7 +77,7 @@ class EventDetail extends React.Component{
 
 
 const Fielder = ({icon,content,color})=>
-	<div style={{borderColor:color,margin:'8px auto'}}className='fielder row'>
+	<div style={{borderColor:color,margin:'8px 8px'}} className='fielder row'>
 		<div style={{backgroundColor:color,display:'inline-flex',width:'auto'}}className='row centerify'><FA className='icon' name={icon}/></div>
 		<div>{content}</div>
 	</div>
