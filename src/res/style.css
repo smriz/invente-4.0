@@ -24,9 +24,6 @@ a {
       border-bottom: 2px solid #ff7f50;
       transition: 0.5s; }
 
-@media screen and (orientation: portrait) {
-  .navigator .links {
-    overflow: scroll; } }
 .department-link {
   border: 1px solid transparent; }
   .department-link img {
@@ -59,6 +56,13 @@ a {
 .maxi960 {
   max-width: 960px;
   margin: auto; }
+
+.nontech {
+  border: 3px solid violet; }
+
+.pre {
+  white-space: pre-wrap;
+  word-wrap: break-word; }
 
 .whatsapp {
   background-repeat: repeat;
