@@ -1,0 +1,79 @@
+#event-detail{
+    margin-left:auto;
+    margin-right:auto;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top:10px;
+    .flex-row{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            height:300px;
+            width:80%;
+            padding-left:11%;
+            padding-right: 20px;
+            padding-top: 6%;
+
+            @media screen and(orientation:'portrait'){
+                flex-direction: column;
+                height:100%;
+                
+            }
+        .flex-r-item{
+            width: 20%;
+            height: 240px;
+            box-shadow: 0 10px 10px rgb(0,0,0,0.8);
+        
+               &::after{
+                box-shadow: 0 5px 15px rgba(0,0,0,0.8);
+                opacity: 0;
+                transition: opacity 0.4s ease-in-out;
+            }
+            &:hover::after{
+               opacity: 1;
+            }
+               @media screen and (orientation:'portrait'){
+
+                width:70%;
+                padding: 10px 0px;
+    margin: 0px 34px;
+               }
+            .border-styler{
+                    height:100%;
+                    border-radius:10px;
+                   background-color:#fbc02d;
+                   padding-top:1px;
+
+                   @media screen and(orientation:'portrait'){
+                    height: 80%;
+                   }
+                .circle-encloser{
+                    width: 70%;
+                    border: 2px solid yellow;
+                    border-radius: 50%;
+                    height: 60%;
+                    background-color: #eee;
+                    margin-top: 20px;
+                    margin-left: 27px;  
+
+                    p{
+                        font-size:3rem;
+                        margin:19% 0;
+                    }
+                  }
+                    div{
+                        margin:0 auto;
+                        height:72px;
+                        border-radius: 6px;
+                        background-color:#eee; 
+                    }
+                    p{
+                        margin: 0;
+                        font-size: 32px;
+                        line-height: 70px;
+                        text-align: center;
+                    }
+            }
+        }
+    }
+}

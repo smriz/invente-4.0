@@ -12,6 +12,7 @@ class Workshop extends React.Component{
           <EventListBox x={'3d-printing'} dept={'eee'}/>
           <EventListBox x={'deep-learning-and-computer-vision'} dept={'ece'}/>
 
+
           </div>
         </div>
       </div>
