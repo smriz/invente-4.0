@@ -6,6 +6,7 @@ import Navigator from '../components/Navigator';
 import slugify from 'slugify';
 import ProgressiveImage from 'react-progressive-image-loading';
 import {Helmet} from 'react-helmet';
+import EventListBox from './EventListBox'
 class EventList extends React.Component{
 	constructor(props){
 		super(props);
@@ -29,22 +30,26 @@ class EventList extends React.Component{
 				</Helmet>
 				<div style={{minHeight:'90vh'}} className='row wrap centerify maxi960'>
 				{Object.keys(eventdetail[dept]).sort(this.sort).map(x =>
-					<Link to={`/events/${dept}/${x}`} className={`transywhite centerify 8m-8m 8p-8p`} style={{display:'inline-flex'}}>
-						<div className='col centerify'>
-						<ProgressiveImage
-    				preview={`https://robohash.org/${x}.png?bgset=bg2&&size=10x10`}
-    				src={`https://images.ssninvente.com/designericons/${dept}/${x}.png?bgset=bg2&&size=150x150`}
-    render={(src, style) => <img src={src} style={{width:'150px',height:'150px'}} />}
-/>
-							<div className='8p-16p text-center'>
-								{eventlist[dept][x]}
-							</div>
-							</div>
-					</Link>
+						<EventListBox x={x} dept={dept}/>
 				)}
 				</div>
 			</div>
 	};
 }
 
+{/*
+const EventListBox = ({x,dept})=>
+<Link to={`/events/${dept}/${x}`} className={`transywhite centerify 8m-8m 8p-8p`} style={{display:'inline-flex'}}>
+	<div className='col centerify'>
+		<ProgressiveImage
+			preview={`https://robohash.org/${x}.png?bgset=bg2&&size=10x10`}
+			src={`https://images.ssninvente.com/designericons/${dept}/${x}.png?bgset=bg2&&size=150x150`}
+			render={(src, style) => <img src={src} style={{width:'150px',height:'150px'}} />}
+		/>
+		<div className='8p-16p text-center'>
+			 {eventlist[dept][x]}
+		</div>
+	</div>
+</Link>
+*/}
 export default EventList;

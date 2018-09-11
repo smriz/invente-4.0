@@ -69,7 +69,8 @@
       "in-a-way-tee": "In-a-way-tee",
       "tech-hunt": "Tech Hunt",
       "drunk-in-quiz": "Drunk-in Quiz",
-      "junkyard-jumble":"Junkyard Jumble"
+      "junkyard-jumble":"Junkyard Jumble",
+      "deep-learning-and-computer-vision":"Deep Learning and Computer Vision"
    },
    "bme": {
       "matalino": "MATALINO",
@@ -84,7 +85,7 @@
       "hospital-hustle": "Hospital Hustle"
    },
    "civil": {
-      "1.concrete-challenge": "1.Concrete challenge ",
+      "concrete-challenge": "Concrete challenge ",
       "build-it.": "Build - It. ",
       "technical-debate": "Technical Debate",
       "green-turbo": "Green Turbo",
@@ -98,7 +99,7 @@
    },
    "maths": {
       "as-you-like-it": "As you like it",
-      "dump-c": "Dump-C",
+      "dumb-c": "Dumb-C",
       "paper-presentation": "Paper presentation ",
       "creodel": "Creodel ",
       "math-quiz": "Math quiz",
