@@ -22,7 +22,7 @@ class Navigator extends React.Component{
 						<div className='main row fluid x-center'>
 							<Link to={'/'}><h3>Invente</h3></Link>
 						</div>
-						<div className='links row x-center m-scroller'>
+						<div className='links row x-center m-scroller wrapper'>
 							{
 								Object.keys(this.routeMap).map(key =>
 	  								<NavLink className='8p-8p 8m-' to={this.routeMap[key]}>{key}</NavLink>

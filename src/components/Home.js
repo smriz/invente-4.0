@@ -22,7 +22,8 @@ class Home extends React.Component{
 			<div id="invente-content">
 			    <div className="message-content" style={{padding:'30px 0px'}}>
 				   <div className="head">
-				       <h2 style={{textAlign:'center'}}>About Invente</h2>
+				       <h2 style={{textAlign:'center'}}>About</h2>
+					   <hr width="70%"/>
 				   </div>
 				   <div className="main" style={{margin:'0 15%'}}>
 				      <center>For the first time since its inception, SSN unveils Invente, a two-day techfest built around encouraging budding engineers to discover hidden interests and enticing technophiles to showcase their talents with unbridled enthusiasm. Creativity, originality, erudition, ideas and innovation - Invente hopes to integrate them all. This is a space for the tech-savvy, the fun-loving, and the puzzle-solvers to flaunt their abilities to the world.</center><br/>
@@ -30,6 +31,34 @@ class Home extends React.Component{
 				   </div>
 				</div>
 			</div>
+			</div>
+			<div id="event-detail">
+                  <div className="flex-row">
+				      <div className="flex-r-item">
+                            <div className="border-styler">
+                                  <div className="circle-encloser">
+								  <p>78</p>
+								  </div>
+								  <div> <p>Events</p></div>
+							</div>
+					  </div>
+					  <div className="flex-r-item">
+					         <div className="border-styler">
+							      <div className="circle-encloser">
+								  <p>8L</p>
+								  </div>
+								  <div> <p>Prize Money</p></div>
+                             </div>
+					  </div>
+					  <div className="flex-r-item">
+					         <div className="border-styler">
+							      <div className="circle-encloser">
+								  <p>3</p>
+								  </div>
+								  <div><p>Workshops</p></div>
+                             </div>
+					  </div>
+				  </div>
 			</div>
 		</div>;
 	}

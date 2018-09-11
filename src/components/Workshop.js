@@ -15,10 +15,10 @@ class Workshop extends React.Component{
             "Event-Heads":[
                 {
                     "name":"Abishek Sundaresan",
-                     "phonenumber":"98745321"
+                     "phonenumber":"9884065725"
                 },{
                        "name":"Sathya Seelan",
-                       "phonenumber":"987456321"
+                       "phonenumber":"9790568416"
                 }
             ]
     },{
