@@ -432,8 +432,10 @@
       "slug": "treasure-hunt",
       "venue": "Cse department",
       "timing": "10:00 to 12:00 A.M",
+      "displayName": "Treasure Hunt",
       "description": "Tresure hunt games is an outdoor activity  it can be played in specific places which would make the work of hiding a clues harder.\n7 treasures\nFor every treasure there is a clue \n“Run D world”\n     ",
       "tagline": "“Run D world”",
+      "eventname": "Treasure Hunt",
       "notes": "",
       "prize": "1000",
       "intenship": null,
@@ -718,7 +720,7 @@
       "rules": []
     },
     "paper-presentation": {
-      "last_updated": "8/30/2018 18:32:50",
+      "last_updated": "9/11/2018 11:28:32",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
@@ -726,7 +728,7 @@
       "venue": "IT seminar hall",
       "timing": "10:30-13:30",
       "displayName": "Paper presentation",
-      "description": "It's a knowledge exploration and sharing session where ones work and ideas are presented and discussed for scope of improvement and publishing quality work.",
+      "description": "It's a knowledge exploration and sharing session where ones work and ideas are presented and discussed for scope of improvement and publishing quality work. All suitable computer science and technology related topics are welcome and original works are appreciated.",
       "tagline": "Knowledge is power",
       "eventname": "Paper presentation",
       "notes": "",
@@ -739,15 +741,15 @@
           "contact": "9445366429"
         },
         {
-          "name": "-",
+          "name": "Sonal sharma",
           "email": "_@g.com",
-          "contact": "0"
+          "contact": "7358247790"
         }
       ],
       "attachments": [],
       "rules": [
         [
-          "Selected papers are to be presented by at least one of the authors in front of a panel of judges."
+          "Selected papers are to be presented by at least one of the authors in front of a panel of judges. The presentation must have a ppt for about 10-15 minutes and Will be subjected to questioning by the judges. All the entries are to be sent to itpaperpresentationssn@gmail.com"
         ]
       ]
     },
@@ -1179,10 +1181,8 @@
       "slug": "1.concrete-challenge",
       "venue": "Concrete technology Lab (In Mechanical Workshop)",
       "timing": "21st September 2018, 11:30 am to 3:30 pm ",
-      "displayName": "1.Concrete challenge ",
       "description": "Concrete Challenge:\n\nConcrete which the universal material is used for construction purpose worldwide. There are different types of concrete depending on the type of binding material used. Cement which is used as a major binding material is used extensively, commonly known as cement concrete. Many research and developments are happening under this material such that is could me more environmental and user friendly as possible. In this event we urge you to do the same by solving our more fun and realistic problem statement which requires a decent understanding of concrete mix proportions, mold and asthetics. More wastes in this world are produced due to improper usage of recyclable materials.Thus we urge our participants to use this recyclable materials in concrete with practical and innovative thinking.\n\nProblem statement:\n\nThe concrete specimen should be casted to satisfy the following conditions.\n•\tThe concrete specimen must be a cube specimen of dimension 100 x 100 x 100 (All dimensions are in mm). Tolerance up to 5 mm is appreciated.\n•\t3 specimens of the above specification must be casted.\n•\tThe specimen must be casted such that value of it’s compressive strength is maximum (High strength concrete).\n•\tThe density of concrete can be from 1400kg/m3 to 2000 kg/m3.\n•\tOnly M25 grade concrete must be used.\n•\tRecyclable materials must be used as a replacement for aggregates (either partial or full replacement).\n•\tThe cube casted should only have curing period of 7 daysand the material added inside the cube for identification purpose will be informed later.\n•\tAn identification marker will be sent by us to all the participants 7 days before the competition and this must be kept inside the concrete cubes while casting as reference and it is mandatory. Participants without these identification markers will not be permitted in the competition.\n•\tThe cube casted must have a minimum cement content of 300kg/m3.\n•\tThe w/c ratio can be upto 0.55 for the cube casted.\n•\tChemical admixtures can be used.\n•\tThe team participating in the event should have a supervisor, who must be a registered faculty member of any engineering college recognized by government of India.\n•\tStudent must carry the college id card throughout the event.\n•\tPlease keep checking your mails and website for further updates.  \n•\tEvent coordinators and managing professor’s decision is/are final and binding. \n•       Download the attachment ,fill up the mix design clearly ,scan the document and send to the respective mail id. \n•\tThe mix design report must be submitted on or before 15th September 2018(11:59 pm) to \"concrete.ssncivil18@gmail.com\" duly signed by the supervisor.\n•\tThe submitted mix design report will be shortlisted and the selected participants will be sent a mail regarding the same. Only selected participants can take part in the event.\n•\tHard copy of the mix design report should be brought on the day of event.\n•\tThe team with the cube of maximum compressive stress will be the winner.\n•\tThe procedure for casting the concrete specimen must be followed only using IS CODAL PROVISIONS.\n•\tFailure to abide by the above rules will lead to disqualification from the event.\n\n\nScore allotment for the concrete specimen:\n\nThe score allotment for the cube specimen is as follows;\n1.\tDensity of concrete: Out of 10 marks\n(Pre qualification)\n2.\tStrength of cube specimen: Out of 50 marks\n(The marks obtained is directly proportional to strength. As the strength of the specimen is higher, marks awarded also increases).\n3.\tFinishing of the cube specimen: Out of 15 marks\n(The marks awarded will be more when the surfaces of the cube have smooth finishes and the dimensions of the specimen is similar to the problem statement with minimum tolerances).\n4.\tViva-Voce: Out of 10 marks\n(The marks for this session will be awarded by our college professor as per your team performance).\n5.\tMix design report: Out of 15 marks\n(The mix design report will be evaluated by our college professor and marks will be awarded).\nTotal marks: Out of 100 marks.\nThe team/individual will be awarded the prizes as per maximum marks obtained.\n\nNote:\n•\tParticipation for this event must only be group participation. For team (group) participation, minimum upto 2 members and maximum up to4 members are allowed.\n•\tThe above problem statements must be satisfied for being effectively rewarded marks for the specimen.\n•\tParticipation certificate will be provided.\n\n",
       "tagline": "The concrete choice for every application!",
-      "eventname": "1.Concrete challenge ",
       "notes": "",
       "prize": null,
       "intenship": null,
@@ -2572,6 +2572,36 @@
           "To solve the maze correctly."
         ]
       ]
+    },
+    "3d-printing": {
+      "last_updated": "9/11/2018 11:20:27",
+      "isTechnical": false,
+      "eventtype": "Workshop",
+      "dept": "eee",
+      "slug": "3d-printing",
+      "venue": "Main Auditorium",
+      "timing": "1100AM",
+      "displayName": "3D Printing",
+      "description": "https://drive.google.com/file/d/1Yym-2Ytn70qckjnlDCJGuQzxTU-FYgJC/view?usp=sharing",
+      "tagline": "Translating your imagination into reality",
+      "eventname": "3D Printing",
+      "notes": "NO PREREQUISITES REQUIRED. OPEN TO ALL BRANCHES",
+      "prize": null,
+      "intenship": null,
+      "eventHeads": [
+        {
+          "name": "Jyothiraditya",
+          "email": "rjyothir15090@eee.ssn.edu.in",
+          "contact": "9445388391"
+        },
+        {
+          "name": "Sudharshan",
+          "email": "jyothiraditya@gmail.com",
+          "contact": "9789326335"
+        }
+      ],
+      "attachments": [],
+      "rules": []
     }
   },
   "ece": {
@@ -2815,7 +2845,7 @@
       ]
     },
     "drunk-in-quiz": {
-      "last_updated": "8/29/2018 18:46:40",
+      "last_updated": "9/10/2018 22:53:14",
       "isTechnical": false,
       "eventtype": "Non-Technical",
       "dept": "ece",
@@ -2823,7 +2853,7 @@
       "venue": "",
       "timing": "",
       "displayName": "Drunk-in Quiz",
-      "description": "Round 1 :\nDescription :\n You will be given 20 crossword and MCQ based questions . The questions will be based on basic electronic concepts. You will have to complete the questions within the given time. Teams for final round will be selected based on the score and time taken.\nRound 2 :\nDescription :\n6 drinks ( different taste ) numbered from 1 to 6 will be placed in front of one of the team members. 6 questions numbered 1 to 6 will be asked to the other members of the team continuously. If they know the answer to the particular question they have to urge their teammate to take the corresponding drink spontaneously. After completion of all 6 questions the team should  answer the questions  they opted for. \n",
+      "description": "Round 1 :\nDescription :\n You will be given 20 general  questions . The questions will be in the form of mind teasers, puzzles etc.  You will have to complete the questions within the given time. Teams for final round will be selected based on the score and time taken.\nRound 2 :\nDescription :\n6 drinks ( different taste ) numbered from 1 to 6 will be placed in front of one of the team members. 6 questions numbered 1 to 6 will be asked to the other members of the team continuously. If they know the answer to the particular question they have to urge their teammate to take the corresponding drink spontaneously. After completion of all 6 questions the team should  answer the questions  they opted for. \n",
       "tagline": "Take a shot, not for the faint-hearted",
       "eventname": "Drunk-in Quiz",
       "notes": "",
@@ -2844,7 +2874,7 @@
       "attachments": [],
       "rules": [
         [
-          "-     20 questions will be provided with a  total time limit – 20min",
+          "-     20 questions will be provided with a  total time limit – 15min",
           "-     10 teams will qualify to the final round, based on the marks scored in round 1",
           "-       In case of tie, time taken to complete the paper will be considered."
         ],
@@ -3033,6 +3063,36 @@
           "•\tThe team which makes more money wins the game!"
         ]
       ]
+    },
+    "deep-learning-and-computer-vision": {
+      "last_updated": "9/11/2018 10:58:54",
+      "isTechnical": false,
+      "eventtype": "Workshop",
+      "dept": "ece",
+      "slug": "deep-learning-and-computer-vision",
+      "venue": "Mini Auditorium",
+      "timing": "11:00 AM  - 3:00 PM",
+      "displayName": "Deep Learning and Computer Vision",
+      "description": "Human body is one of the most complex machine on Earth. We are fascinated by how the Human Visual System works. How as a human, we see the world, store the visual information and learn from what we see and recognize patterns from previous experiences. The goal of the workshop is to help build an understanding of how to solve real world problems using Computer Vision with examples. We start from motivations for Computer Vision, developing intuitions to solve problems, converting the intuitions into the language of mathematics and finally developing code that represents the mathematics. With the help of Deep learning, we are able to attain state-of-art performance in many Computer Vision Problems. The workshop is meant for those who wants to get a hands-on experience of using DL for solving Computer Vision problems.",
+      "tagline": "Get Ready to design you own Autobot!!",
+      "eventname": "Deep Learning and Computer Vision",
+      "notes": "",
+      "prize": null,
+      "intenship": null,
+      "eventHeads": [
+        {
+          "name": "Vignesh N",
+          "email": "vigneshvicky921@gmail.com",
+          "contact": "9566475604"
+        },
+        {
+          "name": "Akshay",
+          "email": "akshay15009@ece.ssn.edu.in",
+          "contact": "9566056647"
+        }
+      ],
+      "attachments": [],
+      "rules": []
     }
   },
   "bme": {
@@ -3391,42 +3451,48 @@
       ]
     },
     "misterioso": {
-      "last_updated": "8/29/2018 20:33:24",
+      "last_updated": "9/11/2018 9:43:11",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "bme",
       "slug": "misterioso",
-      "venue": "BMI lab, bio medical dept ",
-      "timing": "First day",
+      "venue": "BMI Lab",
+      "timing": "",
       "displayName": "Misterioso",
-      "description": "Technical quiz conducted in a sporty manner. ",
-      "tagline": null,
+      "description": "A Technical Quiz",
+      "tagline": "Unlocking mysteries at the speed of thought!",
       "eventname": "Misterioso",
       "notes": "",
-      "prize": "3500",
+      "prize": "3500 in total",
       "intenship": null,
       "eventHeads": [
         {
-          "name": "Harshni. V",
-          "email": "harshni29@gmail.com ",
+          "name": "Harshni.V",
+          "email": "harshni29@gmail.com",
           "contact": "8939171116"
         },
         {
           "name": "Meghna Murali",
           "email": "meghnakt@gmail.com",
-          "contact": "+919619467457"
+          "contact": "9619467457"
         }
       ],
       "attachments": [],
       "rules": [
         [
-          "Teams(min 2 and max 3) are pitted against each other. They proceed to the next level by a round of charades. "
+          "Teams of 2 or 3 will be formed on random basis. ",
+          "Each team will qualify for the subsequent round by enacting the answers to a set of questions in the format of charades"
         ],
         [
-          "Lightning quiz "
+          "Sometimes the simplest of concepts can be tricky and nerve wracking to answer. ",
+          "The second round will be a lightning quiz round where teams will be judged on the basis of their speed to answer questions in a short span of time."
         ],
         [
-          "Collect and equip a character with the points earned by answering questions. Team with the highest points wins. "
+          "Theme Round: ",
+          "Props and items for the selected theme will be displayed.",
+          " Shortlisted teams will be asked a set of questions pertaining to the theme.",
+          " A correct answer will enable them to secure the props and items. ",
+          "The team with the maximum props and items will be declared as the Winner."
         ]
       ]
     },
@@ -3593,54 +3659,54 @@
       ]
     },
     "paper-presentation": {
-      "last_updated": "9/5/2018 9:44:03",
+      "last_updated": "9/11/2018 10:35:57",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "maths",
       "slug": "paper-presentation",
       "venue": "ECE central seminar hall",
-      "timing": "10.00am to 1.00 pm",
+      "timing": "22nd September\n10.00am to 1.00 pm",
       "displayName": "Paper presentation ",
       "description": "AREAS & TOPICS FOR PRESENTATION :\nMECHANICAL ENGINEERING :\n1.Mathematics in supply chain management.\n2.Scheduling problem using operation research.\n3.Game theory.\nELECTRONICS AND COMMUNICATION ENGINEERING:\nSignal processing :\n1.Usage of linear algebra\n2.Transforms ( Fourier, Laplace)\nCOMPUTER SCIENCE ENGINEERING:\nNetworking :\n1.Graph theory\n2.Probability and statistics\nBIOMEDICAL ENGINEERING:\nBrain network, signals using Graph theory and stochastic process",
       "tagline": null,
       "eventname": "Paper presentation ",
       "notes": "",
-      "prize": "4500",
+      "prize": "5500",
       "intenship": null,
       "eventHeads": [
         {
           "name": "Hema priya  ",
-          "email": "ssnexlog@gmail.com",
+          "email": "hemasrisha97@gmail.com",
           "contact": "9445826410"
         },
         {
           "name": "Eshwar",
-          "email": "ssnexlog@gmail.com",
+          "email": "eshwarkrishnan99@gmail.com",
           "contact": "9962022236"
         }
       ],
       "attachments": [],
       "rules": [
         [
-          "Candidates should send their paper in soft copy to the e-mail address ssnexlog@gmail.com before the LAST DATE (14/09/2018). PAPERS MAILED AFTER 14/09/2018, 08.00PM WILL NOT BE CONSIDERED. Can be a team of two members. Spot entries are not allowed. Accepted papers will be intimated through their mail id on or before 20/09/2018."
+          "Candidates should send their paper in soft copy to the e-mail address ssnexlog@gmail.com before the LAST DATE (19/09/2018). PAPERS MAILED AFTER 19/09/2018, 08.00PM WILL NOT BE CONSIDERED. Can be a team of two members. Spot entries are not allowed. Accepted papers will be intimated through their mail id on or before 20/09/2018."
         ],
         [
           "The presentation time is 8 minutes and the queries for 2 minutes for each paper. Selected candidates should bring 2 hard copies at the time of presentation. 2 copies of abstract for the presentation in hardcopy required on the day of presentation, not exceeding 300 words. Judges decision will be final and will not be further entertained."
         ]
       ]
     },
-    "dump-c": {
+    "dumb-c": {
       "last_updated": "9/10/2018 21:18:06",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "maths",
-      "slug": "dump-c",
+      "slug": "dumb-c",
       "venue": "EH-5 EEE block third floor",
       "timing": "22nd September\nPrelims: 10.00 am to 12.00 pm\nFinals :1 .00 pm to 2.30 pm",
-      "displayName": "Dump-C",
+      "displayName": "Dumb-C",
       "description": "Are you a math wiz who's tired of conventional competitions? Or are you someone who loves express oneself with a myriad of expressions and actions? Do people say that you're great at understanding others with no words being spoken? Or are you simply someone who's looking for some fun? Well look no more! Here's an event that's sure to entertain all of you! Come, participate in the Dumb-C event at Exlog 2018, the national level technical symposium organised by the department of Mathematics at SSN College of Engineering. This isn't just your everyday charades game. It's got different rounds of exciting variations of Dumb-C, each with a Mathematical twist. You don't want to miss this one. Participate to enjoy the fun. ",
       "tagline": null,
-      "eventname": "Dump-C",
+      "eventname": "Dumb-C",
       "notes": "",
       "prize": "4500",
       "intenship": null,
