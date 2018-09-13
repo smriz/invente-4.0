@@ -25,7 +25,7 @@ class EventDetail extends React.Component{
 				</Helmet>
 				<div className='8p-8p maxi960 transywhite'>
 				 		<h1>{event.eventname}</h1>
-						{event.tagline && <h5 style={{marginLeft:'0px',marginTop:'-16px',color:'#888'}} className='8m-8m'>{event.tagline}</h5>}
+						{event.tagline && <h5 style={{marginLeft:'0px',marginTop:'-16px',color:'#888'}} className='text-center 8m-8m'>{event.tagline}</h5>}
 						<FacebookProvider appId="262244974616409">
 					         <Like href={`https://www.ssninvente.com/fb/events/${dept}/${slug}`} colorScheme="dark" showFaces share />
 						</FacebookProvider>
@@ -40,7 +40,7 @@ class EventDetail extends React.Component{
 							{event.timing &&<Fielder icon='clock' content={event.timing}/>}
 							{event.venue && <Fielder icon='map' content={event.venue}/>}
 						</div>
-						<p>{event.attachments[0] && <a href={event.attachments[0]}>Click to view the Attachment</a>}</p>
+						<p>{event.attachments[0] && <a className='8p-16p 8m-8m' style={{display:'inline-block',background:'violet',color:'white'}} href={event.attachments[0]}>Click to view the Attachment</a>}</p>
 						<div>
 							<div className={'row rules-tab-holder'}>
 									{event.rules.map((x,i)=> <div className={`${this.state.open == i?'active':''} rules-tab`} onClick={()=>{this.setState({open:i})}}>Round {i+1}</div>)}

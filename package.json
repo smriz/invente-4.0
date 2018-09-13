@@ -22,7 +22,7 @@
     "eject": "react-scripts eject",
     "develop": "concurrently \"yarn start\" \"yarn scss-watch\"",
     "scss-watch": "sass src/res/style.scss:src/res/style.css --watch",
-    "deploy": "yarn build && cp build/index.html build/200.html && aws s3 sync build/ s3://www.ssninvente.com"
+    "deploy": "yarn build && cp build/index.html build/200.html && aws s3 sync build/ s3://www.ssninvente.com --profile invente"
   },
   "devDependencies": {
     "axios": "^0.18.0",

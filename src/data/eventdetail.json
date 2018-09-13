@@ -361,37 +361,6 @@
         ]
       ]
     },
-    "mobile-shooting": {
-      "last_updated": "9/8/2018 14:09:28",
-      "isTechnical": false,
-      "eventtype": "Non-Technical",
-      "dept": "cse",
-      "slug": "mobile-shooting",
-      "venue": "\nCSE block",
-      "timing": "10 AM ",
-      "displayName": "Mobile Shooting",
-      "description": "PlayerUnknown's Battlegrounds  is an online multiplayer battle royale game\n\nGame description :\n1.squad a\n2.dual\n3.solo \n\nMaps:\n>Erangel \n>Miramar\n\n\n",
-      "tagline": "Welcome to pochinki",
-      "eventname": "Mobile Shooting",
-      "notes": "",
-      "prize": "5k",
-      "intenship": null,
-      "registrationFee": null,
-      "eventHeads": [
-        {
-          "name": "Mohammed Fazil",
-          "email": "Ram997mohan@gmail.com",
-          "contact": "+917708927779"
-        },
-        {
-          "name": "Mohanraj ",
-          "email": "mohanraj19061@cse.ssn.edu.in",
-          "contact": "7708232208"
-        }
-      ],
-      "attachments": [],
-      "rules": []
-    },
     "poster-design": {
       "last_updated": "9/9/2018 12:51:56",
       "isTechnical": true,
@@ -698,7 +667,7 @@
       ]
     },
     "webaholic": {
-      "last_updated": "8/30/2018 12:44:12",
+      "last_updated": "9/12/2018 7:35:11",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
@@ -726,7 +695,13 @@
         }
       ],
       "attachments": [],
-      "rules": []
+      "rules": [
+        [
+          "Pen Paper Round",
+          "1. Participants should not use Mobile Phones.",
+          "2. The round goes on for 45 minutes."
+        ]
+      ]
     },
     "paper-presentation": {
       "last_updated": "9/11/2018 11:28:32",
@@ -829,7 +804,9 @@
           "contact": "8438947579"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "https://drive.google.com/file/d/0B6xTbfDyn_ypczFnZ1lKSVFZdzJFUktnbEVQWGhRazk5UWVj/view?usp=drivesdk"
+      ],
       "rules": [
         [
           "10 objective questions and problem solving programs with alloted time 30 mins "
@@ -1027,7 +1004,9 @@
           "contact": "9940209324"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "https://goo.gl/forms/zUnofzBzOesVeX9D3"
+      ],
       "rules": [
         [
           "The format for the Debate is as follows (this will be strictly adhered to):",
@@ -1049,7 +1028,7 @@
       ]
     },
     "in-quiz-it": {
-      "last_updated": "9/10/2018 19:29:46",
+      "last_updated": "9/13/2018 21:34:06",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "civil",
@@ -1057,7 +1036,7 @@
       "venue": "Civil engineering department- Final year classroom",
       "timing": "10:30AM to 3PM",
       "displayName": "In Quiz - It",
-      "description": "Want to have some fun with your grey matter?? An exquisite platform awaits all the In-QUIZ-itive minds out there. Test your knowledge  but more importantly gain more knowledge and be ready to have a brainy day at the office at SSN College of engineering.\n\nTEAM CRITERIA: Maximum of 2 students are allowed in a team\n",
+      "description": "Want to have some fun with your grey matter?? An exquisite platform awaits all the In-QUIZ-itive minds out there. Test your knowledge  but more importantly gain more knowledge and be ready to have a brainy day at the office at SSN College of engineering.\n\nTEAM CRITERIA: Maximum of 2 students are allowed in a team\nEVENT DATE: 21st SEPTEMBER, 2018\n",
       "tagline": "DE-SHUTTERING YOUR BRAIN!!!",
       "eventname": "In Quiz - It",
       "notes": "",
@@ -1221,7 +1200,9 @@
           "contact": "8939271641/9597581305"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "https://drive.google.com/file/d/0Bw9tAbAA6Xbiak5kY01kVTIzVlZPQzZfbWR4N2I3ZkRNNkMw/view?usp=sharing"
+      ],
       "rules": [
         [
           "Shortlisting the correct and valid mix design report :",
@@ -1297,7 +1278,7 @@
       ]
     },
     "treasure-hunt": {
-      "last_updated": "9/10/2018 10:27:22",
+      "last_updated": "9/13/2018 8:31:45",
       "isTechnical": false,
       "eventtype": "Non-Technical",
       "dept": "civil",
@@ -1305,13 +1286,13 @@
       "venue": "Survey Lab",
       "timing": "22nd September ,10 A.M",
       "displayName": "Treasure hunt",
-      "description": "A Treasure Hunt is one of many different types of games for players who try to find hidden objects or places by following a series of clues. It contains six interesting clues and six interesting tasks. One who complete all the given tasks and cracks all the given clues within stipulated period will be the winner\n               Hurray! Treasure hunt turns NON-TECHNICAL this year. so participants from other departments are also allowed.",
+      "description": "A Treasure Hunt is one of many different types of games for players who try to find hidden objects or places by following a series of clues. \n\nA chance to loot our treasure!\nCrack 6 clues\nComplete 6 tasks.\nTo be the Blackbeard of pirates.\n\nYou will sure be the Bewitched by the golden Luminosity of our treasure. You are invited to witness the complete Fun! \n\n               Hurray! Treasure hunt turns NON-TECHNICAL this year. so participants from other departments are also allowed.",
       "tagline": "“Clear vision holds the key.”     ― M.J. Colewood ",
       "eventname": "Treasure hunt",
       "notes": "",
       "prize": null,
       "intenship": null,
-      "registrationFee": null,
+      "registrationFee": "30 /- per Team",
       "eventHeads": [
         {
           "name": "SM. RAMASAMY",
@@ -1500,7 +1481,9 @@
           "contact": "9791099221"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "https://goo.gl/forms/PiMDIzupx2V7aeze2"
+      ],
       "rules": [
         [
           "The registered teams will report at the venue. ",
@@ -1755,7 +1738,9 @@
           "contact": "9176091197"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "Pre-registration form:  https://docs.google.com/forms/d/e/1FAIpQLSda-HqQ-qlvjpu-tOjNTFdSHsXmpCdQylaImOsl8gvllS129A/viewform?usp=sf_link"
+      ],
       "rules": [
         [
           "This is a team event. Each team can consist maximum of 3 members. The event has two stages.",
@@ -1796,7 +1781,9 @@
           "contact": "9884330513"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "Pre-registration Form: https://goo.gl/forms/Zow8Wzv9LfD9Tc5l1"
+      ],
       "rules": [
         [
           "Prelims:",
@@ -1846,7 +1833,9 @@
           "contact": "9659024667"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "Pre-registration form: https://goo.gl/forms/AFtfnw0iOJwyQEiA3"
+      ],
       "rules": [
         [
           "A team may consist of a maximum of 3 participants. Design and construct a wired or remote controlled bot capable of fighting in a one on one tournament.",
@@ -1890,7 +1879,9 @@
           "contact": "9710222162"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "Pre-registration form: https://docs.google.com/forms/d/e/1FAIpQLSdM1UUiqzrOa0sOAoDpjB9-JDLKCZtC6sU3StW1-cNgE5l0EQ/viewform?usp=pp_url"
+      ],
       "rules": [
         [
           "●\tOne hour will be provided for each team to design and develop the yacht.",
@@ -1928,7 +1919,9 @@
           "contact": "9488160086"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "Pre-registration form: https://docs.google.com/forms/u/2/d/e/1FAIpQLSedT_YjRX0xhqD5PkNOHi5D_L1GcL8R2BOZD9YFRl8-s5o0Cg/formResponse?pli=1"
+      ],
       "rules": [
         [
           "General Rules:",
@@ -2027,7 +2020,9 @@
           "contact": "9894254981"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "Pre-registration Form:  https://goo.gl/forms/rQBspFi44KIcAPU13"
+      ],
       "rules": [
         [
           "●\tParticipants are required to submit an abstract containing the details of the parts fabricated to the email id mentioned below before the day of the event.",
@@ -2079,7 +2074,9 @@
           "contact": "8220706078"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "Pre Registration Link: https://goo.gl/forms/HotyzwWfFTk6ndE72"
+      ],
       "rules": [
         [
           "A Team can have upto 4 members",
@@ -2140,7 +2137,9 @@
           "contact": "8807275470"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "Pre-registration form: https://goo.gl/forms/fWZyaC1WeJGbWHsw2"
+      ],
       "rules": [
         [
           "●\tTeams of 2-3 members are allowed.",
@@ -2188,7 +2187,9 @@
           "contact": "7639158829"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "Template for attachment : https://drive.google.com/file/d/1VqPRmDILRZXPR4CS0ytky8VENgj5gELu/view?usp=sharing"
+      ],
       "rules": [
         [
           "Max. No. of members per team: 3",
@@ -2203,15 +2204,15 @@
   },
   "eee": {
     "line-follower": {
-      "last_updated": "8/29/2018 13:00:55",
+      "last_updated": "9/13/2018 11:55:16",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "eee",
       "slug": "line-follower",
-      "venue": "Mpmc lab eee",
-      "timing": "830-3",
+      "venue": "Measurements and instrumentation lab- EEE Block",
+      "timing": "830 AM - 4 PM",
       "displayName": "Line Follower",
-      "description": "One of the flagship event where contestants build bots to follow a black line with lots of twists and turns and many more surprises. Quickest ones prevail",
+      "description": "Wanna be the new Dr. Vaseegaran in town??! Come with your Chitti, get your neural schema right and show off your skills in front of Dr. Bohra and Sana.. Invente presents to you Line Follower 3.0 with lot of twists and turns..!!",
       "tagline": null,
       "eventname": "Line Follower",
       "notes": "",
@@ -2230,23 +2231,37 @@
           "contact": "7358595098"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "https://drive.google.com/open?id=1M8RBmIC_0mj4irv5zDoaE5aMa6ND6lXI"
+      ],
       "rules": [
         [
-          "Simple track with standard rules.",
-          " No readymade bots. ",
-          "Bettery voltage between 2 points mustn't exceed 24v",
-          "Bots maximum size is 25*25*25 cm",
-          "Width of black line is 3cm",
-          "No external power supply"
+          "BEAT THE CLOCK",
+          "• A team can consist maximum of 4 members. Students from different ",
+          "educational institutes can form a team. ",
+          "• The line to be traced (black line) is of 30mm in width.",
+          "•  The potential difference between any two points in the bot must not exceed ",
+          "12V.",
+          " • The bot must be powered only by on-board batteries.",
+          " • The maximum dimensions of the bot should be 25cm x 25cm x 20cm. ",
+          " • Ready-made bots are strictly prohibited. ",
+          "• All components should be brought by the participants. ",
+          "• Judge's decision will be final and any further arguments with the judges will ",
+          "be penalized.",
+          "• Main objective is to traverse the track as quickly as possible.",
+          "• Best of 2 tries will be considered.",
+          "• Participants can adjust their sensors and gains after the first run.",
+          "• Track will have straight lines, curves, markers and turns (90 degree, acute and ",
+          "obtuse angles).",
+          "• Top teams qualify."
         ],
         [
-          "Tunnels and lot more interesting taks ",
-          "No readymade bots. ",
-          "Bettery voltage between 2 points mustn't exceed 24v",
-          "Bots maximum size is 25*25*25 cm",
-          "Width of black line is 3cm",
-          "No external power supply"
+          "Beat the track",
+          "• Main objective is to travel the farthest. In case of a tie, winners will be ",
+          "decided based on the time taken to complete.",
+          "• Track will have straight lines, curves, markers, loops, gaps, turns (90 degree, ",
+          "acute and obtuse angles).",
+          "• Judges decision is final."
         ]
       ]
     },
@@ -2615,7 +2630,9 @@
           "contact": "9094163338"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "http://www.facebook.com/ssninvente"
+      ],
       "rules": [
         [
           "1.Maximum 4 players per team.",
@@ -2706,10 +2723,10 @@
       "slug": "in-a-way-tee",
       "venue": "DSP Lab",
       "timing": "",
-      "displayName": "In-a-way-tee",
+      "displayName": "In-a-way-te",
       "description": "En Vazhi, Thani Vazhi'\nPassionate about technology? Tired of all the theory you’re reading? Want to challenge your gray matter with a real-life problem? You have come to the right place! At IN-A-WAY-TE, you will be solving a problem that people face in their everyday lives. It is an opportunity to learn what can be done and how it can be done. At the end, you’d have a solution to the problem - your own solution - which you can implement and claim to be a real-time problem solver. What more? You’ll also learn important aspects of problem solving like first principles thinking, breaking the problem into modules, and much more. Come and see for yourself!!  \n\nPRELIMS : WRITTEN ROUND\n10-15 questions distributed across three sections - puzzles, electronics, programming. \nDuration – 50 minutes.\n\nFINALS:\nTeams can choose between hardware/software for this round. Depending on their choice, different problem statements will be given. To make the competition fair and square, teams can choose between either two software questions or one hardware question.  \nWhat’s most important is the approach to the problem and not solving it per se.",
       "tagline": "En Vazhi, thani Vazhi",
-      "eventname": "In-a-way-tee",
+      "eventname": "In-a-way-te",
       "notes": "",
       "prize": null,
       "intenship": null,
@@ -2856,7 +2873,9 @@
           "contact": "6380249830"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "-"
+      ],
       "rules": [
         [
           "- It will be a written test comprising of 20 questions. Rough sheets will be provided for ",
@@ -3159,6 +3178,39 @@
       ],
       "attachments": [],
       "rules": []
+    },
+    "ai-4-good-hackathon": {
+      "last_updated": "9/13/2018 22:40:02",
+      "isTechnical": false,
+      "eventtype": "Hackathon",
+      "dept": "ece",
+      "slug": "ai-4-good-hackathon",
+      "venue": "",
+      "timing": "21st September 1:00 pm to 22nd September 6:00 pm",
+      "displayName": "AI 4 GOOD  - Hackathon",
+      "description": "IBM OpenPower and Tech Club SSN present to you, #AI4Good hackathon as a part of SSN Invente 2018!\nThis is an open themed hackathon that urges participants to create innovative AI solutions that can impact society for the greater good.The challenge will be for people who already have experience working or studying about Deep Learning, they’ll have to solve the challenge taking advantage of the computational power of the IBM Power Systems Platform.\n\nThe challenge: Using Deep Learning and the IBM Power platform, participants must develop a solution that enhances society in one of the following domains: \n1. Healthcare\n2. Governance\n3. Safety\n\nRecommended background for the challenge:\n1. Experience programming with python\n2. Basic knowledge of machine learning and deep learning\n3. Basic knowledge of the framework Tensorflow\n\nA workshop will be held before the hackathon. \n\nDuration: 24 Hours\nParticipants per team: 3 (Max)\n\nAgenda:\nFriday, 21st \n● 1.00 pm to 5.00 pm: Welcoming the Participants and PowerAI workshop\n● 5.00 pm:  Hackathon Commencement\n      \nSaturday, 22nd\n● 4:00 pm: Demonstration of the prototypes!\n● 5:30 pm: Awards\n",
+      "tagline": "#AI4Good",
+      "eventname": "AI 4 GOOD  - Hackathon",
+      "notes": "",
+      "prize": null,
+      "intenship": null,
+      "registrationFee": "750₹ per team",
+      "eventHeads": [
+        {
+          "name": "Bharath Raj",
+          "email": "bharathrajn98@gmail.com",
+          "contact": "9841069732"
+        },
+        {
+          "name": "Rakesh V",
+          "email": "rakeshvivek97@gmail.com",
+          "contact": "9884706702"
+        }
+      ],
+      "attachments": [
+        "bit.ly/ai4hack"
+      ],
+      "rules": []
     }
   },
   "bme": {
@@ -3345,7 +3397,9 @@
           "contact": "‭+91 93846 51851‬"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "https://docs.google.com/document/d/1dXgS0_LCafeacIRFEO4bfG6iJv277N72mFK5Oi0HNfI"
+      ],
       "rules": [
         [
           "Abstracts should be sent by 10th September "
@@ -3401,7 +3455,7 @@
       ]
     },
     "demaxxon": {
-      "last_updated": "8/29/2018 15:16:44",
+      "last_updated": "9/12/2018 15:19:48",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "bme",
@@ -3410,7 +3464,7 @@
       "timing": "9AM-2PM",
       "displayName": "Demaxxon",
       "description": "Demaxxon is full of interesting challenges and innovative mind always look up for the challenges,which aids in understanding the secrets of technology.",
-      "tagline": "Try and Fail but don't Fail to Try",
+      "tagline": "Try to Fail but don't Fail to Try",
       "eventname": "Demaxxon",
       "notes": "No",
       "prize": "2500",
@@ -3428,19 +3482,18 @@
           "contact": "7708234637"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "No"
+      ],
       "rules": [
         [
-          "Find maximum number of things in a technical video duration 1hour."
+          "Choose one among the collection of domains and answer for that questions duration 1 hour."
         ],
         [
           "Face the technical as well as non technical questions and challenge with the opposite team duration 2 hours."
         ],
         [
-          "Find the colour which holds the clue to the unsolved puzzles duration 30minutes."
-        ],
-        [
-          "Choose one among the collection of domains and answer for that questions duration 30minutes."
+          "Find maximum number of things in a technical/non technical video duration 1hour."
         ]
       ]
     },
@@ -3452,10 +3505,10 @@
       "slug": "hospital-hustle",
       "venue": "BME Seminar Hall",
       "timing": "9 AM",
-      "displayName": "Hospital Hustle",
+      "displayName": "Biomart",
       "description": "A virtual money game where the ultimate goal is to build and keep the hospital alive even when the spurious accidents do the rounds.  Design your very own hospital, tweak every detail and show us that you own all the tricks of the business. Become an aspiring manager, a successful planner and an ace practioner all at the same time.",
       "tagline": "Play or bid to keep your stakes high to build your own hospital",
-      "eventname": "Hospital Hustle",
+      "eventname": "Biomart",
       "notes": "",
       "prize": "Winner - Rs 3500 First Runner up - Rs 2000 Second Runner up - RS 1500 ",
       "intenship": null,
@@ -3599,7 +3652,9 @@
           "contact": "7010141458"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "https://docs.google.com/forms/d/e/1FAIpQLScylKYymZMokd9eWDJ047mdrbu-ba64BcuINQqH1c3IGdBVyw/viewform"
+      ],
       "rules": [
         [
           "Top 5 teams will be selected from 4 games"
