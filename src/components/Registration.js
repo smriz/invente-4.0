@@ -14,20 +14,30 @@ class Registration extends React.Component{
                <div className="register-instructions">
                    Instructions to be followed:
                    <ul className="register-points">
-                   <li>All Students must bring their college ID Card</li>
-                   <li>General Registration for events : Rs.100</li>
-                   <li>Students can also register on the spot. Payment will have to be made with the same.</li>
-                   <li>Participants who have registered can take part in events on both days 21th and 22nd Sept 2018.</li>
-                   <li>Workshop Registration details are available on the workshop page</li>
-                   <li>Online Registration closes on 19th September.</li>
-                   <li>Workshop fee details are available in the workshop tab of the website. </li>
+                     <li>All Students must bring their college ID Card</li>
+                     <li>The entry fee for different events are as follows:
+                     <ul>
+                        <li>General registration – 120 / person</li>
+                        <li> Deep learning and Computer Vision workshop – 300 / person </li>
+                        <li> Artificial Intelligence and Machine learning – 350 / person </li>
+                        <li> 3D printing – 300 / person </li>
+                        <li> Civil Workshop – 250 / person </li>
+                        <li> Virtual Reality – 600 / person or 800 / team of 2 or 1200 / team of 3 </li>
+                        <li> Ex log – 200 / team of 3 </li>
+                      </ul>
+                      <li>Payment must be made on spot </li>
+                      <li> Workshop participants must be at the venue 30 mins prior the scheduled time.</li>
+                      <li> Students who have registered can take part in the events on both days, 21</li>
+                      <li> September and 22nd September 2018 (Applicable only for General Registration)</li>
+                      </li>
                        </ul>
                </div>
-            <div  className="main-register" style={{margin:'5% 11%'}}>
-            <iframe id="formdata" src="https://docs.google.com/forms/d/e/1FAIpQLSecQVbxa6NGzCmZrSp9-Gyqb1Tu1b435rVcRm73_6Aomn6yCg/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+            <div>
+            <iframe style={{height:'1000px',width:'100%'}} src="https://docs.google.com/forms/d/e/1FAIpQLSf0onykh03arSsorpFzBKQ_WW3kuEyOzbHRYzd1twm9Fqv_sQ/viewform?embedded=true"  frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+            {/*<iframe id="formdata" src="https://docs.google.com/forms/d/e/1FAIpQLSecQVbxa6NGzCmZrSp9-Gyqb1Tu1b435rVcRm73_6Aomn6yCg/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>*/}
             </div>
             </div>
-            </div>        
+            </div>
         {/*<div id="registration">
                  <div id="registration-content">
                          <div id="registration-area">

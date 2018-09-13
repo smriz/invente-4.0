@@ -15,6 +15,7 @@
       "notes": "",
       "prize": "SumOfWinnings(1,2,3) = 6K",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Parimala Suresh Congovi",
@@ -63,6 +64,7 @@
       "notes": "",
       "prize": "SumOfWinnings(1,2,3) = 6K",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Bala Sankar",
@@ -103,6 +105,7 @@
       "notes": "",
       "prize": "SumOfWinnings(1,2,3) = 6K",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Priscilla Andrew",
@@ -153,6 +156,7 @@
       "notes": "",
       "prize": "SumOfWinnings(1,2,3) = 6K",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Suryakanth M",
@@ -193,6 +197,7 @@
       "notes": "",
       "prize": "SumOfWinnings(1,2,3) = 7K",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Shivani K",
@@ -241,6 +246,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Vigneshwara Prakash",
@@ -280,6 +286,7 @@
       "notes": "",
       "prize": "SumOfWinnings(1,2,3) = (7K, Internships!)",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Sudarsan",
@@ -325,6 +332,7 @@
       "notes": "",
       "prize": "SumOfWinnings(1,2,3) = 6K",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Poorvaja S",
@@ -353,36 +361,6 @@
         ]
       ]
     },
-    "mobile-shooting": {
-      "last_updated": "9/8/2018 14:09:28",
-      "isTechnical": false,
-      "eventtype": "Non-Technical",
-      "dept": "cse",
-      "slug": "mobile-shooting",
-      "venue": "\nCSE block",
-      "timing": "10 AM ",
-      "displayName": "Mobile Shooting",
-      "description": "PlayerUnknown's Battlegrounds  is an online multiplayer battle royale game\n\nGame description :\n1.squad a\n2.dual\n3.solo \n\nMaps:\n>Erangel \n>Miramar\n\n\n",
-      "tagline": "Welcome to pochinki",
-      "eventname": "Mobile Shooting",
-      "notes": "",
-      "prize": "5k",
-      "intenship": null,
-      "eventHeads": [
-        {
-          "name": "Mohammed Fazil",
-          "email": "Ram997mohan@gmail.com",
-          "contact": "+917708927779"
-        },
-        {
-          "name": "Mohanraj ",
-          "email": "mohanraj19061@cse.ssn.edu.in",
-          "contact": "7708232208"
-        }
-      ],
-      "attachments": [],
-      "rules": []
-    },
     "poster-design": {
       "last_updated": "9/9/2018 12:51:56",
       "isTechnical": true,
@@ -398,6 +376,7 @@
       "notes": "",
       "prize": "SumOfWinnings(1,2,3) = 6K",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Gunalan S",
@@ -439,6 +418,7 @@
       "notes": "",
       "prize": "1000",
       "intenship": null,
+      "registrationFee": "40",
       "eventHeads": [
         {
           "name": "Mohanraj.S",
@@ -478,6 +458,7 @@
       "notes": "",
       "prize": "First Prize:SPI internship, Second Prize:3000 ,Third Prize:2000",
       "intenship": "SPI Cinemas",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "M.S.Vignesh",
@@ -507,20 +488,21 @@
       ]
     },
     "mock-regrootment": {
-      "last_updated": "8/29/2018 15:22:15",
+      "last_updated": "9/11/2018 21:58:15",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
       "slug": "mock-regrootment",
-      "venue": "Lab and classroom",
-      "timing": "11-12 online round(day 1)\nInterview/GD(day 2 for shortlisted)",
+      "venue": "Lab and classroom(IT dept and CDC)",
+      "timing": "DAY 1\nMaximum 60 registrations\n11am-12pm Batch 1 online round\n12.30pm-1.30 Batch 2 online round\n2pm-5.30pm Technical Interview/GD\nDAY 2\nTournament OS interview",
       "displayName": "Mock Regrootment",
       "description": "Mock recruitment/placement process",
-      "tagline": null,
+      "tagline": "Take our test and try out your chances of getting placed in your dream company",
       "eventname": "Mock Regrootment",
       "notes": "",
-      "prize": "First prize-1500,second prize-1000,third prize-500",
-      "intenship": null,
+      "prize": "First prize-2000,second prize-1500,third prize-1000",
+      "intenship": "TournamentOS(Top 3)",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Dheepthaa K A",
@@ -536,28 +518,30 @@
       "attachments": [],
       "rules": [
         [
-          "No use of mobile phones.",
-          "Scores and shortlist based on the online test ",
-          "Online round will consist of 15 aptitude and 1 basic coding question"
+          "One hour to do 15 aptitude and 1 coding question ",
+          "Individual event",
+          "No use of mobile phones",
+          "Scores and shortlist based on the online test "
         ],
         [
-          "Technical interviews for cse/it shortlists by the event heads",
+          "Technical interviews for CSE/IT shortlists by the event heads",
           "Group discussion for other department shortlists",
-          "Decision taken by the event heads is final and should be obeyed"
+          "Decision taken by the event heads is final and should be obeyed",
+          "Shortlist from this round will be sent to Round 3",
+          "Resume is a must for this round"
         ],
         [
-          "Hr round conducted by one of our department faculty",
-          "Decision taken by faculty and event heads is final"
+          "TournamentOS team will come on day 2 and interview the students and announce the winners"
         ]
       ]
     },
     "captain-algo": {
-      "last_updated": "8/29/2018 20:03:21",
+      "last_updated": "9/11/2018 22:53:42",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
       "slug": "captain-algo",
-      "venue": "IT Department Lab (Any lab with computers with proper browsers)",
+      "venue": "IT Department Lab",
       "timing": "Sept 21 (10 am)",
       "displayName": "Captain Algo",
       "description": "A technical event testing the data structures and algorithms knowledge of participants.",
@@ -566,10 +550,11 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Prashanthi B",
-          "email": "prashanthib15074@it.ssn.edu.in",
+          "email": "prashanthib15074@it.ssn.edu ",
           "contact": "9789950987"
         },
         {
@@ -581,19 +566,13 @@
       "attachments": [],
       "rules": [
         [
-          "1. 2 to 3 people can be part of a team.",
+          "1. A Team of 1 or 2 persons can participate.",
           "2. It will be a pen and paper round.",
-          "3. It will have 20 mcqs on basically finding out what algorithm or data structure to use for given concept and 5 reverse coding questions.",
-          "4. 10 to 12 teams will be taken for the next round."
+          "3. Questions of varying difficulties based on DS and algorithms with a touch of coding, logic, reverse coding and MCQs will be given.",
+          "4. 8 to 10 teams will be taken for the next round."
         ],
         [
-          "1. It will have 3 programming questions that expects the team to give proper and complete implementation of given problem statement using the appropriate OOPS and DS concepts.",
-          "2. This will also be a pen and paper round.",
-          "3. 6 teams will be selected for the third round."
-        ],
-        [
-          "1. It will be hosted on hackerrank and 3 problem statements will be given and solutions for the same will be tested on the online platform.",
-          "2. All teams qualifying for the final round will receive certificates. "
+          "3 problem statements will be given and solutions for the same will be tested on an online platform. All teams qualifying for the final round will receive certificates. "
         ]
       ]
     },
@@ -612,6 +591,7 @@
       "notes": "",
       "prize": "10000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Gautham Krishnan ",
@@ -649,7 +629,7 @@
       ]
     },
     "data-avengers": {
-      "last_updated": "8/30/2018 18:32:22",
+      "last_updated": "9/11/2018 22:07:37",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
@@ -663,6 +643,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Sruthi Chandrasekaran ",
@@ -678,19 +659,15 @@
       "attachments": [],
       "rules": [
         [
-          "(CHOICEMAKER): This round will consist of MCQs which will be based on statistics, probability and basic techniques related to analytics.",
-          "Pen paper round"
+          "(CHOICEMAKER): This round will consist of MCQs which will be based on basic math concepts(statistics, probability, data interpretation) and mcq related to data analytics and machine learning. "
         ],
         [
-          "HULK SMASH OF DATA): A dataset will be provided to the participants and they are required to perform a basic analysis of the data. The final output should be close to the expected result. Intimidating about software requirements is appreciable. Laptops optional. "
-        ],
-        [
-          "It is a dynamic round. Depends upon no of teams selected from round 2"
+          "(HULK SMASH OF DATA): A dataset will be provided to the participants and they are required to perform a basic analysis, prediction and visualisation. Intimidating about software requirements should be made beforehand. Laptops optional. "
         ]
       ]
     },
     "webaholic": {
-      "last_updated": "8/30/2018 12:44:12",
+      "last_updated": "9/12/2018 7:35:11",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
@@ -704,6 +681,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Chandramowli",
@@ -717,7 +695,13 @@
         }
       ],
       "attachments": [],
-      "rules": []
+      "rules": [
+        [
+          "Pen Paper Round",
+          "1. Participants should not use Mobile Phones.",
+          "2. The round goes on for 45 minutes."
+        ]
+      ]
     },
     "paper-presentation": {
       "last_updated": "9/11/2018 11:28:32",
@@ -734,6 +718,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Jayaram hariharakrishnan",
@@ -768,6 +753,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Murugappan",
@@ -805,6 +791,7 @@
       "notes": "",
       "prize": "6500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Jagannathan. S",
@@ -817,7 +804,9 @@
           "contact": "8438947579"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "https://drive.google.com/file/d/0B6xTbfDyn_ypczFnZ1lKSVFZdzJFUktnbEVQWGhRazk5UWVj/view?usp=drivesdk"
+      ],
       "rules": [
         [
           "10 objective questions and problem solving programs with alloted time 30 mins "
@@ -845,6 +834,7 @@
       "notes": "Session 1:Learning\nSession 2:Hands-on",
       "prize": null,
       "intenship": null,
+      "registrationFee": "350",
       "eventHeads": [
         {
           "name": "Abishek Sundaresan",
@@ -877,6 +867,7 @@
       "notes": "",
       "prize": "Entry 50 winning 70",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Vignesh ",
@@ -923,6 +914,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "C Roshini",
@@ -961,6 +953,7 @@
       "notes": "",
       "prize": null,
       "intenship": "No",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "N Prathibha Devi",
@@ -998,6 +991,7 @@
       "notes": "Registration Link",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Gokula Krishnan",
@@ -1010,7 +1004,9 @@
           "contact": "9940209324"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "https://goo.gl/forms/zUnofzBzOesVeX9D3"
+      ],
       "rules": [
         [
           "The format for the Debate is as follows (this will be strictly adhered to):",
@@ -1032,7 +1028,7 @@
       ]
     },
     "in-quiz-it": {
-      "last_updated": "9/10/2018 19:29:46",
+      "last_updated": "9/13/2018 21:34:06",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "civil",
@@ -1040,12 +1036,13 @@
       "venue": "Civil engineering department- Final year classroom",
       "timing": "10:30AM to 3PM",
       "displayName": "In Quiz - It",
-      "description": "Want to have some fun with your grey matter?? An exquisite platform awaits all the In-QUIZ-itive minds out there. Test your knowledge  but more importantly gain more knowledge and be ready to have a brainy day at the office at SSN College of engineering.\n\nTEAM CRITERIA: Maximum of 2 students are allowed in a team\n",
+      "description": "Want to have some fun with your grey matter?? An exquisite platform awaits all the In-QUIZ-itive minds out there. Test your knowledge  but more importantly gain more knowledge and be ready to have a brainy day at the office at SSN College of engineering.\n\nTEAM CRITERIA: Maximum of 2 students are allowed in a team\nEVENT DATE: 21st SEPTEMBER, 2018\n",
       "tagline": "DE-SHUTTERING YOUR BRAIN!!!",
       "eventname": "In Quiz - It",
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Harikrishnan",
@@ -1087,6 +1084,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Chitralekha R",
@@ -1128,6 +1126,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Aravindh. R",
@@ -1173,19 +1172,22 @@
         ]
       ]
     },
-    "1.concrete-challenge": {
+    "concrete-challenge": {
       "last_updated": "8/30/2018 12:15:26",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "civil",
-      "slug": "1.concrete-challenge",
+      "slug": "concrete-challenge",
       "venue": "Concrete technology Lab (In Mechanical Workshop)",
       "timing": "21st September 2018, 11:30 am to 3:30 pm ",
+      "displayName": "Concrete challenge ",
       "description": "Concrete Challenge:\n\nConcrete which the universal material is used for construction purpose worldwide. There are different types of concrete depending on the type of binding material used. Cement which is used as a major binding material is used extensively, commonly known as cement concrete. Many research and developments are happening under this material such that is could me more environmental and user friendly as possible. In this event we urge you to do the same by solving our more fun and realistic problem statement which requires a decent understanding of concrete mix proportions, mold and asthetics. More wastes in this world are produced due to improper usage of recyclable materials.Thus we urge our participants to use this recyclable materials in concrete with practical and innovative thinking.\n\nProblem statement:\n\nThe concrete specimen should be casted to satisfy the following conditions.\n•\tThe concrete specimen must be a cube specimen of dimension 100 x 100 x 100 (All dimensions are in mm). Tolerance up to 5 mm is appreciated.\n•\t3 specimens of the above specification must be casted.\n•\tThe specimen must be casted such that value of it’s compressive strength is maximum (High strength concrete).\n•\tThe density of concrete can be from 1400kg/m3 to 2000 kg/m3.\n•\tOnly M25 grade concrete must be used.\n•\tRecyclable materials must be used as a replacement for aggregates (either partial or full replacement).\n•\tThe cube casted should only have curing period of 7 daysand the material added inside the cube for identification purpose will be informed later.\n•\tAn identification marker will be sent by us to all the participants 7 days before the competition and this must be kept inside the concrete cubes while casting as reference and it is mandatory. Participants without these identification markers will not be permitted in the competition.\n•\tThe cube casted must have a minimum cement content of 300kg/m3.\n•\tThe w/c ratio can be upto 0.55 for the cube casted.\n•\tChemical admixtures can be used.\n•\tThe team participating in the event should have a supervisor, who must be a registered faculty member of any engineering college recognized by government of India.\n•\tStudent must carry the college id card throughout the event.\n•\tPlease keep checking your mails and website for further updates.  \n•\tEvent coordinators and managing professor’s decision is/are final and binding. \n•       Download the attachment ,fill up the mix design clearly ,scan the document and send to the respective mail id. \n•\tThe mix design report must be submitted on or before 15th September 2018(11:59 pm) to \"concrete.ssncivil18@gmail.com\" duly signed by the supervisor.\n•\tThe submitted mix design report will be shortlisted and the selected participants will be sent a mail regarding the same. Only selected participants can take part in the event.\n•\tHard copy of the mix design report should be brought on the day of event.\n•\tThe team with the cube of maximum compressive stress will be the winner.\n•\tThe procedure for casting the concrete specimen must be followed only using IS CODAL PROVISIONS.\n•\tFailure to abide by the above rules will lead to disqualification from the event.\n\n\nScore allotment for the concrete specimen:\n\nThe score allotment for the cube specimen is as follows;\n1.\tDensity of concrete: Out of 10 marks\n(Pre qualification)\n2.\tStrength of cube specimen: Out of 50 marks\n(The marks obtained is directly proportional to strength. As the strength of the specimen is higher, marks awarded also increases).\n3.\tFinishing of the cube specimen: Out of 15 marks\n(The marks awarded will be more when the surfaces of the cube have smooth finishes and the dimensions of the specimen is similar to the problem statement with minimum tolerances).\n4.\tViva-Voce: Out of 10 marks\n(The marks for this session will be awarded by our college professor as per your team performance).\n5.\tMix design report: Out of 15 marks\n(The mix design report will be evaluated by our college professor and marks will be awarded).\nTotal marks: Out of 100 marks.\nThe team/individual will be awarded the prizes as per maximum marks obtained.\n\nNote:\n•\tParticipation for this event must only be group participation. For team (group) participation, minimum upto 2 members and maximum up to4 members are allowed.\n•\tThe above problem statements must be satisfied for being effectively rewarded marks for the specimen.\n•\tParticipation certificate will be provided.\n\n",
       "tagline": "The concrete choice for every application!",
+      "eventname": "Concrete challenge ",
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Manimanickam Rm",
@@ -1198,7 +1200,9 @@
           "contact": "8939271641/9597581305"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "https://drive.google.com/file/d/0Bw9tAbAA6Xbiak5kY01kVTIzVlZPQzZfbWR4N2I3ZkRNNkMw/view?usp=sharing"
+      ],
       "rules": [
         [
           "Shortlisting the correct and valid mix design report :",
@@ -1238,6 +1242,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Surendra",
@@ -1273,7 +1278,7 @@
       ]
     },
     "treasure-hunt": {
-      "last_updated": "9/10/2018 10:27:22",
+      "last_updated": "9/13/2018 8:31:45",
       "isTechnical": false,
       "eventtype": "Non-Technical",
       "dept": "civil",
@@ -1281,12 +1286,13 @@
       "venue": "Survey Lab",
       "timing": "22nd September ,10 A.M",
       "displayName": "Treasure hunt",
-      "description": "A Treasure Hunt is one of many different types of games for players who try to find hidden objects or places by following a series of clues. It contains six interesting clues and six interesting tasks. One who complete all the given tasks and cracks all the given clues within stipulated period will be the winner\n               Hurray! Treasure hunt turns NON-TECHNICAL this year. so participants from other departments are also allowed.",
+      "description": "A Treasure Hunt is one of many different types of games for players who try to find hidden objects or places by following a series of clues. \n\nA chance to loot our treasure!\nCrack 6 clues\nComplete 6 tasks.\nTo be the Blackbeard of pirates.\n\nYou will sure be the Bewitched by the golden Luminosity of our treasure. You are invited to witness the complete Fun! \n\n               Hurray! Treasure hunt turns NON-TECHNICAL this year. so participants from other departments are also allowed.",
       "tagline": "“Clear vision holds the key.”     ― M.J. Colewood ",
       "eventname": "Treasure hunt",
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": "30 /- per Team",
       "eventHeads": [
         {
           "name": "SM. RAMASAMY",
@@ -1328,6 +1334,7 @@
       "notes": "No materials or prior preparation required for the event",
       "prize": "Rs. 4500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Racchana",
@@ -1367,6 +1374,7 @@
       "notes": "",
       "prize": "Total prize money of the event- Rs. 9000 ",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Nadesh A",
@@ -1409,6 +1417,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Mushtaq Syed Ahmed J",
@@ -1459,6 +1468,7 @@
       "notes": "",
       "prize": "5000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Anirudh",
@@ -1471,7 +1481,9 @@
           "contact": "9791099221"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "https://goo.gl/forms/PiMDIzupx2V7aeze2"
+      ],
       "rules": [
         [
           "The registered teams will report at the venue. ",
@@ -1500,6 +1512,7 @@
       "notes": "",
       "prize": "4500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Karthika Mahadevan ",
@@ -1537,6 +1550,7 @@
       "notes": "",
       "prize": "3000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "AALAN BRITTO J",
@@ -1582,6 +1596,7 @@
       "notes": "",
       "prize": "Vouchers",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Vignesh N",
@@ -1628,6 +1643,7 @@
       "notes": "",
       "prize": "3000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Joselyn Monica M",
@@ -1666,6 +1682,7 @@
       "notes": "This event is not a typical chemical engineering event and is open to everyone as it requires very little chemical engineering knowledge.It is all about a peep into the corporate world",
       "prize": "4500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "G.C.DINESH",
@@ -1694,7 +1711,7 @@
   },
   "mech": {
     "auto-quiz": {
-      "last_updated": "9/10/2018 19:21:40",
+      "last_updated": "9/11/2018 14:19:47",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -1706,8 +1723,9 @@
       "tagline": null,
       "eventname": "Auto Quiz",
       "notes": "",
-      "prize": "1st Prize: ₹2000 2nd Prize: ₹1500 3rd Prize: ₹1000",
+      "prize": "Total Prize Amount: ₹4,500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Pratheeshhkumar C N",
@@ -1720,7 +1738,9 @@
           "contact": "9176091197"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "Pre-registration form:  https://docs.google.com/forms/d/e/1FAIpQLSda-HqQ-qlvjpu-tOjNTFdSHsXmpCdQylaImOsl8gvllS129A/viewform?usp=sf_link"
+      ],
       "rules": [
         [
           "This is a team event. Each team can consist maximum of 3 members. The event has two stages.",
@@ -1734,7 +1754,7 @@
       ]
     },
     "mechathlon": {
-      "last_updated": "9/10/2018 19:19:18",
+      "last_updated": "9/11/2018 14:20:54",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -1746,8 +1766,9 @@
       "tagline": "Just Ace It!",
       "eventname": "Mechathlon",
       "notes": "",
-      "prize": "❖1st Prize: ₹2000    ❖2nd Prize: ₹1500  ❖ 3rd Prize: ₹1000",
+      "prize": "Total Cash Prize: ₹4,500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Ankit Kumar ",
@@ -1760,7 +1781,9 @@
           "contact": "9884330513"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "Pre-registration Form: https://goo.gl/forms/Zow8Wzv9LfD9Tc5l1"
+      ],
       "rules": [
         [
           "Prelims:",
@@ -1783,20 +1806,21 @@
       ]
     },
     "robo-wars": {
-      "last_updated": "9/10/2018 10:05:24",
+      "last_updated": "9/11/2018 14:29:41",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
       "slug": "robo-wars",
-      "venue": "Mechanical Department\n\n",
+      "venue": "",
       "timing": "22 September 10:30am",
       "displayName": "Robo Wars",
       "description": "Bring your powerful robots ready to battle as you’ll be pitted against other competing robots in one-on-one knockout matches where the aim is to push the opponent’s robot off the arena or immobilizing the other bot and scoring maximum points! Play to your strengths and strategies to win cash prizes!\n",
       "tagline": null,
       "eventname": "Robo Wars",
       "notes": "Robot Control Requirements:\n\n If the bot is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the bot should be stacked as a single unit. The wires should be properly insulated. Teams are suggested to use only rated wires such as ISI marked. Loose connections or improper wiring may lead to immediate disqualification even before the event. If the bot is controlled wirelessly, the bot must at least have a four-frequency remote control circuit or two dual control circuits which may be interchanged before the start of the race to avoid frequency interference with other teams. The case of any interference in the wireless systems will not be considered for rematch or results. Remote control systems from toys are allowed. Remote control systems available in the market may also be used. Battery and Power: The machine can be powered electrically only. Batteries must be sealed, immobilized- electrolyte types (such as Li-ion, NiCd, NiMH or dry cells). Working voltages must not exceed 24V DC (mean voltage) at any point in time. All power connections must be of an adequate grade and adequately insulated. Cables must be routed to minimize the chances of being cut. All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause immediate disqualification. Battery Eliminators are allowed and power source would be available at the venue for the eliminators.\n\nMotors:\n\nThe robot should move as fast as possible around the arena with the help of motors. DC motors and stepper motors (12V-24V) can be used as per the design of bots. Note: We are not responsible for any damage that your bot may incur during the event.\n\nScore Card: \n\nThe score card is based upon the arena formulation. It is obvious that the robot with an extraordinary dynamism will succeed by thrusting out its combatant from the arena.\nIf a robot is pushed beyond the ring, the round ends and the other team is awarded the points.\nThe first team to win X rounds will get through to the Finals where X will be intimated on the day of the competition. Ultimately, if any of the combatants rolls out from the arena it will directly be eliminated from the War Field.\nCriteria for triumph: A robot will be declared immobile if it cannot demonstrate linear motion of at least one inch in a timed period of 30 seconds. A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement. If both robots survive the 5 minutes, the robot with the higher scorecard points wins. The winner advances to the next round while the loser is eliminated from the tournament.",
-      "prize": "1st Prize: ₹4000  2nd Prize: ₹3000  3rd Prize: ₹1000",
+      "prize": "Total Cash Prize: ₹8,000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Manickesh C",
@@ -1809,7 +1833,9 @@
           "contact": "9659024667"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "Pre-registration form: https://goo.gl/forms/AFtfnw0iOJwyQEiA3"
+      ],
       "rules": [
         [
           "A team may consist of a maximum of 3 participants. Design and construct a wired or remote controlled bot capable of fighting in a one on one tournament.",
@@ -1840,6 +1866,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Velmurugan M",
@@ -1852,7 +1879,9 @@
           "contact": "9710222162"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "Pre-registration form: https://docs.google.com/forms/d/e/1FAIpQLSdM1UUiqzrOa0sOAoDpjB9-JDLKCZtC6sU3StW1-cNgE5l0EQ/viewform?usp=pp_url"
+      ],
       "rules": [
         [
           "●\tOne hour will be provided for each team to design and develop the yacht.",
@@ -1863,7 +1892,7 @@
       ]
     },
     "project-exhibition": {
-      "last_updated": "9/10/2018 21:38:09",
+      "last_updated": "9/11/2018 14:23:34",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -1875,8 +1904,9 @@
       "tagline": "Science is about learning, Engineering is about doing",
       "eventname": "Project Exhibition",
       "notes": "",
-      "prize": "❖1st Prize: ₹3,000   ❖2nd Prize: ₹2,000     ❖\t3rd Prize: ₹1,000",
+      "prize": "Total Cash Prize: ₹6,000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Ajay Prakash M",
@@ -1889,7 +1919,9 @@
           "contact": "9488160086"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "Pre-registration form: https://docs.google.com/forms/u/2/d/e/1FAIpQLSedT_YjRX0xhqD5PkNOHi5D_L1GcL8R2BOZD9YFRl8-s5o0Cg/formResponse?pli=1"
+      ],
       "rules": [
         [
           "General Rules:",
@@ -1929,6 +1961,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Arunmozhi K",
@@ -1960,7 +1993,7 @@
       ]
     },
     "outdoor-gp": {
-      "last_updated": "9/10/2018 19:17:51",
+      "last_updated": "9/11/2018 14:16:38",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -1972,8 +2005,9 @@
       "tagline": "Rev up..Feel..Race",
       "eventname": "Outdoor GP",
       "notes": "●\tThe track will be off-road with obstacles, slopes and tunnels. The width of the track will be revealed on spot. Only cars powered by internal combustion engines are allowed to compete.\n●\tElectric or solar powered cars will not be allowed under any circumstances.\n●\tMaximum allowable displacement for IC engines is 4.6 cc. Only nitro-based fuels or gasoline should be used in the cars.\n●\tFor nitro-based fuels, the amount of nitro compounds in the mixture should not exceed 25%.\n●\tFuel will not be provided by the organizers.\n●\tTeams must bring their own supplies. Only buggy type cars are allowed. The cars should fit in a 500mm x 400mm x300mm box. The antenna used for radio control is exempted from height restrictions.\n●\tParticipants are advised to have multi-channel radio controllers to prevent frequency clashes.\n●\tFHSS Transmitters (Frequency Hop Spread Spectrum) are allowed.\n●\tOrganizers will not be responsible for any interference in frequencies.\n●\tContestants must bring sufficient number of batteries. Batteries will not be provided.\n●\tBoth ready-to-run kit cars and custom fabricated cars are allowed to compete.",
-      "prize": "❖1st Prize: ₹10,000  ❖2nd Prize: ₹7,000    ❖\t3rd Prize: ₹3,000",
+      "prize": "Total Prize Amount: ₹20,000 ",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Sathish Kumar M",
@@ -1986,7 +2020,9 @@
           "contact": "9894254981"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "Pre-registration Form:  https://goo.gl/forms/rQBspFi44KIcAPU13"
+      ],
       "rules": [
         [
           "●\tParticipants are required to submit an abstract containing the details of the parts fabricated to the email id mentioned below before the day of the event.",
@@ -2011,7 +2047,7 @@
       ]
     },
     "blitz-gp": {
-      "last_updated": "9/10/2018 19:15:07",
+      "last_updated": "9/11/2018 14:18:20",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -2023,8 +2059,9 @@
       "tagline": null,
       "eventname": "Blitz GP",
       "notes": "",
-      "prize": "❖1st Prize: ₹5,000   ❖2nd Prize: ₹3,000    ❖3rd Prize: ₹1,000",
+      "prize": "Total Cash Prize: ₹9,000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Harish V",
@@ -2037,7 +2074,9 @@
           "contact": "8220706078"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "Pre Registration Link: https://goo.gl/forms/HotyzwWfFTk6ndE72"
+      ],
       "rules": [
         [
           "A Team can have upto 4 members",
@@ -2071,7 +2110,7 @@
       ]
     },
     "bottle-rocketrix": {
-      "last_updated": "9/10/2018 21:59:26",
+      "last_updated": "9/11/2018 14:14:09",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -2083,8 +2122,9 @@
       "tagline": "Defy Gravity (for bottle rocketrix)",
       "eventname": "Bottle Rocketrix",
       "notes": "-",
-      "prize": "◆1st Prize: ₹3,000   ◆2nd Prize: ₹2,000      ◆3rd Prize: ₹1,000",
+      "prize": "Total Cash Prize: ₹6,000",
       "intenship": "Nil",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Prannoy K",
@@ -2097,7 +2137,9 @@
           "contact": "8807275470"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "Pre-registration form: https://goo.gl/forms/fWZyaC1WeJGbWHsw2"
+      ],
       "rules": [
         [
           "●\tTeams of 2-3 members are allowed.",
@@ -2118,7 +2160,7 @@
       ]
     },
     "paper-presentation": {
-      "last_updated": "9/10/2018 21:35:13",
+      "last_updated": "9/11/2018 14:25:16",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -2130,8 +2172,9 @@
       "tagline": null,
       "eventname": "Paper Presentation",
       "notes": "Pre-registration form: https://docs.google.com/forms/d/1wFoK_8ExuCRWnNB1xmodNOpY4OQE9KptRs3ZR9eKQDk/edit?chromeless=1",
-      "prize": "For each category:  1st Prize:  ₹2500    2nd Prize: ₹1500",
+      "prize": "Total Cash Prize:  ₹12,000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Priyadharshini R",
@@ -2144,7 +2187,9 @@
           "contact": "7639158829"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "Template for attachment : https://drive.google.com/file/d/1VqPRmDILRZXPR4CS0ytky8VENgj5gELu/view?usp=sharing"
+      ],
       "rules": [
         [
           "Max. No. of members per team: 3",
@@ -2159,20 +2204,21 @@
   },
   "eee": {
     "line-follower": {
-      "last_updated": "8/29/2018 13:00:55",
+      "last_updated": "9/13/2018 11:55:16",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "eee",
       "slug": "line-follower",
-      "venue": "Mpmc lab eee",
-      "timing": "830-3",
+      "venue": "Measurements and instrumentation lab- EEE Block",
+      "timing": "830 AM - 4 PM",
       "displayName": "Line Follower",
-      "description": "One of the flagship event where contestants build bots to follow a black line with lots of twists and turns and many more surprises. Quickest ones prevail",
+      "description": "Wanna be the new Dr. Vaseegaran in town??! Come with your Chitti, get your neural schema right and show off your skills in front of Dr. Bohra and Sana.. Invente presents to you Line Follower 3.0 with lot of twists and turns..!!",
       "tagline": null,
       "eventname": "Line Follower",
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Vignesh V",
@@ -2185,23 +2231,37 @@
           "contact": "7358595098"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "https://drive.google.com/open?id=1M8RBmIC_0mj4irv5zDoaE5aMa6ND6lXI"
+      ],
       "rules": [
         [
-          "Simple track with standard rules.",
-          " No readymade bots. ",
-          "Bettery voltage between 2 points mustn't exceed 24v",
-          "Bots maximum size is 25*25*25 cm",
-          "Width of black line is 3cm",
-          "No external power supply"
+          "BEAT THE CLOCK",
+          "• A team can consist maximum of 4 members. Students from different ",
+          "educational institutes can form a team. ",
+          "• The line to be traced (black line) is of 30mm in width.",
+          "•  The potential difference between any two points in the bot must not exceed ",
+          "12V.",
+          " • The bot must be powered only by on-board batteries.",
+          " • The maximum dimensions of the bot should be 25cm x 25cm x 20cm. ",
+          " • Ready-made bots are strictly prohibited. ",
+          "• All components should be brought by the participants. ",
+          "• Judge's decision will be final and any further arguments with the judges will ",
+          "be penalized.",
+          "• Main objective is to traverse the track as quickly as possible.",
+          "• Best of 2 tries will be considered.",
+          "• Participants can adjust their sensors and gains after the first run.",
+          "• Track will have straight lines, curves, markers and turns (90 degree, acute and ",
+          "obtuse angles).",
+          "• Top teams qualify."
         ],
         [
-          "Tunnels and lot more interesting taks ",
-          "No readymade bots. ",
-          "Bettery voltage between 2 points mustn't exceed 24v",
-          "Bots maximum size is 25*25*25 cm",
-          "Width of black line is 3cm",
-          "No external power supply"
+          "Beat the track",
+          "• Main objective is to travel the farthest. In case of a tie, winners will be ",
+          "decided based on the time taken to complete.",
+          "• Track will have straight lines, curves, markers, loops, gaps, turns (90 degree, ",
+          "acute and obtuse angles).",
+          "• Judges decision is final."
         ]
       ]
     },
@@ -2220,6 +2280,7 @@
       "notes": "",
       "prize": "1st- 3k, 2nd-2.5k, 3rd- 1k, total- 6500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Kanna.S.V",
@@ -2267,6 +2328,7 @@
       "notes": "",
       "prize": "Rs. 6500",
       "intenship": "No",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Mrudhulaa PV",
@@ -2308,6 +2370,7 @@
       "notes": "",
       "prize": "2000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Santhosh D",
@@ -2351,6 +2414,7 @@
       "notes": "",
       "prize": "5500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Daipayan Chakraborty ",
@@ -2388,6 +2452,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Thavam L D",
@@ -2433,6 +2498,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Akash R",
@@ -2472,6 +2538,7 @@
       "notes": "",
       "prize": "1000",
       "intenship": "BCCI",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "C.Yazhisairaja",
@@ -2509,6 +2576,7 @@
       "notes": "",
       "prize": "3000, 2000, 1500",
       "intenship": "none",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Priyadharshini R",
@@ -2549,6 +2617,7 @@
       "notes": "",
       "prize": "First prize - Rs. 3,000/-, Second Prize -Rs. 2,000/-, Thirsld Prize - Rs. 1,500/-",
       "intenship": "No",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Vignesh. R",
@@ -2561,7 +2630,9 @@
           "contact": "9094163338"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "http://www.facebook.com/ssninvente"
+      ],
       "rules": [
         [
           "1.Maximum 4 players per team.",
@@ -2588,6 +2659,7 @@
       "notes": "NO PREREQUISITES REQUIRED. OPEN TO ALL BRANCHES",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Jyothiraditya",
@@ -2620,6 +2692,7 @@
       "notes": "",
       "prize": "1000, 500, 250",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Reshma Immaculate R.",
@@ -2650,13 +2723,14 @@
       "slug": "in-a-way-tee",
       "venue": "DSP Lab",
       "timing": "",
-      "displayName": "In-a-way-tee",
+      "displayName": "In-a-way-te",
       "description": "En Vazhi, Thani Vazhi'\nPassionate about technology? Tired of all the theory you’re reading? Want to challenge your gray matter with a real-life problem? You have come to the right place! At IN-A-WAY-TE, you will be solving a problem that people face in their everyday lives. It is an opportunity to learn what can be done and how it can be done. At the end, you’d have a solution to the problem - your own solution - which you can implement and claim to be a real-time problem solver. What more? You’ll also learn important aspects of problem solving like first principles thinking, breaking the problem into modules, and much more. Come and see for yourself!!  \n\nPRELIMS : WRITTEN ROUND\n10-15 questions distributed across three sections - puzzles, electronics, programming. \nDuration – 50 minutes.\n\nFINALS:\nTeams can choose between hardware/software for this round. Depending on their choice, different problem statements will be given. To make the competition fair and square, teams can choose between either two software questions or one hardware question.  \nWhat’s most important is the approach to the problem and not solving it per se.",
       "tagline": "En Vazhi, thani Vazhi",
-      "eventname": "In-a-way-tee",
+      "eventname": "In-a-way-te",
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Brathindara S",
@@ -2701,6 +2775,7 @@
       "notes": "",
       "prize": "8000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "MOHAMMED ABRAAR A",
@@ -2740,6 +2815,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "PROMOD RAM  .S",
@@ -2784,6 +2860,7 @@
       "notes": "-",
       "prize": "First and second prize",
       "intenship": "-",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Fathima Sameem B",
@@ -2796,7 +2873,9 @@
           "contact": "6380249830"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "-"
+      ],
       "rules": [
         [
           "- It will be a written test comprising of 20 questions. Rough sheets will be provided for ",
@@ -2859,6 +2938,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Vijayameena . V",
@@ -2901,6 +2981,7 @@
       "notes": "",
       "prize": "Rs.6000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "M.Jayaram",
@@ -2942,6 +3023,7 @@
       "notes": "",
       "prize": "Rs.8000 worth of cash prizes ",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Savitha Srinivasan",
@@ -2989,6 +3071,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "S. Varsha",
@@ -3031,6 +3114,7 @@
       "notes": "",
       "prize": "8000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Purvaja",
@@ -3079,6 +3163,7 @@
       "notes": "",
       "prize": null,
       "intenship": null,
+      "registrationFee": "300",
       "eventHeads": [
         {
           "name": "Vignesh N",
@@ -3093,11 +3178,44 @@
       ],
       "attachments": [],
       "rules": []
+    },
+    "ai-4-good-hackathon": {
+      "last_updated": "9/13/2018 22:40:02",
+      "isTechnical": false,
+      "eventtype": "Hackathon",
+      "dept": "ece",
+      "slug": "ai-4-good-hackathon",
+      "venue": "",
+      "timing": "21st September 1:00 pm to 22nd September 6:00 pm",
+      "displayName": "AI 4 GOOD  - Hackathon",
+      "description": "IBM OpenPower and Tech Club SSN present to you, #AI4Good hackathon as a part of SSN Invente 2018!\nThis is an open themed hackathon that urges participants to create innovative AI solutions that can impact society for the greater good.The challenge will be for people who already have experience working or studying about Deep Learning, they’ll have to solve the challenge taking advantage of the computational power of the IBM Power Systems Platform.\n\nThe challenge: Using Deep Learning and the IBM Power platform, participants must develop a solution that enhances society in one of the following domains: \n1. Healthcare\n2. Governance\n3. Safety\n\nRecommended background for the challenge:\n1. Experience programming with python\n2. Basic knowledge of machine learning and deep learning\n3. Basic knowledge of the framework Tensorflow\n\nA workshop will be held before the hackathon. \n\nDuration: 24 Hours\nParticipants per team: 3 (Max)\n\nAgenda:\nFriday, 21st \n● 1.00 pm to 5.00 pm: Welcoming the Participants and PowerAI workshop\n● 5.00 pm:  Hackathon Commencement\n      \nSaturday, 22nd\n● 4:00 pm: Demonstration of the prototypes!\n● 5:30 pm: Awards\n",
+      "tagline": "#AI4Good",
+      "eventname": "AI 4 GOOD  - Hackathon",
+      "notes": "",
+      "prize": null,
+      "intenship": null,
+      "registrationFee": "750₹ per team",
+      "eventHeads": [
+        {
+          "name": "Bharath Raj",
+          "email": "bharathrajn98@gmail.com",
+          "contact": "9841069732"
+        },
+        {
+          "name": "Rakesh V",
+          "email": "rakeshvivek97@gmail.com",
+          "contact": "9884706702"
+        }
+      ],
+      "attachments": [
+        "bit.ly/ai4hack"
+      ],
+      "rules": []
     }
   },
   "bme": {
     "biogonize": {
-      "last_updated": "8/26/2018 13:06:45",
+      "last_updated": "9/11/2018 14:53:54",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "bme",
@@ -3105,12 +3223,13 @@
       "venue": "BME department,III year classroom",
       "timing": "22nd,9am",
       "displayName": "BIOGONIZE",
-      "description": "Totally 3 rounds,based on general engineering stuffs.And a team of 2 should participate",
-      "tagline": "It's not just your brains that needs to play!",
+      "description": "Totally 3 rounds.\n1.Takku takku takkunu- a fast video clip of pictures related to engineering and u have to identify them.\n2 Innovation out of waste- making models out of miscellaneous items.\n3.Oru kadha solta sir-Should create a story with the given biological words.\nAnd a team of 2 should participate",
+      "tagline": "It's not just your brains that need to play!",
       "eventname": "BIOGONIZE",
       "notes": "",
       "prize": "1st-1000,2nd-750,3rd-500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Sivaranjani.M",
@@ -3132,7 +3251,7 @@
           "U will be given few points using that points u should buy waste material and to make model out of that waste"
         ],
         [
-          "Rapid fire round"
+          "Should form a story using the given biomedical words"
         ]
       ]
     },
@@ -3151,6 +3270,7 @@
       "notes": "",
       "prize": "5000rs",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Viswanath. S",
@@ -3214,6 +3334,7 @@
       "notes": "",
       "prize": "1st prize-Rs 1500   2nd prize-Rs 1000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "NISSY ELAN SHAJI",
@@ -3263,6 +3384,7 @@
       "notes": "",
       "prize": "4500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Divya Rajagopal ",
@@ -3275,7 +3397,9 @@
           "contact": "‭+91 93846 51851‬"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "https://docs.google.com/document/d/1dXgS0_LCafeacIRFEO4bfG6iJv277N72mFK5Oi0HNfI"
+      ],
       "rules": [
         [
           "Abstracts should be sent by 10th September "
@@ -3297,6 +3421,7 @@
       "notes": "",
       "prize": "1st 🏆 =1500 & 2nd 🏆 =1000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Shylin Sylvia ",
@@ -3330,7 +3455,7 @@
       ]
     },
     "demaxxon": {
-      "last_updated": "8/29/2018 15:16:44",
+      "last_updated": "9/12/2018 15:19:48",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "bme",
@@ -3339,11 +3464,12 @@
       "timing": "9AM-2PM",
       "displayName": "Demaxxon",
       "description": "Demaxxon is full of interesting challenges and innovative mind always look up for the challenges,which aids in understanding the secrets of technology.",
-      "tagline": "Try and Fail but don't Fail to Try",
+      "tagline": "Try to Fail but don't Fail to Try",
       "eventname": "Demaxxon",
       "notes": "No",
       "prize": "2500",
       "intenship": "No",
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Anitha.M",
@@ -3356,19 +3482,18 @@
           "contact": "7708234637"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "No"
+      ],
       "rules": [
         [
-          "Find maximum number of things in a technical video duration 1hour."
+          "Choose one among the collection of domains and answer for that questions duration 1 hour."
         ],
         [
           "Face the technical as well as non technical questions and challenge with the opposite team duration 2 hours."
         ],
         [
-          "Find the colour which holds the clue to the unsolved puzzles duration 30minutes."
-        ],
-        [
-          "Choose one among the collection of domains and answer for that questions duration 30minutes."
+          "Find maximum number of things in a technical/non technical video duration 1hour."
         ]
       ]
     },
@@ -3380,13 +3505,14 @@
       "slug": "hospital-hustle",
       "venue": "BME Seminar Hall",
       "timing": "9 AM",
-      "displayName": "Hospital Hustle",
+      "displayName": "Biomart",
       "description": "A virtual money game where the ultimate goal is to build and keep the hospital alive even when the spurious accidents do the rounds.  Design your very own hospital, tweak every detail and show us that you own all the tricks of the business. Become an aspiring manager, a successful planner and an ace practioner all at the same time.",
       "tagline": "Play or bid to keep your stakes high to build your own hospital",
-      "eventname": "Hospital Hustle",
+      "eventname": "Biomart",
       "notes": "",
       "prize": "Winner - Rs 3500 First Runner up - Rs 2000 Second Runner up - RS 1500 ",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Viswath Narayanan R",
@@ -3429,6 +3555,7 @@
       "notes": "",
       "prize": "Rs.20-30 per event",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "G.Aghil Kavya",
@@ -3465,6 +3592,7 @@
       "notes": "",
       "prize": "3500 in total",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Harshni.V",
@@ -3497,7 +3625,7 @@
       ]
     },
     "pubg-mobile-tournament": {
-      "last_updated": "8/29/2018 20:39:14",
+      "last_updated": "9/11/2018 14:17:39",
       "isTechnical": false,
       "eventtype": "Non-Technical",
       "dept": "bme",
@@ -3508,12 +3636,13 @@
       "description": "Classic TPP Squad tournament",
       "tagline": "Do you have what it takes to be the last man standing? Come battle it out with us at SSNCE!",
       "eventname": "PUBG MOBILE TOURNAMENT ",
-      "notes": "",
+      "notes": "Pre-Register for the tournament through the above link. ",
       "prize": "Prizes upto RS.4000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
-          "name": "Bhargav.m",
+          "name": "Bhargav Mohan",
           "email": "bhargav15013@bme.ssn.edu.in",
           "contact": "9445436822"
         },
@@ -3523,7 +3652,9 @@
           "contact": "7010141458"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "https://docs.google.com/forms/d/e/1FAIpQLScylKYymZMokd9eWDJ047mdrbu-ba64BcuINQqH1c3IGdBVyw/viewform"
+      ],
       "rules": [
         [
           "Top 5 teams will be selected from 4 games"
@@ -3535,6 +3666,37 @@
           "The final Classic TPP squad game will decide the winner"
         ]
       ]
+    },
+    "augmented-reality-and-virtual-reality": {
+      "last_updated": "9/11/2018 23:10:26",
+      "isTechnical": false,
+      "eventtype": "Workshop",
+      "dept": "bme",
+      "slug": "augmented-reality-and-virtual-reality",
+      "venue": "DTE Laboratory",
+      "timing": "22nd September, 8.30am",
+      "displayName": "Augmented Reality and Virtual Reality",
+      "description": "• Ever dreamt of becoming a game engineer?! Have an ardent fervor for deploying your own gaming  scenes? Here is an ultimate chance to develop and deploy Virtual Reality games/any varied platform.This workshop basically works on areas of designing and development of an application related to augmented reality and virtual reality.\n• The workshop is handled by professionals from the Digital Meridian.\n• The session starts at eight thirty and ends by three in the evening.\n• There are refreshments and by twelve we will break for lunch, soon the session resumes within forty five minutes.\n• The first one hour of the workshop is an introduction to AR, VR & MR.\n• For the next one hour the various fundamentals of VR are explained.\n• After which the immersive app called \"phobia\" in VR app development using the unity Google unityand VR,c# begins.\n• You can also learn on how to use a VR camera inside UNITY, implementing head rotation, sensors used in VR, lighting, creating a GUI for VR applications and what are all the game objects, materials, transformations and animations using scripting and c#.\n• Then the track turns to interactive student profile generation in AR using SDK's software platform and devices. Then AR APP development is done using VUFORIA & UNITY.\n• The workshop ends with advanced level of app development using c# scripting.\n• The other technologies being used are HTC vive, Microsoft hololens.",
+      "tagline": "Simulate and experience an immersive virtual environment that transcends the physical reality",
+      "eventname": "Augmented Reality and Virtual Reality",
+      "notes": "",
+      "prize": null,
+      "intenship": null,
+      "registrationFee": "600 for 1/800 for 2/1200 for 3",
+      "eventHeads": [
+        {
+          "name": "Divya Rajagopal",
+          "email": "divya15016@bme.ssn.edu.in",
+          "contact": "9940475358"
+        },
+        {
+          "name": "Asha",
+          "email": "ashachennai97@gmail.com",
+          "contact": "+91 81242 23600"
+        }
+      ],
+      "attachments": [],
+      "rules": []
     }
   },
   "maths": {
@@ -3553,6 +3715,7 @@
       "notes": "",
       "prize": "4500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Anjana",
@@ -3587,6 +3750,7 @@
       "notes": "",
       "prize": "3000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": " Moulieeshwar ",
@@ -3633,6 +3797,7 @@
       "notes": "",
       "prize": "3000",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Anu Harshini             ",
@@ -3673,6 +3838,7 @@
       "notes": "",
       "prize": "5500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Hema priya  ",
@@ -3710,6 +3876,7 @@
       "notes": "",
       "prize": "4500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Arun V",
@@ -3750,6 +3917,7 @@
       "notes": "",
       "prize": "4500",
       "intenship": null,
+      "registrationFee": null,
       "eventHeads": [
         {
           "name": "Swaanika",

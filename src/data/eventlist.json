@@ -68,11 +68,12 @@
       "hexathlon": "Hexathlon",
       "solder-it": "Solder It",
       "make-a-thon": "Make-a-thon",
-      "in-a-way-tee": "In-a-way-tee",
+      "in-a-way-tee": "In-a-way-te",
       "tech-hunt": "Tech Hunt",
       "drunk-in-quiz": "Drunk-in Quiz",
       "junkyard-jumble":"Junkyard Jumble",
-      "deep-learning-and-computer-vision":"Deep Learning and Computer Vision"
+      "deep-learning-and-computer-vision":"Deep Learning and Computer Vision",
+      "ai-4-good-hackathon":"AI 4 GOOD  - Hackathon"
    },
    "bme": {
       "matalino": "MATALINO",
@@ -84,7 +85,8 @@
       "sapiens-washout": "SAPIENS WASHOUT",
       "demaxxon": "Demaxxon",
       "misterioso": "Misterioso",
-      "hospital-hustle": "Hospital Hustle"
+      "hospital-hustle": "Biomart",
+      "augmented-reality-and-virtual-reality":"Augmented Reality and Virtual Reality"
    },
    "civil": {
       "concrete-challenge": "Concrete challenge ",

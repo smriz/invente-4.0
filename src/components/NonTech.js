@@ -9,7 +9,7 @@ class Workshop extends React.Component{
 
     Object.keys(eventdetail).forEach(dept =>{
       Object.keys(eventdetail[dept]).forEach(event => {
-        if(eventdetail[dept][event].eventtype == "Workshop"){
+        if(eventdetail[dept][event].eventtype == "Non-Technical"){
           this.obj.push({dept,event});
         }
       });
@@ -23,7 +23,7 @@ class Workshop extends React.Component{
 
           <div className="maxi960">
           {this.obj.map(x=> <EventListBox x={x.event} dept={x.dept}/>)}
-        
+
           </div>
         </div>
       </div>

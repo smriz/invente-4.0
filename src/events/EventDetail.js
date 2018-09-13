@@ -25,14 +25,14 @@ class EventDetail extends React.Component{
 				</Helmet>
 				<div className='8p-8p maxi960 transywhite'>
 				 		<h1>{event.eventname}</h1>
-						{event.tagline && <h5 style={{marginLeft:'0px',marginTop:'-16px',color:'#888'}} className='8m-8m'>{event.tagline}</h5>}
+						{event.tagline && <h5 style={{marginLeft:'0px',marginTop:'-16px',color:'#888'}} className='text-center 8m-8m'>{event.tagline}</h5>}
 						<FacebookProvider appId="262244974616409">
 					         <Like href={`https://www.ssninvente.com/fb/events/${dept}/${slug}`} colorScheme="dark" showFaces share />
 						</FacebookProvider>
 						<div>{event.description.split('\n').map(x=> <div>{x}</div> )}</div>
-
+						{event.eventtype =='Workshop' && <a target="_blank" className='16m-' style={{margin:'16px auto',marginLeft:'auto',background:'purple',display:'inline-block',color:'white',padding:'8px 16px'}} className='workshop-register' href="https://docs.google.com/forms/d/e/1FAIpQLSecQVbxa6NGzCmZrSp9-Gyqb1Tu1b435rVcRm73_6Aomn6yCg/viewform?usp=sf_link">Register Here</a>}
 						<div className='row m-col'>
-							{event.prize &&<Fielder icon='rupee-sign' content={event.prize}/>}
+							{event.registrationFee &&<Fielder icon='rupee-sign' content={"Registration Fee: " +event.registrationFee}/>}
 							{event.intenship && <Fielder icon='building' content={event.intenship}/>}
 						</div>
 
@@ -40,7 +40,7 @@ class EventDetail extends React.Component{
 							{event.timing &&<Fielder icon='clock' content={event.timing}/>}
 							{event.venue && <Fielder icon='map' content={event.venue}/>}
 						</div>
-						<p>{event.attachments[0] && <a href={event.attachments[0]}>Click to view the Attachment</a>}</p>
+						<p>{event.attachments[0] && <a className='8p-16p 8m-8m' style={{display:'inline-block',background:'violet',color:'white'}} href={event.attachments[0]}>Click to view the Attachment</a>}</p>
 						<div>
 							<div className={'row rules-tab-holder'}>
 									{event.rules.map((x,i)=> <div className={`${this.state.open == i?'active':''} rules-tab`} onClick={()=>{this.setState({open:i})}}>Round {i+1}</div>)}

@@ -8,12 +8,15 @@ class Navigator extends React.Component{
 				main:{
 				'Events' :'/events',
 				'Workshops':'/workshops',
-				'Register':'/register'
+				"Hackathon":"/events/ece/ai-4-good-hackathon",
+				'Registration':'/register'
 			},
 			extra:{
 				'Organizers':'/organizers',
 				'About Us':'/about-us',
 				'Hospitality':'/hospitality',
+				"Non Technical":"/non-tech",
+
 			}
 			}
 			this.state = {

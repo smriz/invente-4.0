@@ -46,7 +46,7 @@ function clean(obj){
 		notes:obj.notesifany,
 		prize:obj.prizeamount || null,
 		intenship:obj.internshipifany || null,
-
+    registrationFee:obj.registrationfee || null,
 		eventHeads:[{
 				name:obj.eventhead1name,
 				email:obj.eventhead1gmailssnmailid,
@@ -59,7 +59,7 @@ function clean(obj){
 
 	};
 
-	cleanobj.attachments = obj['attachmenturlifanyex-googledocsforms'].split('\n','') || [];
+	cleanobj.attachments = obj['attachmenturlifanyex-googledocsforms'].split('\n').filter(x=>x!="") || [];
 	cleanobj.rules = Array(5).fill(0).filter((x,i)=> obj[`round${i+1}rules`] && obj[`round${i+1}rules`].length)
 		.map((x,i)=> obj[`round${i+1}rules`].split('\n').filter(x=>x!="")) || [];
 
