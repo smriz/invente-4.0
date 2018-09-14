@@ -444,7 +444,7 @@
   },
   "it": {
     "applokition": {
-      "last_updated": "9/10/2018 21:30:06",
+      "last_updated": "9/14/2018 18:33:38",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
@@ -474,6 +474,7 @@
       "attachments": [],
       "rules": [
         [
+          "Strictly team of Three from the same college.",
           "20 MCQs in 30minutes",
           "One bonus question as tie breaker",
           "Top 5 teams qualify for Round 2",
@@ -1711,7 +1712,7 @@
   },
   "mech": {
     "auto-quiz": {
-      "last_updated": "9/11/2018 14:19:47",
+      "last_updated": "9/14/2018 15:23:05",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -1722,7 +1723,7 @@
       "description": "Auto quiz is back with a bang and invites all the Auto maniacs! This quiz is all about Automobiles! Engage your grey cells and accelerate your answers as we have Cash Prizes and Certificates waiting for the winners! Display your Technical Chutzpah and conquer the title of Auto Wizard!",
       "tagline": null,
       "eventname": "Auto Quiz",
-      "notes": "",
+      "notes": "Pre-registration form:  https://docs.google.com/forms/d/e/1FAIpQLSda-HqQ-qlvjpu-tOjNTFdSHsXmpCdQylaImOsl8gvllS129A/viewform?usp=sf_link",
       "prize": "Total Prize Amount: ₹4,500",
       "intenship": null,
       "registrationFee": null,
@@ -1738,9 +1739,7 @@
           "contact": "9176091197"
         }
       ],
-      "attachments": [
-        "Pre-registration form:  https://docs.google.com/forms/d/e/1FAIpQLSda-HqQ-qlvjpu-tOjNTFdSHsXmpCdQylaImOsl8gvllS129A/viewform?usp=sf_link"
-      ],
+      "attachments": [],
       "rules": [
         [
           "This is a team event. Each team can consist maximum of 3 members. The event has two stages.",
@@ -1806,7 +1805,7 @@
       ]
     },
     "robo-wars": {
-      "last_updated": "9/11/2018 14:29:41",
+      "last_updated": "9/14/2018 15:24:50",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -1817,7 +1816,7 @@
       "description": "Bring your powerful robots ready to battle as you’ll be pitted against other competing robots in one-on-one knockout matches where the aim is to push the opponent’s robot off the arena or immobilizing the other bot and scoring maximum points! Play to your strengths and strategies to win cash prizes!\n",
       "tagline": null,
       "eventname": "Robo Wars",
-      "notes": "Robot Control Requirements:\n\n If the bot is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the bot should be stacked as a single unit. The wires should be properly insulated. Teams are suggested to use only rated wires such as ISI marked. Loose connections or improper wiring may lead to immediate disqualification even before the event. If the bot is controlled wirelessly, the bot must at least have a four-frequency remote control circuit or two dual control circuits which may be interchanged before the start of the race to avoid frequency interference with other teams. The case of any interference in the wireless systems will not be considered for rematch or results. Remote control systems from toys are allowed. Remote control systems available in the market may also be used. Battery and Power: The machine can be powered electrically only. Batteries must be sealed, immobilized- electrolyte types (such as Li-ion, NiCd, NiMH or dry cells). Working voltages must not exceed 24V DC (mean voltage) at any point in time. All power connections must be of an adequate grade and adequately insulated. Cables must be routed to minimize the chances of being cut. All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause immediate disqualification. Battery Eliminators are allowed and power source would be available at the venue for the eliminators.\n\nMotors:\n\nThe robot should move as fast as possible around the arena with the help of motors. DC motors and stepper motors (12V-24V) can be used as per the design of bots. Note: We are not responsible for any damage that your bot may incur during the event.\n\nScore Card: \n\nThe score card is based upon the arena formulation. It is obvious that the robot with an extraordinary dynamism will succeed by thrusting out its combatant from the arena.\nIf a robot is pushed beyond the ring, the round ends and the other team is awarded the points.\nThe first team to win X rounds will get through to the Finals where X will be intimated on the day of the competition. Ultimately, if any of the combatants rolls out from the arena it will directly be eliminated from the War Field.\nCriteria for triumph: A robot will be declared immobile if it cannot demonstrate linear motion of at least one inch in a timed period of 30 seconds. A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement. If both robots survive the 5 minutes, the robot with the higher scorecard points wins. The winner advances to the next round while the loser is eliminated from the tournament.",
+      "notes": "Robot Control Requirements:\n\n If the bot is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the bot should be stacked as a single unit. The wires should be properly insulated. Teams are suggested to use only rated wires such as ISI marked. Loose connections or improper wiring may lead to immediate disqualification even before the event. If the bot is controlled wirelessly, the bot must at least have a four-frequency remote control circuit or two dual control circuits which may be interchanged before the start of the race to avoid frequency interference with other teams. The case of any interference in the wireless systems will not be considered for rematch or results. Remote control systems from toys are allowed. Remote control systems available in the market may also be used. Battery and Power: The machine can be powered electrically only. Batteries must be sealed, immobilized- electrolyte types (such as Li-ion, NiCd, NiMH or dry cells). Working voltages must not exceed 24V DC (mean voltage) at any point in time. All power connections must be of an adequate grade and adequately insulated. Cables must be routed to minimize the chances of being cut. All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause immediate disqualification. Battery Eliminators are allowed and power source would be available at the venue for the eliminators.\n\nMotors:\n\nThe robot should move as fast as possible around the arena with the help of motors. DC motors and stepper motors (12V-24V) can be used as per the design of bots. Note: We are not responsible for any damage that your bot may incur during the event.\n\nScore Card: \n\nThe score card is based upon the arena formulation. It is obvious that the robot with an extraordinary dynamism will succeed by thrusting out its combatant from the arena.\nIf a robot is pushed beyond the ring, the round ends and the other team is awarded the points.\nThe first team to win X rounds will get through to the Finals where X will be intimated on the day of the competition. Ultimately, if any of the combatants rolls out from the arena it will directly be eliminated from the War Field.\nCriteria for triumph: A robot will be declared immobile if it cannot demonstrate linear motion of at least one inch in a timed period of 30 seconds. A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement. If both robots survive the 5 minutes, the robot with the higher scorecard points wins. The winner advances to the next round while the loser is eliminated from the tournament.\n\nPre-registration form: https://goo.gl/forms/AFtfnw0iOJwyQEiA3",
       "prize": "Total Cash Prize: ₹8,000",
       "intenship": null,
       "registrationFee": null,
@@ -1833,9 +1832,7 @@
           "contact": "9659024667"
         }
       ],
-      "attachments": [
-        "Pre-registration form: https://goo.gl/forms/AFtfnw0iOJwyQEiA3"
-      ],
+      "attachments": [],
       "rules": [
         [
           "A team may consist of a maximum of 3 participants. Design and construct a wired or remote controlled bot capable of fighting in a one on one tournament.",
@@ -1852,7 +1849,7 @@
       ]
     },
     "poseidon": {
-      "last_updated": "9/10/2018 21:42:05",
+      "last_updated": "9/14/2018 15:21:47",
       "isTechnical": false,
       "eventtype": "Non-Technical",
       "dept": "mech",
@@ -1863,7 +1860,7 @@
       "description": "It’s a fun event designed to test your creativity and speed. Design your own boat with the\nmaterials provided and set sail to win exciting cash prizes and certificates!",
       "tagline": null,
       "eventname": "Poseidon",
-      "notes": "",
+      "notes": "Pre-registration form: https://docs.google.com/forms/d/e/1FAIpQLSdM1UUiqzrOa0sOAoDpjB9-JDLKCZtC6sU3StW1-cNgE5l0EQ/viewform?usp=pp_url",
       "prize": null,
       "intenship": null,
       "registrationFee": null,
@@ -1879,9 +1876,7 @@
           "contact": "9710222162"
         }
       ],
-      "attachments": [
-        "Pre-registration form: https://docs.google.com/forms/d/e/1FAIpQLSdM1UUiqzrOa0sOAoDpjB9-JDLKCZtC6sU3StW1-cNgE5l0EQ/viewform?usp=pp_url"
-      ],
+      "attachments": [],
       "rules": [
         [
           "●\tOne hour will be provided for each team to design and develop the yacht.",
@@ -1892,7 +1887,7 @@
       ]
     },
     "project-exhibition": {
-      "last_updated": "9/11/2018 14:23:34",
+      "last_updated": "9/14/2018 15:22:44",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -1903,7 +1898,7 @@
       "description": "Unleash your engineering skills, creativity and intuition, and structure your ideas into reality. Project Presentation conducted by the Mechanical Department invites the doers! Send in your abstracts and the best projects will receive cash prizes and certificates!",
       "tagline": "Science is about learning, Engineering is about doing",
       "eventname": "Project Exhibition",
-      "notes": "",
+      "notes": "Pre-registration form: https://docs.google.com/forms/u/2/d/e/1FAIpQLSedT_YjRX0xhqD5PkNOHi5D_L1GcL8R2BOZD9YFRl8-s5o0Cg/formResponse?pli=1",
       "prize": "Total Cash Prize: ₹6,000",
       "intenship": null,
       "registrationFee": null,
@@ -1919,9 +1914,7 @@
           "contact": "9488160086"
         }
       ],
-      "attachments": [
-        "Pre-registration form: https://docs.google.com/forms/u/2/d/e/1FAIpQLSedT_YjRX0xhqD5PkNOHi5D_L1GcL8R2BOZD9YFRl8-s5o0Cg/formResponse?pli=1"
-      ],
+      "attachments": [],
       "rules": [
         [
           "General Rules:",
@@ -1947,7 +1940,7 @@
       ]
     },
     "treasure-hunt": {
-      "last_updated": "9/5/2018 0:29:32",
+      "last_updated": "9/14/2018 15:30:23",
       "isTechnical": false,
       "eventtype": "Non-Technical",
       "dept": "mech",
@@ -1958,7 +1951,7 @@
       "description": "Looking to solve riddles? Want a boost of Adrenaline? If you’re looking to explore one of the most beautiful campus in the country or you just want to make some new friends – treasure hunt is what might catch your fancy.",
       "tagline": null,
       "eventname": "Treasure Hunt",
-      "notes": "",
+      "notes": "Pre-registeration form: https://goo.gl/forms/3506Lg4q0suVi9EF3",
       "prize": null,
       "intenship": null,
       "registrationFee": null,
@@ -1993,18 +1986,18 @@
       ]
     },
     "outdoor-gp": {
-      "last_updated": "9/11/2018 14:16:38",
+      "last_updated": "9/14/2018 15:23:38",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
       "slug": "outdoor-gp",
       "venue": "Basket ball court (opp. Sports Complex)",
       "timing": "22nd September - 9 AM",
-      "displayName": "Outdoor GP",
+      "displayName": "Nitro GP",
       "description": "Get ready to show off your agile Nitro Car as it speeds through an exciting off-road obstacle course.Navigate through the blind spots, sharp turns and much more, as quickly as possible to win exciting Cash prizes and Certificate of Merit.",
       "tagline": "Rev up..Feel..Race",
-      "eventname": "Outdoor GP",
-      "notes": "●\tThe track will be off-road with obstacles, slopes and tunnels. The width of the track will be revealed on spot. Only cars powered by internal combustion engines are allowed to compete.\n●\tElectric or solar powered cars will not be allowed under any circumstances.\n●\tMaximum allowable displacement for IC engines is 4.6 cc. Only nitro-based fuels or gasoline should be used in the cars.\n●\tFor nitro-based fuels, the amount of nitro compounds in the mixture should not exceed 25%.\n●\tFuel will not be provided by the organizers.\n●\tTeams must bring their own supplies. Only buggy type cars are allowed. The cars should fit in a 500mm x 400mm x300mm box. The antenna used for radio control is exempted from height restrictions.\n●\tParticipants are advised to have multi-channel radio controllers to prevent frequency clashes.\n●\tFHSS Transmitters (Frequency Hop Spread Spectrum) are allowed.\n●\tOrganizers will not be responsible for any interference in frequencies.\n●\tContestants must bring sufficient number of batteries. Batteries will not be provided.\n●\tBoth ready-to-run kit cars and custom fabricated cars are allowed to compete.",
+      "eventname": "Nitro GP",
+      "notes": "●\tThe track will be off-road with obstacles, slopes and tunnels. The width of the track will be revealed on spot. Only cars powered by internal combustion engines are allowed to compete.\n●\tElectric or solar powered cars will not be allowed under any circumstances.\n●\tMaximum allowable displacement for IC engines is 4.6 cc. Only nitro-based fuels or gasoline should be used in the cars.\n●\tFor nitro-based fuels, the amount of nitro compounds in the mixture should not exceed 25%.\n●\tFuel will not be provided by the organizers.\n●\tTeams must bring their own supplies. Only buggy type cars are allowed. The cars should fit in a 500mm x 400mm x300mm box. The antenna used for radio control is exempted from height restrictions.\n●\tParticipants are advised to have multi-channel radio controllers to prevent frequency clashes.\n●\tFHSS Transmitters (Frequency Hop Spread Spectrum) are allowed.\n●\tOrganizers will not be responsible for any interference in frequencies.\n●\tContestants must bring sufficient number of batteries. Batteries will not be provided.\n●\tBoth ready-to-run kit cars and custom fabricated cars are allowed to compete.\n\nPre-registration Form:  https://goo.gl/forms/rQBspFi44KIcAPU13",
       "prize": "Total Prize Amount: ₹20,000 ",
       "intenship": null,
       "registrationFee": null,
@@ -2020,9 +2013,7 @@
           "contact": "9894254981"
         }
       ],
-      "attachments": [
-        "Pre-registration Form:  https://goo.gl/forms/rQBspFi44KIcAPU13"
-      ],
+      "attachments": [],
       "rules": [
         [
           "●\tParticipants are required to submit an abstract containing the details of the parts fabricated to the email id mentioned below before the day of the event.",
@@ -2047,7 +2038,7 @@
       ]
     },
     "blitz-gp": {
-      "last_updated": "9/11/2018 14:18:20",
+      "last_updated": "9/14/2018 15:21:00",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -2058,7 +2049,7 @@
       "description": "BLITZ GP is an RC Car racing event held during INVENTE that tests the participant’s fabrication, driving and management skills. The event features a challenging timed obstacle course for the battery run RC car. An RC Car that conforms to the BLITZ GP standards is required for participation by each team. The three winners will receive exciting cash prizes and Certificate of Merit.",
       "tagline": null,
       "eventname": "Blitz GP",
-      "notes": "",
+      "notes": "Pre Registration Link: https://goo.gl/forms/HotyzwWfFTk6ndE72",
       "prize": "Total Cash Prize: ₹9,000",
       "intenship": null,
       "registrationFee": null,
@@ -2074,9 +2065,7 @@
           "contact": "8220706078"
         }
       ],
-      "attachments": [
-        "Pre Registration Link: https://goo.gl/forms/HotyzwWfFTk6ndE72"
-      ],
+      "attachments": [],
       "rules": [
         [
           "A Team can have upto 4 members",
@@ -2110,7 +2099,7 @@
       ]
     },
     "bottle-rocketrix": {
-      "last_updated": "9/11/2018 14:14:09",
+      "last_updated": "9/14/2018 15:20:34",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -2121,7 +2110,7 @@
       "description": "Flying has amused us for ages! And to fly better, requires meticulous engineering! Bottle Rocketrix aims to bring out the engineer in you. Apply the concepts of Aerodynamics and Center of Gravity to make your modified pressurised bottle fly the farthest.",
       "tagline": "Defy Gravity (for bottle rocketrix)",
       "eventname": "Bottle Rocketrix",
-      "notes": "-",
+      "notes": "Pre-registration form: https://goo.gl/forms/fWZyaC1WeJGbWHsw2",
       "prize": "Total Cash Prize: ₹6,000",
       "intenship": "Nil",
       "registrationFee": null,
@@ -2137,9 +2126,7 @@
           "contact": "8807275470"
         }
       ],
-      "attachments": [
-        "Pre-registration form: https://goo.gl/forms/fWZyaC1WeJGbWHsw2"
-      ],
+      "attachments": [],
       "rules": [
         [
           "●\tTeams of 2-3 members are allowed.",
@@ -2160,7 +2147,7 @@
       ]
     },
     "paper-presentation": {
-      "last_updated": "9/11/2018 14:25:16",
+      "last_updated": "9/14/2018 15:19:24",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -2188,7 +2175,7 @@
         }
       ],
       "attachments": [
-        "Template for attachment : https://drive.google.com/file/d/1VqPRmDILRZXPR4CS0ytky8VENgj5gELu/view?usp=sharing"
+        "https://drive.google.com/file/d/1VqPRmDILRZXPR4CS0ytky8VENgj5gELu/view?usp=sharing"
       ],
       "rules": [
         [
@@ -2716,17 +2703,17 @@
       ]
     },
     "in-a-way-tee": {
-      "last_updated": "8/26/2018 12:32:13",
+      "last_updated": "9/14/2018 11:35:12",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "ece",
       "slug": "in-a-way-tee",
-      "venue": "DSP Lab",
-      "timing": "",
-      "displayName": "In-a-way-te",
-      "description": "En Vazhi, Thani Vazhi'\nPassionate about technology? Tired of all the theory you’re reading? Want to challenge your gray matter with a real-life problem? You have come to the right place! At IN-A-WAY-TE, you will be solving a problem that people face in their everyday lives. It is an opportunity to learn what can be done and how it can be done. At the end, you’d have a solution to the problem - your own solution - which you can implement and claim to be a real-time problem solver. What more? You’ll also learn important aspects of problem solving like first principles thinking, breaking the problem into modules, and much more. Come and see for yourself!!  \n\nPRELIMS : WRITTEN ROUND\n10-15 questions distributed across three sections - puzzles, electronics, programming. \nDuration – 50 minutes.\n\nFINALS:\nTeams can choose between hardware/software for this round. Depending on their choice, different problem statements will be given. To make the competition fair and square, teams can choose between either two software questions or one hardware question.  \nWhat’s most important is the approach to the problem and not solving it per se.",
-      "tagline": "En Vazhi, thani Vazhi",
-      "eventname": "In-a-way-te",
+      "venue": "Prelims:\n2A, First Floor, Annexure Block, Dept. of ECE\nFinals:\nMicroprocessor & Microcontroller Lab, Dept. of ECE",
+      "timing": "21st September, 2018\nPrelims: 10:30 - 13:30\nFinals: 14:00 - 16:00",
+      "displayName": "IN-A-WAY-TE",
+      "description": "                                             “If I had 60 minutes to solve a problem, I’d spend 55 minutes defining it and 5 \n                                                                  minutes solving it” - Albert Einstein.\n\nPassionate about technology? Tired of all the theory you’re reading? Want to\nchallenge your gray matter with a real-life problem? You have come to the right\nplace! At IN-A-WAY-TE, you will be solving a problem that people face in their\neveryday lives. It is an opportunity to learn what can be done and how it can be\ndone. At the end, you’d have a solution to the problem - your solution - which\nyou can implement and claim to be a real-time problem solver. What more? You’ll\nalso learn important aspects of problem solving like first principles thinking,\nbreaking the problem into modules, and much more. Come and see for yourself!!\n\nRULES:\n•\tTeams of two or three. \n•\tCome and have fun! 😁🏆",
+      "tagline": "💡 En Vazhi, Thani Vazhi! 💡",
+      "eventname": "IN-A-WAY-TE",
       "notes": "",
       "prize": null,
       "intenship": null,
@@ -2734,29 +2721,33 @@
       "eventHeads": [
         {
           "name": "Brathindara S",
-          "email": "brathindara15018@ece.ssn.edu.in",
+          "email": "say2brathindra@gmail.com",
           "contact": "9789165426"
         },
         {
-          "name": "Nikhilesh N",
-          "email": "nikhilesh15071@ece.ssn.edu",
-          "contact": "8754434279"
+          "name": "K.Krithika",
+          "email": "kkrithika97@gmail.com",
+          "contact": "7667886699"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "https://drive.google.com/open?id=1AiFwyMcfu66HE2IPYU1CbmQM98LiM3Ci"
+      ],
       "rules": [
         [
-          "Groups of 2 or 3",
-          "Written round with 10 to 15 questions distributed across puzzles, electronics and programming. ",
-          "Duration : 50 minutes"
+          "PRELIMS : WRITTEN ROUND",
+          "20 questions distributed across three sections - puzzles, electronics, programming.",
+          "Duration – 30-40 minutes."
         ],
         [
-          "Final Round",
-          "Duration : 90 minutes",
-          "Teams can choose between 2 software problem statements or one hardware problem statement to maintain a fair competition. ",
-          "Evaluation is based on the approach to Problem solving. ",
-          "30 minutes of Problem Analysis - to think of a solution or algorithm to solve the real life problem statement presented to the contestants. At the end of this duration, the teams will have to present the idea to the jury. ",
-          "Once the Problem Analysis round is complete, the contestants can move on to hands-on Implementation of the solution, the duration of which is about one hour. "
+          "FINALE:",
+          "Teams may choose between hardware/software for this round. Depending on their choice, different problem statements will be given. ",
+          "What’s most important is the approach to the problem and not solving it per se. ",
+          "Duration – 90-120 minutes",
+          "•\tPROBLEM ANALYSIS",
+          "Contestants will be given a real-life problem statement. They have around 30 mins. to think of a solution/algorithm that would solve the problem. At the end of 30 mins, they will be asked to present their idea in front of the jury. This will happen in parallel for all the teams. This is to ensure that they are on the right track and to suggest changes if necessary. Once the teams are clear on what they are planning to do, they can move on to the implementation part.",
+          "•\tIMPLEMENTATION",
+          "The wait is over! Grab the components, take the tools and start makin’ it! Extra points for modularity, number of components used. "
         ]
       ]
     },
@@ -2846,20 +2837,20 @@
       ]
     },
     "hexathlon": {
-      "last_updated": "8/29/2018 16:14:34",
+      "last_updated": "9/13/2018 23:36:00",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "ece",
       "slug": "hexathlon",
       "venue": "Digital Signal Processing lab,ECE department ",
-      "timing": "September 21,2018",
+      "timing": "September 22,2018",
       "displayName": "Hexathlon",
       "description": "This event is to challenge your knowledge in circuits and coding skills in six different areas.\nSome of you will be interested in coding or analysing/building the circuits. So it’s a perfect place\nfor you to shine in these domains and turn your ideas into actions.\n",
       "tagline": "An Electronic contest in six different domains. ",
       "eventname": "Hexathlon",
-      "notes": "-",
+      "notes": "",
       "prize": "First and second prize",
-      "intenship": "-",
+      "intenship": null,
       "registrationFee": null,
       "eventHeads": [
         {
@@ -2873,9 +2864,7 @@
           "contact": "6380249830"
         }
       ],
-      "attachments": [
-        "-"
-      ],
+      "attachments": [],
       "rules": [
         [
           "- It will be a written test comprising of 20 questions. Rough sheets will be provided for ",
@@ -2911,15 +2900,6 @@
           "- If any team completes all tasks before the time limit, they may attend any star question of ",
           "their choice.",
           "- The teams may refer to the documentation or help function that we provide to them."
-        ],
-        [
-          "-"
-        ],
-        [
-          "-"
-        ],
-        [
-          "-"
         ]
       ]
     },

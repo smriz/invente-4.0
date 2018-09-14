@@ -40,7 +40,7 @@ class EventDetail extends React.Component{
 							{event.timing &&<Fielder icon='clock' content={event.timing}/>}
 							{event.venue && <Fielder icon='map' content={event.venue}/>}
 						</div>
-						<p>{event.attachments[0] && <a className='8p-16p 8m-8m' style={{display:'inline-block',background:'violet',color:'white'}} href={event.attachments[0]}>Click to view the Attachment</a>}</p>
+						<p>{event.attachments[0] && <a className='8p-16p 8m-8m' style={{display:'inline-block',background:'violet',color:'white'}} target="_blank" href={"//"+event.attachments[0]}>Click to view the Attachment</a>}</p>
 						<div>
 							<div className={'row rules-tab-holder'}>
 									{event.rules.map((x,i)=> <div className={`${this.state.open == i?'active':''} rules-tab`} onClick={()=>{this.setState({open:i})}}>Round {i+1}</div>)}
