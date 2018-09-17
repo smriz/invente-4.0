@@ -22,7 +22,11 @@
       "predaic-thor": "PredAic-Thor",
       "paper-presentation": "Paper presentation",
       "codolympics": "Codolympics",
-      "artificial-intelligence-and-machine-learning":"Artificial Intelligence and Machine Learning"
+      "artificial-intelligence-and-machine-learning":"Artificial Intelligence and Machine Learning",
+      "call-of-duty":"Call of Duty",
+      "nfs-most-wanted":"NFS - MOST WANTED",
+      "fifa":"FIFA"
+
    },
    "chem": {
       "logomania": "Logomania",
@@ -40,7 +44,7 @@
       "blitz-gp": "Blitz GP",
       "bottle-rocketrix": "Bottle Rocketrix",
       "mechathlon": "Mechathlon",
-      "outdoor-gp": "Outdoor GP",
+      "outdoor-gp": "Nitro GP",
       "paper-presentation": "Paper Presentation",
       "project-exhibition": "Project Exhibition",
       "robo-wars": "Robo Wars",
@@ -68,7 +72,7 @@
       "hexathlon": "Hexathlon",
       "solder-it": "Solder It",
       "make-a-thon": "Make-a-thon",
-      "in-a-way-tee": "In-a-way-te",
+      "in-a-way-tee": "IN-A-WAY-TE",
       "tech-hunt": "Tech Hunt",
       "drunk-in-quiz": "Drunk-in Quiz",
       "junkyard-jumble":"Junkyard Jumble",
@@ -99,7 +103,8 @@
       "quote-or-quit": "Quote or Quit",
       "fenzy-cricket": "Fenzy cricket",
       "minutes-to-go": "Minutes to go",
-      "treasure-hunt": "Treasure hunt"
+      "treasure-hunt": "Treasure hunt",
+      "advance-surveying-equipments":"Advanced Surveying Equipments"
    },
    "maths": {
       "as-you-like-it": "As you like it",

@@ -444,7 +444,7 @@
   },
   "it": {
     "applokition": {
-      "last_updated": "9/10/2018 21:30:06",
+      "last_updated": "9/14/2018 18:33:38",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
@@ -474,6 +474,7 @@
       "attachments": [],
       "rules": [
         [
+          "Strictly team of Three from the same college.",
           "20 MCQs in 30minutes",
           "One bonus question as tie breaker",
           "Top 5 teams qualify for Round 2",
@@ -820,7 +821,7 @@
       ]
     },
     "artificial-intelligence-and-machine-learning": {
-      "last_updated": "9/10/2018 19:57:26",
+      "last_updated": "9/16/2018 5:53:43",
       "isTechnical": false,
       "eventtype": "Workshop",
       "dept": "it",
@@ -831,7 +832,7 @@
       "description": "Artificial Intelligence is a technology that is already impacting how users interact with, and are affected by the internet. In the near future, its impact is likely to only continue to grow. Machine Learning is a method of data analysis that automates analytical model building. It is branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.As of 2017, a quarter of organizations are spending 15% or more of their IT budget on machine learning capabilities, and the number of machine learning examples are expected to rise in the near future.\n\nAltsense is an IOT, Robotics and automation company. They train and guide people towards advanced technology. Their main objective is to find solutions to everything related to robotics and automation. They are specialized in robotics, embedded systems, machine learning, arduino, Raspberry pi, python, 3D printing, IOT, artificial intelligence, automation, technology, deep learning.",
       "tagline": null,
       "eventname": "Artificial Intelligence and Machine Learning",
-      "notes": "Session 1:Learning\nSession 2:Hands-on",
+      "notes": "Session 1:Learning\nSession 2:Hands-on\nBring your laptops with python installed for hands-on session",
       "prize": null,
       "intenship": null,
       "registrationFee": "350",
@@ -849,6 +850,128 @@
       ],
       "attachments": [],
       "rules": []
+    },
+    "nfs-most-wanted": {
+      "last_updated": "9/17/2018 19:43:04",
+      "isTechnical": false,
+      "eventtype": "Non-Technical",
+      "dept": "it",
+      "slug": "nfs-most-wanted",
+      "venue": "Alan Turing Lab -IT Department",
+      "timing": "21st and 22nd September",
+      "displayName": "NFS - MOST WANTED",
+      "description": "\tPre-requisites:\no\tTracks will be decided by the organizers\no\tAny car can be chosen",
+      "tagline": null,
+      "eventname": "NFS - MOST WANTED",
+      "notes": "Organizers reserve the right to modify the rules at any time",
+      "prize": null,
+      "intenship": null,
+      "registrationFee": "Rs.50 per head",
+      "eventHeads": [
+        {
+          "name": "Sathyaseelan P",
+          "email": "sathyamsd97@gmail.com",
+          "contact": "9790568416"
+        },
+        {
+          "name": "Gautham V S",
+          "email": "gauthamvs97@gmail.com",
+          "contact": "8939413883"
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [
+          "o\tThe fastest 16 will make it to the next round"
+        ],
+        [
+          "o\t4 separate LAN games and the top 4 will make it to the Finale"
+        ],
+        [
+          "This is the final round",
+          "o\t1 LAN game for the finalists"
+        ]
+      ]
+    },
+    "fifa": {
+      "last_updated": "9/17/2018 19:45:02",
+      "isTechnical": false,
+      "eventtype": "Non-Technical",
+      "dept": "it",
+      "slug": "fifa",
+      "venue": "OS Lab - IT Department",
+      "timing": "21st and 22nd September",
+      "displayName": "FIFA",
+      "description": "•\tKeyboards will be available. Players are advised to bring their own joysticks (if needed)\n•\tOnly Default gameplay settings are allowed.\n•\tOnly tactical defending is allowed.",
+      "tagline": null,
+      "eventname": "FIFA",
+      "notes": "Organizers reserve the right to modify the rules at any time.",
+      "prize": null,
+      "intenship": null,
+      "registrationFee": "Rs.50 per head",
+      "eventHeads": [
+        {
+          "name": "Sathyaseelan P",
+          "email": "sathyamsd97@gmail.com",
+          "contact": "9790568416"
+        },
+        {
+          "name": "Gautham V S ",
+          "email": "gauthamvs@gmail.com",
+          "contact": "8939413883"
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [
+          "•\tA player will clash with any other available random player (not with the computer).",
+          "•\tHalftime duration - 4 minutes.",
+          "•\tEach round will be based on a knockout basis."
+        ]
+      ]
+    },
+    "call-of-duty": {
+      "last_updated": "9/17/2018 20:21:43",
+      "isTechnical": false,
+      "eventtype": "Non-Technical",
+      "dept": "it",
+      "slug": "call-of-duty",
+      "venue": "Von Neumann Lab - IT Department",
+      "timing": "21st and 22nd September",
+      "displayName": "Call of Duty",
+      "description": "•\tPre-requisites:\no\tEach team should contain 4 members.\no\tThe match will contain three rounds.",
+      "tagline": null,
+      "eventname": "Call of Duty",
+      "notes": "Players may bring their own headphones and mousepads, but keyboards and mice are prohibited.",
+      "prize": null,
+      "intenship": null,
+      "registrationFee": "Rs.200 per team",
+      "eventHeads": [
+        {
+          "name": "Sathyaseelan P",
+          "email": "sathyamsd97@gmail.com",
+          "contact": "9790568416"
+        },
+        {
+          "name": "Gautham V S",
+          "email": "gauthamvs@gmail.com",
+          "contact": "8939413883"
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [
+          "o\tThe first match will be a team deathmatch between two teams and the timing will be 10 minutes.",
+          "o\tThe teams will be filtered according to the highest point basis i.e., the 4 teams which scored the highest score in deathmatch will move forward for the next round."
+        ],
+        [
+          "o\tThe 4 teams will clash with any other team in a sabotage match for 2 points i.e., the team which scores 2 points in the sabotage match wins (the timing will be 10 minutes)"
+        ],
+        [
+          "This is the final round.",
+          "o\tThe final round will also be a sabotage match with 10 min timing and the first team which scores 2 points win."
+        ]
+      ]
     }
   },
   "civil": {
@@ -1172,18 +1295,16 @@
         ]
       ]
     },
-    "concrete-challenge": {
-      "last_updated": "8/30/2018 12:15:26",
+    "1.concrete-challenge": {
+      "last_updated": "9/15/2018 12:58:10",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "civil",
-      "slug": "concrete-challenge",
+      "slug": "1.concrete-challenge",
       "venue": "Concrete technology Lab (In Mechanical Workshop)",
       "timing": "21st September 2018, 11:30 am to 3:30 pm ",
-      "displayName": "Concrete challenge ",
-      "description": "Concrete Challenge:\n\nConcrete which the universal material is used for construction purpose worldwide. There are different types of concrete depending on the type of binding material used. Cement which is used as a major binding material is used extensively, commonly known as cement concrete. Many research and developments are happening under this material such that is could me more environmental and user friendly as possible. In this event we urge you to do the same by solving our more fun and realistic problem statement which requires a decent understanding of concrete mix proportions, mold and asthetics. More wastes in this world are produced due to improper usage of recyclable materials.Thus we urge our participants to use this recyclable materials in concrete with practical and innovative thinking.\n\nProblem statement:\n\nThe concrete specimen should be casted to satisfy the following conditions.\n•\tThe concrete specimen must be a cube specimen of dimension 100 x 100 x 100 (All dimensions are in mm). Tolerance up to 5 mm is appreciated.\n•\t3 specimens of the above specification must be casted.\n•\tThe specimen must be casted such that value of it’s compressive strength is maximum (High strength concrete).\n•\tThe density of concrete can be from 1400kg/m3 to 2000 kg/m3.\n•\tOnly M25 grade concrete must be used.\n•\tRecyclable materials must be used as a replacement for aggregates (either partial or full replacement).\n•\tThe cube casted should only have curing period of 7 daysand the material added inside the cube for identification purpose will be informed later.\n•\tAn identification marker will be sent by us to all the participants 7 days before the competition and this must be kept inside the concrete cubes while casting as reference and it is mandatory. Participants without these identification markers will not be permitted in the competition.\n•\tThe cube casted must have a minimum cement content of 300kg/m3.\n•\tThe w/c ratio can be upto 0.55 for the cube casted.\n•\tChemical admixtures can be used.\n•\tThe team participating in the event should have a supervisor, who must be a registered faculty member of any engineering college recognized by government of India.\n•\tStudent must carry the college id card throughout the event.\n•\tPlease keep checking your mails and website for further updates.  \n•\tEvent coordinators and managing professor’s decision is/are final and binding. \n•       Download the attachment ,fill up the mix design clearly ,scan the document and send to the respective mail id. \n•\tThe mix design report must be submitted on or before 15th September 2018(11:59 pm) to \"concrete.ssncivil18@gmail.com\" duly signed by the supervisor.\n•\tThe submitted mix design report will be shortlisted and the selected participants will be sent a mail regarding the same. Only selected participants can take part in the event.\n•\tHard copy of the mix design report should be brought on the day of event.\n•\tThe team with the cube of maximum compressive stress will be the winner.\n•\tThe procedure for casting the concrete specimen must be followed only using IS CODAL PROVISIONS.\n•\tFailure to abide by the above rules will lead to disqualification from the event.\n\n\nScore allotment for the concrete specimen:\n\nThe score allotment for the cube specimen is as follows;\n1.\tDensity of concrete: Out of 10 marks\n(Pre qualification)\n2.\tStrength of cube specimen: Out of 50 marks\n(The marks obtained is directly proportional to strength. As the strength of the specimen is higher, marks awarded also increases).\n3.\tFinishing of the cube specimen: Out of 15 marks\n(The marks awarded will be more when the surfaces of the cube have smooth finishes and the dimensions of the specimen is similar to the problem statement with minimum tolerances).\n4.\tViva-Voce: Out of 10 marks\n(The marks for this session will be awarded by our college professor as per your team performance).\n5.\tMix design report: Out of 15 marks\n(The mix design report will be evaluated by our college professor and marks will be awarded).\nTotal marks: Out of 100 marks.\nThe team/individual will be awarded the prizes as per maximum marks obtained.\n\nNote:\n•\tParticipation for this event must only be group participation. For team (group) participation, minimum upto 2 members and maximum up to4 members are allowed.\n•\tThe above problem statements must be satisfied for being effectively rewarded marks for the specimen.\n•\tParticipation certificate will be provided.\n\n",
+      "description": "Concrete Challenge:\n\nConcrete which the universal material is used for construction purpose worldwide. There are different types of concrete depending on the type of binding material used. Cement which is used as a major binding material is used extensively, commonly known as cement concrete. Many research and developments are happening under this material such that is could me more environmental and user friendly as possible. In this event we urge you to do the same by solving our more fun and realistic problem statement which requires a decent understanding of concrete mix proportions, mold and asthetics. More wastes in this world are produced due to improper usage of recyclable materials.Thus we urge our participants to use this recyclable materials in concrete with practical and innovative thinking.\n\nProblem statement:\n\nThe concrete specimen should be casted to satisfy the following conditions.\n•\tThe concrete specimen must be a cube specimen of dimension 100 x 100 x 100 (All dimensions are in mm). Tolerance up to 5 mm is appreciated.\n•\t3 specimens of the above specification must be casted.\n•\tThe specimen must be casted such that value of it’s compressive strength is maximum (High strength concrete).\n•\tThe density of concrete can be from 1400kg/m3 to 2000 kg/m3.\n•\tOnly M25 grade concrete must be used.\n•\tRecyclable materials must be used as a replacement for aggregates (either partial or full replacement).\n•\tThe cube casted should only have curing period of 3 days and the material added inside the cube for identification purpose will be informed later.\n•\tAn identification marker will be sent by us to all the participants  days before the competition and this must be kept inside the concrete cubes while casting as reference and it is mandatory. Participants without these identification markers will not be permitted in the competition.\n•\tThe cube casted must have a minimum cement content of 300kg/m3.\n•\tThe w/c ratio can be upto 0.55 for the cube casted.\n•\tChemical admixtures can be used.\n•\tThe team participating in the event should have a supervisor, who must be a registered faculty member of any engineering college recognized by government of India.\n•\tStudent must carry the college id card throughout the event.\n•\tPlease keep checking your mails and website for further updates.  \n•\tEvent coordinators and managing professor’s decision is/are final and binding. \n•       Download the attachment or if you find any problem in downloading the attachment,it is accepted to send it in your own format.Hence Fill up the mix design clearly ,scan the document and send to the respective mail id \n•\tThe mix design report must be submitted on or before 17th September 2018(11:59 pm) to \"concrete.ssncivil18@gmail.com\" duly signed by the supervisor.\n•\tThe submitted mix design report will be shortlisted and the selected participants will be sent a mail regarding the same. Only selected participants can take part in the event.\n•\tHard copy of the mix design report should be brought on the day of event.\n•\tThe team with the cube of maximum compressive stress will be the winner.\n•\tThe procedure for casting the concrete specimen must be followed only using IS CODAL PROVISIONS.\n•\tFailure to abide by the above rules will lead to disqualification from the event.\n\n\nScore allotment for the concrete specimen:\n\nThe score allotment for the cube specimen is as follows;\n1.\tDensity of concrete: Out of 10 marks\n(Pre qualification)\n2.\tStrength of cube specimen: Out of 50 marks\n(The marks obtained is directly proportional to strength. As the strength of the specimen is higher, marks awarded also increases).\n3.\tFinishing of the cube specimen: Out of 15 marks\n(The marks awarded will be more when the surfaces of the cube have smooth finishes and the dimensions of the specimen is similar to the problem statement with minimum tolerances).\n4.\tViva-Voce: Out of 10 marks\n(The marks for this session will be awarded by our college professor as per your team performance).\n5.\tMix design report: Out of 15 marks\n(The mix design report will be evaluated by our college professor and marks will be awarded).\nTotal marks: Out of 100 marks.\nThe team/individual will be awarded the prizes as per maximum marks obtained.\n\nNote:\n•\tParticipation for this event must only be group participation. For team (group) participation, minimum upto 2 members and maximum up to4 members are allowed.\n•\tThe above problem statements must be satisfied for being effectively rewarded marks for the specimen.\n•\tParticipation certificate will be provided.\n\n",
       "tagline": "The concrete choice for every application!",
-      "eventname": "Concrete challenge ",
       "notes": "",
       "prize": null,
       "intenship": null,
@@ -1316,6 +1437,37 @@
           "In this round the teams will receive their respective clues, in which it takes them to next place which contains the task set. On completion of each task next clues will be given. crack all the six clues to reach the final destination."
         ]
       ]
+    },
+    "advance-surveying-equipments": {
+      "last_updated": "9/18/2018 0:23:03",
+      "isTechnical": false,
+      "eventtype": "Workshop",
+      "dept": "civil",
+      "slug": "advance-surveying-equipments",
+      "venue": "EEE Seminar Hall",
+      "timing": "10.00 am to 3.30 pm",
+      "displayName": "Advanced Surveying Equipments",
+      "description": "A real time survey experience with our Total Station, Hand Level GPS, Digital Level workshop where we educate you on the latest technologies used on field.\nDepartment of Civil Engineering presents you a workshop on advance surveying equipments. Be there at SSN on Sep 21st and 22nd.. ONE DAY WORK SHOP....",
+      "tagline": "Engineering Surveying Solutions...",
+      "eventname": "Advanced Surveying Equipments",
+      "notes": "",
+      "prize": null,
+      "intenship": null,
+      "registrationFee": "₹250-/- per Head",
+      "eventHeads": [
+        {
+          "name": "Annal A S",
+          "email": "annalsivakumar17@gmail.com",
+          "contact": "9344759262"
+        },
+        {
+          "name": "Arumugam V",
+          "email": "velan.arumugam97@gmail.com",
+          "contact": "9487667605"
+        }
+      ],
+      "attachments": [],
+      "rules": []
     }
   },
   "chem": {
@@ -1498,7 +1650,7 @@
       ]
     },
     "industrial-design-problem": {
-      "last_updated": "9/9/2018 15:57:05",
+      "last_updated": "9/15/2018 13:43:15",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "chem",
@@ -1525,7 +1677,9 @@
           "contact": "8939610800"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "https://drive.google.com/file/d/1onKd_Fp5vFcYXgasdWMqRPQ77ij_kZ3t/view?usp=drivesdk"
+      ],
       "rules": [
         [
           "A solution along with the abstract is should be presented to the problem statement which will be posted 1 week prior to the event."
@@ -1711,7 +1865,7 @@
   },
   "mech": {
     "auto-quiz": {
-      "last_updated": "9/11/2018 14:19:47",
+      "last_updated": "9/14/2018 15:23:05",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -1722,7 +1876,7 @@
       "description": "Auto quiz is back with a bang and invites all the Auto maniacs! This quiz is all about Automobiles! Engage your grey cells and accelerate your answers as we have Cash Prizes and Certificates waiting for the winners! Display your Technical Chutzpah and conquer the title of Auto Wizard!",
       "tagline": null,
       "eventname": "Auto Quiz",
-      "notes": "",
+      "notes": "Pre-registration form:  https://docs.google.com/forms/d/e/1FAIpQLSda-HqQ-qlvjpu-tOjNTFdSHsXmpCdQylaImOsl8gvllS129A/viewform?usp=sf_link",
       "prize": "Total Prize Amount: ₹4,500",
       "intenship": null,
       "registrationFee": null,
@@ -1738,9 +1892,7 @@
           "contact": "9176091197"
         }
       ],
-      "attachments": [
-        "Pre-registration form:  https://docs.google.com/forms/d/e/1FAIpQLSda-HqQ-qlvjpu-tOjNTFdSHsXmpCdQylaImOsl8gvllS129A/viewform?usp=sf_link"
-      ],
+      "attachments": [],
       "rules": [
         [
           "This is a team event. Each team can consist maximum of 3 members. The event has two stages.",
@@ -1806,7 +1958,7 @@
       ]
     },
     "robo-wars": {
-      "last_updated": "9/11/2018 14:29:41",
+      "last_updated": "9/14/2018 15:24:50",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -1817,7 +1969,7 @@
       "description": "Bring your powerful robots ready to battle as you’ll be pitted against other competing robots in one-on-one knockout matches where the aim is to push the opponent’s robot off the arena or immobilizing the other bot and scoring maximum points! Play to your strengths and strategies to win cash prizes!\n",
       "tagline": null,
       "eventname": "Robo Wars",
-      "notes": "Robot Control Requirements:\n\n If the bot is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the bot should be stacked as a single unit. The wires should be properly insulated. Teams are suggested to use only rated wires such as ISI marked. Loose connections or improper wiring may lead to immediate disqualification even before the event. If the bot is controlled wirelessly, the bot must at least have a four-frequency remote control circuit or two dual control circuits which may be interchanged before the start of the race to avoid frequency interference with other teams. The case of any interference in the wireless systems will not be considered for rematch or results. Remote control systems from toys are allowed. Remote control systems available in the market may also be used. Battery and Power: The machine can be powered electrically only. Batteries must be sealed, immobilized- electrolyte types (such as Li-ion, NiCd, NiMH or dry cells). Working voltages must not exceed 24V DC (mean voltage) at any point in time. All power connections must be of an adequate grade and adequately insulated. Cables must be routed to minimize the chances of being cut. All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause immediate disqualification. Battery Eliminators are allowed and power source would be available at the venue for the eliminators.\n\nMotors:\n\nThe robot should move as fast as possible around the arena with the help of motors. DC motors and stepper motors (12V-24V) can be used as per the design of bots. Note: We are not responsible for any damage that your bot may incur during the event.\n\nScore Card: \n\nThe score card is based upon the arena formulation. It is obvious that the robot with an extraordinary dynamism will succeed by thrusting out its combatant from the arena.\nIf a robot is pushed beyond the ring, the round ends and the other team is awarded the points.\nThe first team to win X rounds will get through to the Finals where X will be intimated on the day of the competition. Ultimately, if any of the combatants rolls out from the arena it will directly be eliminated from the War Field.\nCriteria for triumph: A robot will be declared immobile if it cannot demonstrate linear motion of at least one inch in a timed period of 30 seconds. A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement. If both robots survive the 5 minutes, the robot with the higher scorecard points wins. The winner advances to the next round while the loser is eliminated from the tournament.",
+      "notes": "Robot Control Requirements:\n\n If the bot is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the bot should be stacked as a single unit. The wires should be properly insulated. Teams are suggested to use only rated wires such as ISI marked. Loose connections or improper wiring may lead to immediate disqualification even before the event. If the bot is controlled wirelessly, the bot must at least have a four-frequency remote control circuit or two dual control circuits which may be interchanged before the start of the race to avoid frequency interference with other teams. The case of any interference in the wireless systems will not be considered for rematch or results. Remote control systems from toys are allowed. Remote control systems available in the market may also be used. Battery and Power: The machine can be powered electrically only. Batteries must be sealed, immobilized- electrolyte types (such as Li-ion, NiCd, NiMH or dry cells). Working voltages must not exceed 24V DC (mean voltage) at any point in time. All power connections must be of an adequate grade and adequately insulated. Cables must be routed to minimize the chances of being cut. All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause immediate disqualification. Battery Eliminators are allowed and power source would be available at the venue for the eliminators.\n\nMotors:\n\nThe robot should move as fast as possible around the arena with the help of motors. DC motors and stepper motors (12V-24V) can be used as per the design of bots. Note: We are not responsible for any damage that your bot may incur during the event.\n\nScore Card: \n\nThe score card is based upon the arena formulation. It is obvious that the robot with an extraordinary dynamism will succeed by thrusting out its combatant from the arena.\nIf a robot is pushed beyond the ring, the round ends and the other team is awarded the points.\nThe first team to win X rounds will get through to the Finals where X will be intimated on the day of the competition. Ultimately, if any of the combatants rolls out from the arena it will directly be eliminated from the War Field.\nCriteria for triumph: A robot will be declared immobile if it cannot demonstrate linear motion of at least one inch in a timed period of 30 seconds. A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement. If both robots survive the 5 minutes, the robot with the higher scorecard points wins. The winner advances to the next round while the loser is eliminated from the tournament.\n\nPre-registration form: https://goo.gl/forms/AFtfnw0iOJwyQEiA3",
       "prize": "Total Cash Prize: ₹8,000",
       "intenship": null,
       "registrationFee": null,
@@ -1833,9 +1985,7 @@
           "contact": "9659024667"
         }
       ],
-      "attachments": [
-        "Pre-registration form: https://goo.gl/forms/AFtfnw0iOJwyQEiA3"
-      ],
+      "attachments": [],
       "rules": [
         [
           "A team may consist of a maximum of 3 participants. Design and construct a wired or remote controlled bot capable of fighting in a one on one tournament.",
@@ -1852,7 +2002,7 @@
       ]
     },
     "poseidon": {
-      "last_updated": "9/10/2018 21:42:05",
+      "last_updated": "9/16/2018 19:19:23",
       "isTechnical": false,
       "eventtype": "Non-Technical",
       "dept": "mech",
@@ -1860,13 +2010,13 @@
       "venue": "Mechanical Department LH5",
       "timing": "21st Sep and 22nd Sep  10:00 am",
       "displayName": "Poseidon",
-      "description": "It’s a fun event designed to test your creativity and speed. Design your own boat with the\nmaterials provided and set sail to win exciting cash prizes and certificates!",
+      "description": "It’s a fun event designed to test your creativity and speed. Design your own boat with the materials provided and set sail to win exciting cash prizes and certificates!",
       "tagline": null,
       "eventname": "Poseidon",
-      "notes": "",
+      "notes": "Pre-registration form: https://docs.google.com/forms/d/e/1FAIpQLSdM1UUiqzrOa0sOAoDpjB9-JDLKCZtC6sU3StW1-cNgE5l0EQ/viewform?usp=pp_url",
       "prize": null,
       "intenship": null,
-      "registrationFee": null,
+      "registrationFee": "₹100",
       "eventHeads": [
         {
           "name": "Velmurugan M",
@@ -1879,11 +2029,10 @@
           "contact": "9710222162"
         }
       ],
-      "attachments": [
-        "Pre-registration form: https://docs.google.com/forms/d/e/1FAIpQLSdM1UUiqzrOa0sOAoDpjB9-JDLKCZtC6sU3StW1-cNgE5l0EQ/viewform?usp=pp_url"
-      ],
+      "attachments": [],
       "rules": [
         [
+          "●\tEach team will have a maximum of 2 members.",
           "●\tOne hour will be provided for each team to design and develop the yacht.",
           "●\tEach team must use all the components from the package provided to the team.",
           "●\tThe yacht will be powered by a fan. It must sail from one end of the water tub to the other.",
@@ -1892,7 +2041,7 @@
       ]
     },
     "project-exhibition": {
-      "last_updated": "9/11/2018 14:23:34",
+      "last_updated": "9/14/2018 15:22:44",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -1903,7 +2052,7 @@
       "description": "Unleash your engineering skills, creativity and intuition, and structure your ideas into reality. Project Presentation conducted by the Mechanical Department invites the doers! Send in your abstracts and the best projects will receive cash prizes and certificates!",
       "tagline": "Science is about learning, Engineering is about doing",
       "eventname": "Project Exhibition",
-      "notes": "",
+      "notes": "Pre-registration form: https://docs.google.com/forms/u/2/d/e/1FAIpQLSedT_YjRX0xhqD5PkNOHi5D_L1GcL8R2BOZD9YFRl8-s5o0Cg/formResponse?pli=1",
       "prize": "Total Cash Prize: ₹6,000",
       "intenship": null,
       "registrationFee": null,
@@ -1919,9 +2068,7 @@
           "contact": "9488160086"
         }
       ],
-      "attachments": [
-        "Pre-registration form: https://docs.google.com/forms/u/2/d/e/1FAIpQLSedT_YjRX0xhqD5PkNOHi5D_L1GcL8R2BOZD9YFRl8-s5o0Cg/formResponse?pli=1"
-      ],
+      "attachments": [],
       "rules": [
         [
           "General Rules:",
@@ -1947,21 +2094,21 @@
       ]
     },
     "treasure-hunt": {
-      "last_updated": "9/5/2018 0:29:32",
+      "last_updated": "9/16/2018 19:18:38",
       "isTechnical": false,
       "eventtype": "Non-Technical",
       "dept": "mech",
       "slug": "treasure-hunt",
       "venue": "Mechanical Department LH 2",
-      "timing": "22nd September 10 am",
+      "timing": "21st September and 22nd September 10 am",
       "displayName": "Treasure Hunt",
       "description": "Looking to solve riddles? Want a boost of Adrenaline? If you’re looking to explore one of the most beautiful campus in the country or you just want to make some new friends – treasure hunt is what might catch your fancy.",
       "tagline": null,
       "eventname": "Treasure Hunt",
-      "notes": "",
+      "notes": "Pre-registeration form: https://goo.gl/forms/3506Lg4q0suVi9EF3",
       "prize": null,
       "intenship": null,
-      "registrationFee": null,
+      "registrationFee": "₹100",
       "eventHeads": [
         {
           "name": "Arunmozhi K",
@@ -1993,18 +2140,18 @@
       ]
     },
     "outdoor-gp": {
-      "last_updated": "9/11/2018 14:16:38",
+      "last_updated": "9/14/2018 15:23:38",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
       "slug": "outdoor-gp",
       "venue": "Basket ball court (opp. Sports Complex)",
       "timing": "22nd September - 9 AM",
-      "displayName": "Outdoor GP",
+      "displayName": "Nitro GP",
       "description": "Get ready to show off your agile Nitro Car as it speeds through an exciting off-road obstacle course.Navigate through the blind spots, sharp turns and much more, as quickly as possible to win exciting Cash prizes and Certificate of Merit.",
       "tagline": "Rev up..Feel..Race",
-      "eventname": "Outdoor GP",
-      "notes": "●\tThe track will be off-road with obstacles, slopes and tunnels. The width of the track will be revealed on spot. Only cars powered by internal combustion engines are allowed to compete.\n●\tElectric or solar powered cars will not be allowed under any circumstances.\n●\tMaximum allowable displacement for IC engines is 4.6 cc. Only nitro-based fuels or gasoline should be used in the cars.\n●\tFor nitro-based fuels, the amount of nitro compounds in the mixture should not exceed 25%.\n●\tFuel will not be provided by the organizers.\n●\tTeams must bring their own supplies. Only buggy type cars are allowed. The cars should fit in a 500mm x 400mm x300mm box. The antenna used for radio control is exempted from height restrictions.\n●\tParticipants are advised to have multi-channel radio controllers to prevent frequency clashes.\n●\tFHSS Transmitters (Frequency Hop Spread Spectrum) are allowed.\n●\tOrganizers will not be responsible for any interference in frequencies.\n●\tContestants must bring sufficient number of batteries. Batteries will not be provided.\n●\tBoth ready-to-run kit cars and custom fabricated cars are allowed to compete.",
+      "eventname": "Nitro GP",
+      "notes": "●\tThe track will be off-road with obstacles, slopes and tunnels. The width of the track will be revealed on spot. Only cars powered by internal combustion engines are allowed to compete.\n●\tElectric or solar powered cars will not be allowed under any circumstances.\n●\tMaximum allowable displacement for IC engines is 4.6 cc. Only nitro-based fuels or gasoline should be used in the cars.\n●\tFor nitro-based fuels, the amount of nitro compounds in the mixture should not exceed 25%.\n●\tFuel will not be provided by the organizers.\n●\tTeams must bring their own supplies. Only buggy type cars are allowed. The cars should fit in a 500mm x 400mm x300mm box. The antenna used for radio control is exempted from height restrictions.\n●\tParticipants are advised to have multi-channel radio controllers to prevent frequency clashes.\n●\tFHSS Transmitters (Frequency Hop Spread Spectrum) are allowed.\n●\tOrganizers will not be responsible for any interference in frequencies.\n●\tContestants must bring sufficient number of batteries. Batteries will not be provided.\n●\tBoth ready-to-run kit cars and custom fabricated cars are allowed to compete.\n\nPre-registration Form:  https://goo.gl/forms/rQBspFi44KIcAPU13",
       "prize": "Total Prize Amount: ₹20,000 ",
       "intenship": null,
       "registrationFee": null,
@@ -2020,9 +2167,7 @@
           "contact": "9894254981"
         }
       ],
-      "attachments": [
-        "Pre-registration Form:  https://goo.gl/forms/rQBspFi44KIcAPU13"
-      ],
+      "attachments": [],
       "rules": [
         [
           "●\tParticipants are required to submit an abstract containing the details of the parts fabricated to the email id mentioned below before the day of the event.",
@@ -2047,7 +2192,7 @@
       ]
     },
     "blitz-gp": {
-      "last_updated": "9/11/2018 14:18:20",
+      "last_updated": "9/14/2018 15:21:00",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -2058,7 +2203,7 @@
       "description": "BLITZ GP is an RC Car racing event held during INVENTE that tests the participant’s fabrication, driving and management skills. The event features a challenging timed obstacle course for the battery run RC car. An RC Car that conforms to the BLITZ GP standards is required for participation by each team. The three winners will receive exciting cash prizes and Certificate of Merit.",
       "tagline": null,
       "eventname": "Blitz GP",
-      "notes": "",
+      "notes": "Pre Registration Link: https://goo.gl/forms/HotyzwWfFTk6ndE72",
       "prize": "Total Cash Prize: ₹9,000",
       "intenship": null,
       "registrationFee": null,
@@ -2074,9 +2219,7 @@
           "contact": "8220706078"
         }
       ],
-      "attachments": [
-        "Pre Registration Link: https://goo.gl/forms/HotyzwWfFTk6ndE72"
-      ],
+      "attachments": [],
       "rules": [
         [
           "A Team can have upto 4 members",
@@ -2110,7 +2253,7 @@
       ]
     },
     "bottle-rocketrix": {
-      "last_updated": "9/11/2018 14:14:09",
+      "last_updated": "9/14/2018 15:20:34",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -2121,7 +2264,7 @@
       "description": "Flying has amused us for ages! And to fly better, requires meticulous engineering! Bottle Rocketrix aims to bring out the engineer in you. Apply the concepts of Aerodynamics and Center of Gravity to make your modified pressurised bottle fly the farthest.",
       "tagline": "Defy Gravity (for bottle rocketrix)",
       "eventname": "Bottle Rocketrix",
-      "notes": "-",
+      "notes": "Pre-registration form: https://goo.gl/forms/fWZyaC1WeJGbWHsw2",
       "prize": "Total Cash Prize: ₹6,000",
       "intenship": "Nil",
       "registrationFee": null,
@@ -2137,9 +2280,7 @@
           "contact": "8807275470"
         }
       ],
-      "attachments": [
-        "Pre-registration form: https://goo.gl/forms/fWZyaC1WeJGbWHsw2"
-      ],
+      "attachments": [],
       "rules": [
         [
           "●\tTeams of 2-3 members are allowed.",
@@ -2160,7 +2301,7 @@
       ]
     },
     "paper-presentation": {
-      "last_updated": "9/11/2018 14:25:16",
+      "last_updated": "9/14/2018 15:19:24",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "mech",
@@ -2188,7 +2329,7 @@
         }
       ],
       "attachments": [
-        "Template for attachment : https://drive.google.com/file/d/1VqPRmDILRZXPR4CS0ytky8VENgj5gELu/view?usp=sharing"
+        "https://drive.google.com/file/d/1VqPRmDILRZXPR4CS0ytky8VENgj5gELu/view?usp=sharing"
       ],
       "rules": [
         [
@@ -2204,7 +2345,7 @@
   },
   "eee": {
     "line-follower": {
-      "last_updated": "9/13/2018 11:55:16",
+      "last_updated": "9/16/2018 17:58:49",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "eee",
@@ -2213,10 +2354,10 @@
       "timing": "830 AM - 4 PM",
       "displayName": "Line Follower",
       "description": "Wanna be the new Dr. Vaseegaran in town??! Come with your Chitti, get your neural schema right and show off your skills in front of Dr. Bohra and Sana.. Invente presents to you Line Follower 3.0 with lot of twists and turns..!!",
-      "tagline": null,
+      "tagline": "Is your team the fastest??!",
       "eventname": "Line Follower",
       "notes": "",
-      "prize": null,
+      "prize": "6000",
       "intenship": null,
       "registrationFee": null,
       "eventHeads": [
@@ -2232,7 +2373,7 @@
         }
       ],
       "attachments": [
-        "https://drive.google.com/open?id=1M8RBmIC_0mj4irv5zDoaE5aMa6ND6lXI"
+        "drive.google.com/open?id=1ekkrR99p0q-nDWLhJL2N7whZVf4zFriW"
       ],
       "rules": [
         [
@@ -2256,29 +2397,29 @@
           "• Top teams qualify."
         ],
         [
-          "Beat the track",
+          "BEAT THE TRACK",
           "• Main objective is to travel the farthest. In case of a tie, winners will be ",
           "decided based on the time taken to complete.",
           "• Track will have straight lines, curves, markers, loops, gaps, turns (90 degree, ",
-          "acute and obtuse angles).",
+          "acute and obtuse angles) and obstacles.",
           "• Judges decision is final."
         ]
       ]
     },
     "do-you-know-arduino": {
-      "last_updated": "8/29/2018 13:17:49",
+      "last_updated": "9/16/2018 12:42:52",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "eee",
       "slug": "do-you-know-arduino",
-      "venue": "2nd year EEE-B, 1st floor, EEE department",
+      "venue": "Electrical workshop lab, Ground floor, EEE department",
       "timing": "10 AM to 3 PM",
       "displayName": "Do you know Arduino?",
-      "description": "A technical event that tests the participant's knowledge on arduino.",
+      "description": "This is a call out to all dabblers, amateurs and experts at Arduino. Compete with a smorgasbord of students and put your skills to the test. See you on the 22nd of September, and come prepared for a gruelling challenge and we hope to see you victorious and walking away with exciting prizes!!!!",
       "tagline": "Do you even ardui\"know\"?",
       "eventname": "Do you know Arduino?",
       "notes": "",
-      "prize": "1st- 3k, 2nd-2.5k, 3rd- 1k, total- 6500",
+      "prize": " total- 5000",
       "intenship": null,
       "registrationFee": null,
       "eventHeads": [
@@ -2305,10 +2446,10 @@
           "This will be the final round.",
           "The teams are allowed to bring their arduinos if they want. Nevertheless, arduino boards and components will be provided by the hosts.",
           "The teams will have to solve problems given by us, on their arduinos and the first three teams to solve them will be announced as winners.",
-          "As soon as three teams complete the challenge, the even will be declared as officially closed.",
+          "As soon as two teams complete the challenge, the even will be declared as officially closed.",
           "The time duration will be 90 minutes.",
-          "In the event that no team could solve the challenges within the stipulated time period, the team with the closest answer will eb declared winners.",
-          "The first three teams will be awarded prizes whereas all the teams which have reached the final round will be awarded participation certificates.",
+          "In the event that no team could solve the challenges within the stipulated time period, the top two teams with the closest answer will be declared winners.",
+          "The first two teams will be awarded cash prizes.",
           "In case of any discrepancies, the decision of the coordinators will be final."
         ]
       ]
@@ -2356,13 +2497,13 @@
       ]
     },
     "sherlock-holmes": {
-      "last_updated": "8/29/2018 13:43:07",
+      "last_updated": "9/16/2018 22:29:21",
       "isTechnical": false,
       "eventtype": "Non-Technical",
       "dept": "eee",
       "slug": "sherlock-holmes",
       "venue": "EEE department",
-      "timing": "9.30 am",
+      "timing": "2 days - 9.30 am",
       "displayName": "Sherlock Holmes",
       "description": "Tired of technical stuffs? Give a break!!!! Here is a chance for u people to be a part of this detective game. Come along to test your logical and analytical skills and open your mind to investigate and solve as Sherlock Holmes.",
       "tagline": "\"Brainy is the new sexy\"",
@@ -2400,25 +2541,25 @@
       ]
     },
     "profitech": {
-      "last_updated": "8/29/2018 13:58:48",
+      "last_updated": "9/16/2018 10:19:11",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "eee",
       "slug": "profitech",
-      "venue": "EEE department ",
-      "timing": "8 am - 3 pm",
+      "venue": "3rd Year EEE - A(Ground Floor)  EEE Department",
+      "timing": "9 A.M. - 3 P.M. ",
       "displayName": "Profitech",
-      "description": " A team of maximum 3 students with entrepreneur skills having knowledge on basics of statistics and probability will be allowed to participate in the prelims which consist of 20 MCQs on the above-mentioned topics. The teams with maximum marks will be selected for finals where they have to provide business solutions to case studies of companies and invest in virtual stocks.",
-      "tagline": "Where technology meets business ",
+      "description": "✍\tAre you fond of numbers rather than long-running texts?\n✍\tDo terms like profits, returns and business strategy interest you?\n✍\tAre you amazed by CEOs like Elon Musk, Pichai and Nadella?\n✍\tCan you take the best decisions to puzzle out the business problems.? \n✍\tIf you have a Big \"YES\" to these questions then \"PROFITECH\" is THE event for YOU.\nCOME & UNRAVEL YOUR BUSINESS MINDS AND WIN EXCITING CASH PRIZES!!!",
+      "tagline": "\"Stay Hungry.Stay Foolish.\" - Steve Jobs",
       "eventname": "Profitech",
       "notes": "",
-      "prize": "5500",
+      "prize": null,
       "intenship": null,
       "registrationFee": null,
       "eventHeads": [
         {
-          "name": "Daipayan Chakraborty ",
-          "email": "daipayan14302@eee.ssn.edu.in",
+          "name": "Daipayan Chakraborty",
+          "email": "daipayan.chakraborty95@gmail.com ",
           "contact": "9444641707"
         },
         {
@@ -2430,21 +2571,27 @@
       "attachments": [],
       "rules": [
         [
-          "We will have 20 MCQs,based on teams. "
+          "•\tThe test consists of 20 MCQs based on statistics, profit & loss, probability & data interpretation.",
+          "•\tTest duration will be 25 minutes max for each group.",
+          "•\tThe top 6 teams with maximum marks will be selected for the second round."
         ],
         [
-          "We will select 6 teams based on first round. And then we will have case studies for the final round. "
+          "•\tThis is a Pen-Paper round which has two parts.",
+          "•\tPart A consists of business-related case studies and participants are required to provide solutions for it.",
+          "•\tPart B consists of a stock market problem for which the participants are required to bring out their business intuitions and invest it in the virtual companies that will be created by us. ",
+          "•\tTotal of 60 minutes will be allotted for this round.",
+          "•\tThe teams which provide the best solutions for the business problems and obtain the maximum profit from the stock market simulation will be declared as the winner and runners-up."
         ]
       ]
     },
     "project-display": {
-      "last_updated": "8/29/2018 14:32:49",
+      "last_updated": "9/15/2018 22:15:09",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "eee",
       "slug": "project-display",
-      "venue": "EEE DEPARTMENT",
-      "timing": "21st SEPTEMBER AT 1.30 PM",
+      "venue": "Electrical Machines Lab, EEE Department.",
+      "timing": "21st SEPTEMBER AT 10 AM",
       "displayName": "Project Display",
       "description": " Are you someone who spells out scientific formulae like magic incantations?Are you the maven that cannot tolerate a question to remain as a question?If you are this eccentrically insatiable Creator and have a project that is a marvel and will make bystanders look at awe,then your event is“PROJECT DISPLAY”. It is all about bringing to spot light your novel ideas that will stand as testimony to your technical intelligence and being given a well-deserved pat on the back. !!",
       "tagline": "Get to light up!",
@@ -2524,20 +2671,20 @@
       ]
     },
     "ipl-bidding": {
-      "last_updated": "8/29/2018 20:58:19",
+      "last_updated": "9/16/2018 20:42:11",
       "isTechnical": false,
       "eventtype": "Non-Technical",
       "dept": "eee",
       "slug": "ipl-bidding",
-      "venue": "EEE department ",
-      "timing": "2 days",
+      "venue": "EEE department  ( 2nd year A Section )",
+      "timing": "Sept 21,22( 9.00 A.M)",
       "displayName": "IPL Bidding",
       "description": "An Auction comprising of the best cricket players in the world participating in the Indian Premier League. Every aspiring cricketer with a good mind for management should try their hand at auction.",
-      "tagline": "JUST Bid It",
+      "tagline": "Just Bid It",
       "eventname": "IPL Bidding",
-      "notes": "",
+      "notes": "Action based Auction..Be ready face it..",
       "prize": "1000",
-      "intenship": "BCCI",
+      "intenship": null,
       "registrationFee": null,
       "eventHeads": [
         {
@@ -2554,7 +2701,7 @@
       "attachments": [],
       "rules": [
         [
-          "Competitive quiz based on your cricket knowledge "
+          "Initial round consists of quiz and puzzles about .Only cricket CRICKET ANDDD CRICKETTTT!!! a try and get indulged in the circle of cricket before you become the bearers of hoardings!!"
         ],
         [
           "Final Auction "
@@ -2562,15 +2709,15 @@
       ]
     },
     "tech-quiz": {
-      "last_updated": "8/30/2018 11:01:39",
+      "last_updated": "9/15/2018 22:40:32",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "eee",
       "slug": "tech-quiz",
-      "venue": "EEE department",
+      "venue": "Electronics and Devices Lab,EEE department.",
       "timing": "9am to 4pm; 22nd september",
       "displayName": "Tech Quiz",
-      "description": "technical quiz competition on basic electrical and electronic engineering",
+      "description": "At Invente 3.0,  Genius is indeed the new sexy! Time to charge your grey cells up with energy as we're back with the much awaited Tech Quiz! Gear up to enter the intense world of techno quizzing and unleash the genius within you. \n\nSSN awaits the crowning of the next tech geeks as we pit your tech know-how against some of the best minds across chennai.\n",
       "tagline": null,
       "eventname": "Tech Quiz",
       "notes": "",
@@ -2592,13 +2739,11 @@
       "attachments": [],
       "rules": [
         [
-          "test round; 10 teams qualify to next round"
+          "MCQ test on various fields including English, logic,aptitude, electrical and electronics. "
         ],
         [
-          "tentative; 5  teams qualify to next round"
-        ],
-        [
-          "final quiz round; three winners are chosen"
+          "Quiz Round",
+          "A multistage event that tests the participants' ability to answer difficult questions under pressure. The teams with the highest points at the end wins amazing cash prizes."
         ]
       ]
     },
@@ -2645,21 +2790,21 @@
       ]
     },
     "3d-printing": {
-      "last_updated": "9/11/2018 11:20:27",
+      "last_updated": "9/15/2018 17:59:16",
       "isTechnical": false,
       "eventtype": "Workshop",
       "dept": "eee",
       "slug": "3d-printing",
       "venue": "Main Auditorium",
-      "timing": "1100AM",
+      "timing": "September 21, 2018 ",
       "displayName": "3D Printing",
-      "description": "https://drive.google.com/file/d/1Yym-2Ytn70qckjnlDCJGuQzxTU-FYgJC/view?usp=sharing",
+      "description": "Want to make something that you just conceived?  \nDo you have some idea but can't fabricate it?\n\"According to IEEE, 35% of Engineering Jobs today require 3D Printing Skills\"\n\nHere's the best platform for you to accomplish your desires. Presenting to you 3D'ing- A leading company in 3D printing assisting huge companies \n\nHaving conducted workshops all across India, 3D'ing in association with Invente 3.0 brings 3D Printing workshop here in SSN College of Engineering.\n\nABOUT THE ORGANISERS (3Ding) :\n\n3D’ing is the largest manufacturer of 3D Printers in India. Established in 2013, 3Ding manufactures & deals with a wide variety of 3D Printers ranging from Domestic to Industrial to large format 3D Printers. 3Ding is also an Advisory Partner for Additive Manufacturing for quite a few Large Corporates like Deloitte, PWC, Samsung etc.\n\n3Ding’s parent company, REDD (formerly known as Redd Robotics) is a 5 year old organization with industrial expertise across multiple hardware domains like Robotics, Automation, Embedded Systems, IoT, Mixed Reality, Computer vision, Consumer Electronics, Green Tech, Bio-Medical & Drones.\n\nNow, the only thing left to do is imagine. Be there at SSN on 21 Sep 2018 at the Main Auditorium. Registrations are held at on spot as well.\n",
       "tagline": "Translating your imagination into reality",
       "eventname": "3D Printing",
       "notes": "NO PREREQUISITES REQUIRED. OPEN TO ALL BRANCHES",
       "prize": null,
       "intenship": null,
-      "registrationFee": null,
+      "registrationFee": "300",
       "eventHeads": [
         {
           "name": "Jyothiraditya",
@@ -2668,11 +2813,13 @@
         },
         {
           "name": "Sudharshan",
-          "email": "jyothiraditya@gmail.com",
+          "email": "sudharshan.tamil007@gmail.com",
           "contact": "9789326335"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "https://drive.google.com/file/d/1Yym-2Ytn70qckjnlDCJGuQzxTU-FYgJC/view?usp=sharing"
+      ],
       "rules": []
     }
   },
@@ -2716,17 +2863,17 @@
       ]
     },
     "in-a-way-tee": {
-      "last_updated": "8/26/2018 12:32:13",
+      "last_updated": "9/14/2018 11:35:12",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "ece",
       "slug": "in-a-way-tee",
-      "venue": "DSP Lab",
-      "timing": "",
-      "displayName": "In-a-way-te",
-      "description": "En Vazhi, Thani Vazhi'\nPassionate about technology? Tired of all the theory you’re reading? Want to challenge your gray matter with a real-life problem? You have come to the right place! At IN-A-WAY-TE, you will be solving a problem that people face in their everyday lives. It is an opportunity to learn what can be done and how it can be done. At the end, you’d have a solution to the problem - your own solution - which you can implement and claim to be a real-time problem solver. What more? You’ll also learn important aspects of problem solving like first principles thinking, breaking the problem into modules, and much more. Come and see for yourself!!  \n\nPRELIMS : WRITTEN ROUND\n10-15 questions distributed across three sections - puzzles, electronics, programming. \nDuration – 50 minutes.\n\nFINALS:\nTeams can choose between hardware/software for this round. Depending on their choice, different problem statements will be given. To make the competition fair and square, teams can choose between either two software questions or one hardware question.  \nWhat’s most important is the approach to the problem and not solving it per se.",
-      "tagline": "En Vazhi, thani Vazhi",
-      "eventname": "In-a-way-te",
+      "venue": "Prelims:\n2A, First Floor, Annexure Block, Dept. of ECE\nFinals:\nMicroprocessor & Microcontroller Lab, Dept. of ECE",
+      "timing": "21st September, 2018\nPrelims: 10:30 - 13:30\nFinals: 14:00 - 16:00",
+      "displayName": "IN-A-WAY-TE",
+      "description": "                                             “If I had 60 minutes to solve a problem, I’d spend 55 minutes defining it and 5 \n                                                                  minutes solving it” - Albert Einstein.\n\nPassionate about technology? Tired of all the theory you’re reading? Want to\nchallenge your gray matter with a real-life problem? You have come to the right\nplace! At IN-A-WAY-TE, you will be solving a problem that people face in their\neveryday lives. It is an opportunity to learn what can be done and how it can be\ndone. At the end, you’d have a solution to the problem - your solution - which\nyou can implement and claim to be a real-time problem solver. What more? You’ll\nalso learn important aspects of problem solving like first principles thinking,\nbreaking the problem into modules, and much more. Come and see for yourself!!\n\nRULES:\n•\tTeams of two or three. \n•\tCome and have fun! 😁🏆",
+      "tagline": "💡 En Vazhi, Thani Vazhi! 💡",
+      "eventname": "IN-A-WAY-TE",
       "notes": "",
       "prize": null,
       "intenship": null,
@@ -2734,29 +2881,33 @@
       "eventHeads": [
         {
           "name": "Brathindara S",
-          "email": "brathindara15018@ece.ssn.edu.in",
+          "email": "say2brathindra@gmail.com",
           "contact": "9789165426"
         },
         {
-          "name": "Nikhilesh N",
-          "email": "nikhilesh15071@ece.ssn.edu",
-          "contact": "8754434279"
+          "name": "K.Krithika",
+          "email": "kkrithika97@gmail.com",
+          "contact": "7667886699"
         }
       ],
-      "attachments": [],
+      "attachments": [
+        "https://drive.google.com/open?id=1AiFwyMcfu66HE2IPYU1CbmQM98LiM3Ci"
+      ],
       "rules": [
         [
-          "Groups of 2 or 3",
-          "Written round with 10 to 15 questions distributed across puzzles, electronics and programming. ",
-          "Duration : 50 minutes"
+          "PRELIMS : WRITTEN ROUND",
+          "20 questions distributed across three sections - puzzles, electronics, programming.",
+          "Duration – 30-40 minutes."
         ],
         [
-          "Final Round",
-          "Duration : 90 minutes",
-          "Teams can choose between 2 software problem statements or one hardware problem statement to maintain a fair competition. ",
-          "Evaluation is based on the approach to Problem solving. ",
-          "30 minutes of Problem Analysis - to think of a solution or algorithm to solve the real life problem statement presented to the contestants. At the end of this duration, the teams will have to present the idea to the jury. ",
-          "Once the Problem Analysis round is complete, the contestants can move on to hands-on Implementation of the solution, the duration of which is about one hour. "
+          "FINALE:",
+          "Teams may choose between hardware/software for this round. Depending on their choice, different problem statements will be given. ",
+          "What’s most important is the approach to the problem and not solving it per se. ",
+          "Duration – 90-120 minutes",
+          "•\tPROBLEM ANALYSIS",
+          "Contestants will be given a real-life problem statement. They have around 30 mins. to think of a solution/algorithm that would solve the problem. At the end of 30 mins, they will be asked to present their idea in front of the jury. This will happen in parallel for all the teams. This is to ensure that they are on the right track and to suggest changes if necessary. Once the teams are clear on what they are planning to do, they can move on to the implementation part.",
+          "•\tIMPLEMENTATION",
+          "The wait is over! Grab the components, take the tools and start makin’ it! Extra points for modularity, number of components used. "
         ]
       ]
     },
@@ -2846,20 +2997,20 @@
       ]
     },
     "hexathlon": {
-      "last_updated": "8/29/2018 16:14:34",
+      "last_updated": "9/13/2018 23:36:00",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "ece",
       "slug": "hexathlon",
       "venue": "Digital Signal Processing lab,ECE department ",
-      "timing": "September 21,2018",
+      "timing": "September 22,2018",
       "displayName": "Hexathlon",
       "description": "This event is to challenge your knowledge in circuits and coding skills in six different areas.\nSome of you will be interested in coding or analysing/building the circuits. So it’s a perfect place\nfor you to shine in these domains and turn your ideas into actions.\n",
       "tagline": "An Electronic contest in six different domains. ",
       "eventname": "Hexathlon",
-      "notes": "-",
+      "notes": "",
       "prize": "First and second prize",
-      "intenship": "-",
+      "intenship": null,
       "registrationFee": null,
       "eventHeads": [
         {
@@ -2873,9 +3024,7 @@
           "contact": "6380249830"
         }
       ],
-      "attachments": [
-        "-"
-      ],
+      "attachments": [],
       "rules": [
         [
           "- It will be a written test comprising of 20 questions. Rough sheets will be provided for ",
@@ -2911,15 +3060,6 @@
           "- If any team completes all tasks before the time limit, they may attend any star question of ",
           "their choice.",
           "- The teams may refer to the documentation or help function that we provide to them."
-        ],
-        [
-          "-"
-        ],
-        [
-          "-"
-        ],
-        [
-          "-"
         ]
       ]
     },
@@ -3455,16 +3595,16 @@
       ]
     },
     "demaxxon": {
-      "last_updated": "9/12/2018 15:19:48",
+      "last_updated": "9/17/2018 19:57:41",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "bme",
       "slug": "demaxxon",
       "venue": "BME 2nd year classroom",
-      "timing": "9AM-2PM",
+      "timing": "22nd september 2018 @ 9AM-2PM",
       "displayName": "Demaxxon",
       "description": "Demaxxon is full of interesting challenges and innovative mind always look up for the challenges,which aids in understanding the secrets of technology.",
-      "tagline": "Try to Fail but don't Fail to Try",
+      "tagline": "Try and Fail but don't Fail to Try",
       "eventname": "Demaxxon",
       "notes": "No",
       "prize": "2500",
