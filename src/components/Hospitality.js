@@ -118,6 +118,16 @@ class Hospitality extends React.Component{
                     <th>Ph.No.</th>
                 </tr>
                 </thead>
+                <tbody>
+                      <tr>
+                          <td>Rohan</td>
+                          <td>8760725899</td>
+                      </tr>
+                      <tr>
+                          <td>Sriram</td>
+                          <td>8870062937</td>
+                      </tr>
+                    </tbody>
             </table>
         </div>
     </div>
