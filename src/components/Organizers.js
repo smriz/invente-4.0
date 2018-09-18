@@ -52,7 +52,7 @@ class Organizers extends React.Component{
             name:"Jerome Jayakar",
             img:"BME"
         },{
-             name:"Yashawin Harathi",
+             name:"Yashaswin Harathi",
              img:"Mechanical"
         },{
             name:"Sudarsan",

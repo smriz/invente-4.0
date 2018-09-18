@@ -51,7 +51,7 @@ class Home extends React.Component{
 			 <img src={'https://images.ssninvente.com/front/fe.svg'} id="main-fe" />
 			 <NavLink to='/events/it/codolympics'><img src={'https://images.ssninvente.com/front/codolympics.svg'} id="main-codo" /></NavLink>
 			 <NavLink to='/events/mech/outdoor-gp'><img src={'https://images.ssninvente.com/front/nitrogp.svg'} id="main-nitro" /></NavLink>
-			 <NavLink to='/events/civil/concrete-challenge'><img src={'https://images.ssninvente.com/front/concrete.svg'} id="main-concrete" /></NavLink>
+			 <NavLink to='/events/civil/1.concrete-challenge'><img src={'https://images.ssninvente.com/front/concrete.svg'} id="main-concrete" /></NavLink>
 			 <NavLink to='/events/eee/line-follower'><img src={'https://images.ssninvente.com/front/linefollow.svg'} id="main-line" /></NavLink>
 			 <NavLink to='/events/ece/ai-4-good-hackathon'><img src={'https://images.ssninvente.com/front/hackathon.svg'} id="main-hackathon" /></NavLink>
 			 <NavLink to='/events/chem/autochem'><img src={'https://images.ssninvente.com/front/autochem.svg'} id="main-autochem" /></NavLink>

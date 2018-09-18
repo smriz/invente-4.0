@@ -104,10 +104,11 @@ class Hospitality extends React.Component{
             <hr/>
             <p>Participants looking for accomodation please make note of the following:</p>
             <ul style={{margin:'0px 26%'}}>
-                <li>Individual registration for accomodation</li>
-                <li>Fee of Rs.150/- per day per person</li>
+                <li>Participants must bring their ID card or a copy of the college ID Card while availing accomodation. Without the copy, accomodation cannot be provided</li>
+                <li>Accomodation Fees of Rs.150/- per day per person</li>
                 <li>Caution Deposit of Rs.100/-</li>
-                <li>Rooms will be allocated on shared basis</li>
+                <li>Rooms will be allocated on shared basis only, with 2 people in a room</li>
+                <li>For rooms with beds, the charges are separate.</li>
             </ul>
             <p className = "note">Contacts for accomodation</p>
             <table align="center">
