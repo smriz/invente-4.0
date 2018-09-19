@@ -444,7 +444,7 @@
   },
   "it": {
     "applokition": {
-      "last_updated": "9/14/2018 18:33:38",
+      "last_updated": "9/18/2018 21:42:47",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
@@ -456,7 +456,7 @@
       "tagline": null,
       "eventname": "AppLokition",
       "notes": "",
-      "prize": "First Prize:SPI internship, Second Prize:3000 ,Third Prize:2000",
+      "prize": null,
       "intenship": "SPI Cinemas",
       "registrationFee": null,
       "eventHeads": [
@@ -474,8 +474,8 @@
       "attachments": [],
       "rules": [
         [
-          "Strictly team of Three from the same college.",
-          "20 MCQs in 30minutes",
+          "Team of 2 or 3 (Same/Different college)",
+          "20 MCQs in 30minutes related to Android terminologies",
           "One bonus question as tie breaker",
           "Top 5 teams qualify for Round 2",
           "Organizers decision is final."
@@ -668,20 +668,20 @@
       ]
     },
     "webaholic": {
-      "last_updated": "9/12/2018 7:35:11",
+      "last_updated": "9/18/2018 13:40:36",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
       "slug": "webaholic",
-      "venue": "",
-      "timing": "",
+      "venue": "22nd September 2018",
+      "timing": "10:00 am",
       "displayName": "Webaholic",
       "description": "An even which tests the understanding of Web Technology.",
       "tagline": null,
       "eventname": "Webaholic",
       "notes": "",
       "prize": null,
-      "intenship": null,
+      "intenship": "SPI Cinemas",
       "registrationFee": null,
       "eventHeads": [
         {
@@ -700,7 +700,13 @@
         [
           "Pen Paper Round",
           "1. Participants should not use Mobile Phones.",
-          "2. The round goes on for 45 minutes."
+          "2. The round goes on for 30 minutes.",
+          "3. A team can have a maximum of 3 members."
+        ],
+        [
+          "Development Round",
+          "1. On spot topic will be given.",
+          "2. Team should develop a web app based on the topic."
         ]
       ]
     },
@@ -1349,7 +1355,7 @@
       ]
     },
     "battle-of-design": {
-      "last_updated": "8/31/2018 10:31:17",
+      "last_updated": "9/18/2018 10:57:05",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "civil",
@@ -1371,9 +1377,9 @@
           "contact": "7299080594"
         },
         {
-          "name": "Durga Abhishek ",
-          "email": "sonu.d8k@gmail.com",
-          "contact": "8056200471"
+          "name": "SAI SAHITH",
+          "email": "sahithinakota@gmail.com",
+          "contact": "8332010939"
         }
       ],
       "attachments": [],

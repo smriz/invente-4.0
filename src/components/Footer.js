@@ -2,7 +2,7 @@ import React from 'react'
 class Footer extends React.Component{
     render(){
         return <div className="footer holi">
-              <div className='row space-around' style={{color:'#888',background:'#eee'}}>
+              <div className='row space-around' style={{color: '#000000',background: '#FF7F14'}}>
                 <div className="row">
                   <a className='-8p' href="https://www.facebook.com/ssninvente/"><i class="fab fa-facebook-f"></i></a>
                   <a className='-8p' href=""><i class="fab fa-instagram"></i></a>

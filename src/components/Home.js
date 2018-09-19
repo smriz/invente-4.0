@@ -59,7 +59,18 @@ class Home extends React.Component{
 			 <NavLink to='/events/mech/bottle-rockertrix'><img src={'https://images.ssninvente.com/front/bottle.svg'} id="main-bottle" /></NavLink>
 			 <NavLink to='/events/civil/build-it.'><img src={'https://images.ssninvente.com/front/buildit.svg'} id="main-build" /></NavLink>
 			</div>
-		</div>;
+		  <div id="guest-of-honor">
+		        <div id="guest-content">
+				    <div id="head">SSN Welcomes Dr.Narayanan as Our Chief Guest for Invente 3.0</div>
+					<div id="photo">
+					   <img src={require('./narayanan.jpg')} width="200px" height="200px"/>
+					</div>
+					<div id="content">
+					Dr. V Narayanan, an Outstanding Scientist in ISRO, is currently Director, Liquid Propulsion Systems Centre (LPSC), one of the major Centres of the Indian Space Research Organisation (ISRO) having its Headquarters at Valiamala in Thiruvananthapuram and a Unit at Bangalore.He is a Fellow of Indian National Academy of Engineering (FINAE) and Member of Space Propulsion Committee of International Astronautical Federation (IAF) and Member in various National and International Professional Bodies.Dr. V Narayanan is an Alumni of Indian Institute of Technology Kharagpur and has taken his M.Tech. with First Rank in Cryogenic Engineering and Ph.D in Aerospace Engineering. He is a recipient of Silver Medal from IIT Kharagpur for First Rank in M.Tech, Gold Medal from Astronautical Society of India, ASI Award for Rocket and Related Technologies Development and Performance Excellence Award and Team Excellence Awards of ISRO. He is also awarded Honorary Degree of Doctor of Science (Honoris Cause) from Sathyabama University, Chennai in the year 2017. Dr. V Narayanan will join us at SSN College of Engineering to inspire the leaders of tomorrow. Are you ready to get inspire by him? 
+					</div>
+				</div>
+		  </div>
+		  </div>;
 	}
 }
 export default Home;
