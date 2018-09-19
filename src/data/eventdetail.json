@@ -444,7 +444,7 @@
   },
   "it": {
     "applokition": {
-      "last_updated": "9/14/2018 18:33:38",
+      "last_updated": "9/18/2018 21:42:47",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
@@ -456,7 +456,7 @@
       "tagline": null,
       "eventname": "AppLokition",
       "notes": "",
-      "prize": "First Prize:SPI internship, Second Prize:3000 ,Third Prize:2000",
+      "prize": null,
       "intenship": "SPI Cinemas",
       "registrationFee": null,
       "eventHeads": [
@@ -474,8 +474,8 @@
       "attachments": [],
       "rules": [
         [
-          "Strictly team of Three from the same college.",
-          "20 MCQs in 30minutes",
+          "Team of 2 or 3 (Same/Different college)",
+          "20 MCQs in 30minutes related to Android terminologies",
           "One bonus question as tie breaker",
           "Top 5 teams qualify for Round 2",
           "Organizers decision is final."
@@ -668,20 +668,20 @@
       ]
     },
     "webaholic": {
-      "last_updated": "9/12/2018 7:35:11",
+      "last_updated": "9/18/2018 13:40:36",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
       "slug": "webaholic",
-      "venue": "",
-      "timing": "",
+      "venue": "22nd September 2018",
+      "timing": "10:00 am",
       "displayName": "Webaholic",
       "description": "An even which tests the understanding of Web Technology.",
       "tagline": null,
       "eventname": "Webaholic",
       "notes": "",
       "prize": null,
-      "intenship": null,
+      "intenship": "SPI Cinemas",
       "registrationFee": null,
       "eventHeads": [
         {
@@ -700,7 +700,13 @@
         [
           "Pen Paper Round",
           "1. Participants should not use Mobile Phones.",
-          "2. The round goes on for 45 minutes."
+          "2. The round goes on for 30 minutes.",
+          "3. A team can have a maximum of 3 members."
+        ],
+        [
+          "Development Round",
+          "1. On spot topic will be given.",
+          "2. Team should develop a web app based on the topic."
         ]
       ]
     },
@@ -1303,8 +1309,10 @@
       "slug": "1.concrete-challenge",
       "venue": "Concrete technology Lab (In Mechanical Workshop)",
       "timing": "21st September 2018, 11:30 am to 3:30 pm ",
+      "displayName": "Concrete challenge ",
       "description": "Concrete Challenge:\n\nConcrete which the universal material is used for construction purpose worldwide. There are different types of concrete depending on the type of binding material used. Cement which is used as a major binding material is used extensively, commonly known as cement concrete. Many research and developments are happening under this material such that is could me more environmental and user friendly as possible. In this event we urge you to do the same by solving our more fun and realistic problem statement which requires a decent understanding of concrete mix proportions, mold and asthetics. More wastes in this world are produced due to improper usage of recyclable materials.Thus we urge our participants to use this recyclable materials in concrete with practical and innovative thinking.\n\nProblem statement:\n\nThe concrete specimen should be casted to satisfy the following conditions.\n•\tThe concrete specimen must be a cube specimen of dimension 100 x 100 x 100 (All dimensions are in mm). Tolerance up to 5 mm is appreciated.\n•\t3 specimens of the above specification must be casted.\n•\tThe specimen must be casted such that value of it’s compressive strength is maximum (High strength concrete).\n•\tThe density of concrete can be from 1400kg/m3 to 2000 kg/m3.\n•\tOnly M25 grade concrete must be used.\n•\tRecyclable materials must be used as a replacement for aggregates (either partial or full replacement).\n•\tThe cube casted should only have curing period of 3 days and the material added inside the cube for identification purpose will be informed later.\n•\tAn identification marker will be sent by us to all the participants  days before the competition and this must be kept inside the concrete cubes while casting as reference and it is mandatory. Participants without these identification markers will not be permitted in the competition.\n•\tThe cube casted must have a minimum cement content of 300kg/m3.\n•\tThe w/c ratio can be upto 0.55 for the cube casted.\n•\tChemical admixtures can be used.\n•\tThe team participating in the event should have a supervisor, who must be a registered faculty member of any engineering college recognized by government of India.\n•\tStudent must carry the college id card throughout the event.\n•\tPlease keep checking your mails and website for further updates.  \n•\tEvent coordinators and managing professor’s decision is/are final and binding. \n•       Download the attachment or if you find any problem in downloading the attachment,it is accepted to send it in your own format.Hence Fill up the mix design clearly ,scan the document and send to the respective mail id \n•\tThe mix design report must be submitted on or before 17th September 2018(11:59 pm) to \"concrete.ssncivil18@gmail.com\" duly signed by the supervisor.\n•\tThe submitted mix design report will be shortlisted and the selected participants will be sent a mail regarding the same. Only selected participants can take part in the event.\n•\tHard copy of the mix design report should be brought on the day of event.\n•\tThe team with the cube of maximum compressive stress will be the winner.\n•\tThe procedure for casting the concrete specimen must be followed only using IS CODAL PROVISIONS.\n•\tFailure to abide by the above rules will lead to disqualification from the event.\n\n\nScore allotment for the concrete specimen:\n\nThe score allotment for the cube specimen is as follows;\n1.\tDensity of concrete: Out of 10 marks\n(Pre qualification)\n2.\tStrength of cube specimen: Out of 50 marks\n(The marks obtained is directly proportional to strength. As the strength of the specimen is higher, marks awarded also increases).\n3.\tFinishing of the cube specimen: Out of 15 marks\n(The marks awarded will be more when the surfaces of the cube have smooth finishes and the dimensions of the specimen is similar to the problem statement with minimum tolerances).\n4.\tViva-Voce: Out of 10 marks\n(The marks for this session will be awarded by our college professor as per your team performance).\n5.\tMix design report: Out of 15 marks\n(The mix design report will be evaluated by our college professor and marks will be awarded).\nTotal marks: Out of 100 marks.\nThe team/individual will be awarded the prizes as per maximum marks obtained.\n\nNote:\n•\tParticipation for this event must only be group participation. For team (group) participation, minimum upto 2 members and maximum up to4 members are allowed.\n•\tThe above problem statements must be satisfied for being effectively rewarded marks for the specimen.\n•\tParticipation certificate will be provided.\n\n",
       "tagline": "The concrete choice for every application!",
+      "eventname": "Concrete challenge ",
       "notes": "",
       "prize": null,
       "intenship": null,
@@ -1349,7 +1357,7 @@
       ]
     },
     "battle-of-design": {
-      "last_updated": "8/31/2018 10:31:17",
+      "last_updated": "9/18/2018 10:57:05",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "civil",
@@ -1371,9 +1379,9 @@
           "contact": "7299080594"
         },
         {
-          "name": "Durga Abhishek ",
-          "email": "sonu.d8k@gmail.com",
-          "contact": "8056200471"
+          "name": "SAI SAHITH",
+          "email": "sahithinakota@gmail.com",
+          "contact": "8332010939"
         }
       ],
       "attachments": [],
@@ -2414,10 +2422,10 @@
       "slug": "do-you-know-arduino",
       "venue": "Electrical workshop lab, Ground floor, EEE department",
       "timing": "10 AM to 3 PM",
-      "displayName": "Do you know Arduino?",
+      "displayName": "arduino challenge",
       "description": "This is a call out to all dabblers, amateurs and experts at Arduino. Compete with a smorgasbord of students and put your skills to the test. See you on the 22nd of September, and come prepared for a gruelling challenge and we hope to see you victorious and walking away with exciting prizes!!!!",
       "tagline": "Do you even ardui\"know\"?",
-      "eventname": "Do you know Arduino?",
+      "eventname": "arduino challenge",
       "notes": "",
       "prize": " total- 5000",
       "intenship": null,

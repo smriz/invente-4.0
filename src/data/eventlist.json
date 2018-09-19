@@ -52,7 +52,7 @@
       "poseidon": "Poseidon"
    },
    "eee": {
-      "do-you-know-arduino": "Do you know Arduino?",
+      "do-you-know-arduino": "arduino challenge",
       "line-follower": "Line Follower",
       "tech-quiz": "Tech Quiz",
       "electronic-maze": "Electronic Maze",
@@ -93,7 +93,7 @@
       "augmented-reality-and-virtual-reality":"Augmented Reality and Virtual Reality"
    },
    "civil": {
-      "concrete-challenge": "Concrete challenge ",
+      "1.concrete-challenge": "Concrete challenge ",
       "build-it.": "Build - It. ",
       "technical-debate": "Technical Debate",
       "green-turbo": "Green Turbo",
